@@ -16,3 +16,5 @@
 
 ---
 
+### Vídeos
+- [Matemática Mental](https://www.youtube.com/watch?v=_Ps1AEp8s0s) - Vídeo com ideia de construção de material contendo operações de adição, subtração, multiplicação  e divisão, com e sem frações, de acordo com a série de ensino.
