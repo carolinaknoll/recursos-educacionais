@@ -38,6 +38,13 @@ Sugestões de atividades de Conhecimentos gerais:
 
 ## Vida madura em sociedade
 
+### _Dia da Profissão_
+
+- Deve ser escolhido um dia na semana para que se conheça e examine uma profissão.
+- Neste dia, pode-se pesquisar vídeos de "um dia na vida" e textos descrevendo o profissional, a profissão e as atividades realizadas no dia-a-dia de quem trabalha com ela.
+- Para educandos mais velhos, que estão finalizando o Ensino Fundamental ou iniciando o Médio, pode-se solicitar um pequeno trabalho sobre a profissão apresentada, por meio de power-point, cartaz, texto ou fala.
+- Esta dinâmica possui grande valor informativo para que o educando conheça profissões diversas e que possa, no futuro, tomar uma decisão mais contextualizada sobre qual caminho irá tomar, de acordo com seus gostos e suas aptidões.
+
 ### _Dinâmicas de estágio/trabalho/emprego_
 
 ### _Atividade prática - Simulação de um estágio_
