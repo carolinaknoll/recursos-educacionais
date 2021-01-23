@@ -8,9 +8,13 @@
 * [Conteúdo Resumido por Ano](BNCC/Conteúdo_resumido_por_ano)
 * [Links para consulta](BNCC/Links_para_consulta)
 
-- Conhecimentos Gerais
+- Educação Moral
 
-* [Conhecimentos Gerais](Conhecimentos_Gerais/Conhecimentos_Gerais)
+* [Dez Mandamentos](Educação_Moral/Dez_Mandamentos)
+* [Valores](Educação_Moral/Valores)
+* [Virtudes](Educação_Moral/Virtudes)
+* [Temperamentos](Educação_Moral/Temperamentos)
+* [Pecados Capitais](Educação_Moral/Pecados_Capitais)
 
 - Língua Portuguesa
 
@@ -67,3 +71,7 @@
 * [Primeiros Humanos](História/Primeiros_Humanos)
 * [Civilizações Históricas](História/Civilizações_Históricas)
 * [História do Nosso País](História/História_do_Nosso_País)
+
+- Conhecimentos Gerais
+
+* [Conhecimentos Gerais](Conhecimentos_Gerais/Conhecimentos_Gerais)
