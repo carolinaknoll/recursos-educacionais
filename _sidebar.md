@@ -50,3 +50,10 @@
 * [Nosso País](Geografia/Nosso_País)
 * [Biomas](Geografia/Biomas)
 * [Geografia Cultural](Geografia/Geografia_Cultural)
+
+- História
+
+* [Medidas de Tempo](História/Medidas_de_Tempo)
+* [Primeiros Humanos](História/Primeiros_Humanos)
+* [Civilizações Históricas](História/Civilizações_Históricas)
+* [História do Nosso País](História/História_do_Nosso_País)
