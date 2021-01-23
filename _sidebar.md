@@ -12,16 +12,28 @@
 
 * [Conhecimentos Gerais](Conhecimentos_Gerais/Conhecimentos_Gerais)
 
-- Inglês
+- Língua Portuguesa
 
-* [Materiais Diversos](Inglês/Materiais_diversos)
+* [Materiais Diversos](Língua_Inglesa/Materiais_diversos)
+
+- Língua Inglesa
+
+* [Materiais Diversos](Língua_Inglesa/Materiais_diversos)
 
 - Matemática
 
 * [Materiais Diversos](Matemática/Materiais_diversos)
 
-- Montessori
+- Artes
 
-* [Graça e Cortesia](Montessori/Graça_e_cortesia)
-* [Materiais Diversos](Montessori/Materiais_diversos)
-* [Vida Prática](Montessori/Vida_prática)
+* [Materiais Diversos](Matemática/Materiais_diversos)
+
+- Vida Prática
+
+* [Habilidades Básicas](Vida_Prática/Habilidades_básicas)
+* [Cuidado Pessoal](Vida_Prática/Cuidado_pessoal)
+* [Cuidado Ambiental](Vida_Prática/Cuidado_ambiental)
+* [Graça e Cortesia](Vida_Prática/Graça_e_cortesia)
+* [Preparo de Alimentos](Vida_Prática/Preparo_de_alimentos)
+* [Responsabilidade Pessoal](Vida_Prática/Responsabilidade_pessoal)
+* [Materiais Diversos](Vida_Prática/Materiais_diversos)
