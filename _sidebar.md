@@ -26,7 +26,10 @@
 
 - Artes
 
-* [Materiais Diversos](Matemática/Materiais_diversos)
+* [Habilidades Básicas](Artes/Habilidades_Básicas)
+* [Formas da Arte](Artes/Formas_da_Arte)
+* [História da Arte](Artes/História_da_Arte)
+* [Materiais e Técnicas](Artes/Materiais_e_Técnicas)
 
 - Vida Prática
 
