@@ -22,6 +22,16 @@
 
 - Matemática
 
+* [Conceitos Elementares](Matemática/Conceitos_Elementares)
+* [As Quatro Operações](Matemática/As_Quatro_Operações)
+* [Tempo e Dinheiro](Matemática/Tempo_e_Dinheiro)
+* [Medidas](Matemática/Medidas)
+* [Geometria](Matemática/Geometria)
+* [Frações](Matemática/Frações)
+* [Estatística e Probabilidade](Matemática/Estatística_e_Probabilidade)
+* [Números Negativos](Matemática/Números_Negativos)
+* [Resolução de Problemas](Matemática/Resolução_de_Problemas)
+* [Razões, Proporções e Porcentagens](Matemática/Razões_Proporções_e_Porcentagens)
 * [Materiais Diversos](Matemática/Materiais_diversos)
 
 - Artes
