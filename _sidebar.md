@@ -18,7 +18,14 @@
 
 - Língua Portuguesa
 
-* [Materiais Diversos](Língua_Inglesa/Materiais_diversos)
+* [Iniciação a Escrita](Língua_Portuguesa/Iniciação_a_Escrita)
+* [Iniciação a Leitura](Língua_Portuguesa/Iniciação_a_Leitura)
+* [Classes Gramaticais](Língua_Portuguesa/Classes_Gramaticais)
+* [Desenvolvimento de Vocabulário](Língua_Portuguesa/Desenvolvimento_de_Vocabulário)
+* [Capitalização e Pontuação](Língua_Portuguesa/Capitalização_e_Pontuação)
+* [Análise Sintática](Língua_Portuguesa/Análise_Sintática)
+* [Tipos e Gêneros Textuais](Língua_Portuguesa/Tipos_e_Gêneros_Textuais)
+* [Desenvolvimento Textual](Língua_Portuguesa/Desenvolvimento_Textual)
 
 - Língua Inglesa
 
