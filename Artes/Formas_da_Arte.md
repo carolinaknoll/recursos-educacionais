@@ -1,1 +1,1 @@
-<h1 align="center">Artes: Formas da Arte - Educação Domiciliar</h1>
+<h1 align="center">Artes: Formas da Arte</h1>

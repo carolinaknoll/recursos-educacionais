@@ -1,1 +1,1 @@
-<h1 align="center">Matemática: Conceitos Elementares - Educação Domiciliar</h1>
+<h1 align="center">Matemática: Conceitos Elementares</h1>

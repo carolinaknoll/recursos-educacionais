@@ -1,1 +1,1 @@
-<h1 align="center">Geografia: Biomas - Educação Domiciliar</h1>
+<h1 align="center">Geografia: Biomas</h1>

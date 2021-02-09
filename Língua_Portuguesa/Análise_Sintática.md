@@ -1,1 +1,1 @@
-<h1 align="center">Língua Portuguesa: Análise Sintática - Educação Domiciliar</h1>
+<h1 align="center">Língua Portuguesa: Análise Sintática</h1>

@@ -1,4 +1,4 @@
-<h1 align="center">Matemática - Educação Domiciliar</h1>
+<h1 align="center">Matemática</h1>
 <h3 align="center">Recursos relacionados á matemática para famílias que desejam vivenciar a educação domiciliar com seus filhos.</h3>
 
 ### Links úteis
@@ -11,10 +11,11 @@
 
 ### Manipuláveis
 
-- [Cubo letras](https://loja.casaludica.com.br/jogos-educativos/alfabetizacao-letras/cubo-letras) 
+- [Cubo letras](https://loja.casaludica.com.br/jogos-educativos/alfabetizacao-letras/cubo-letras)
 - [Mosaico Geométrico](https://loja.casaludica.com.br/jogos-educativos/mosaico-geometrico)
 
 ---
 
 ### Vídeos
-- [Matemática Mental](https://www.youtube.com/watch?v=_Ps1AEp8s0s) - Vídeo com ideia de construção de material contendo operações de adição, subtração, multiplicação  e divisão, com e sem frações, de acordo com a série de ensino.
+
+- [Matemática Mental](https://www.youtube.com/watch?v=_Ps1AEp8s0s) - Vídeo com ideia de construção de material contendo operações de adição, subtração, multiplicação e divisão, com e sem frações, de acordo com a série de ensino.

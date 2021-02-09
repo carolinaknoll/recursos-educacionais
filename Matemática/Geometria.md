@@ -1,1 +1,1 @@
-<h1 align="center">Matemática: Geometria - Educação Domiciliar</h1>
+<h1 align="center">Matemática: Geometria</h1>

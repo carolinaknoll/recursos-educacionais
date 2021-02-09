@@ -1,1 +1,1 @@
-<h1 align="center">Matemática: Razões, Proporções e Porcentagens - Educação Domiciliar</h1>
+<h1 align="center">Matemática: Razões, Proporções e Porcentagens</h1>

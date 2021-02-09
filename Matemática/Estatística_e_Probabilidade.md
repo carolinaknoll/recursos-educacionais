@@ -1,1 +1,1 @@
-<h1 align="center">Matemática: Estatística e Probabilidade - Educação Domiciliar</h1>
+<h1 align="center">Matemática: Estatística e Probabilidade</h1>

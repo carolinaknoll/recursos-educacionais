@@ -1,1 +1,1 @@
-<h1 align="center">Preparo de Alimentos - Educação Domiciliar</h1>
+<h1 align="center">Preparo de Alimentos</h1>

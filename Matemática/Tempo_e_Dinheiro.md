@@ -1,1 +1,1 @@
-<h1 align="center">Matemática: Tempo e Dinheiro - Educação Domiciliar</h1>
+<h1 align="center">Matemática: Tempo e Dinheiro</h1>

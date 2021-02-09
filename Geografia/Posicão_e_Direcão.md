@@ -1,1 +1,1 @@
-<h1 align="center">Geografia: Posição e Direção - Educação Domiciliar</h1>
+<h1 align="center">Geografia: Posição e Direção</h1>

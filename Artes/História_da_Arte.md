@@ -1,1 +1,1 @@
-<h1 align="center">Artes: História da Arte - Educação Domiciliar</h1>
+<h1 align="center">Artes: História da Arte</h1>

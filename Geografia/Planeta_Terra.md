@@ -1,1 +1,1 @@
-<h1 align="center">Geografia: Planeta Terra - Educação Domiciliar</h1>
+<h1 align="center">Geografia: Planeta Terra</h1>

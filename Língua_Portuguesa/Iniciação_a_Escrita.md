@@ -1,1 +1,1 @@
-<h1 align="center">Língua Portuguesa: Iniciação a Escrita - Educação Domiciliar</h1>
+<h1 align="center">Língua Portuguesa: Iniciação a Escrita</h1>
