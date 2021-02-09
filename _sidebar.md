@@ -10,6 +10,7 @@
 
 - Educação Moral
 
+* [Roteiro de Estudos](Educação_Moral/Roteiro_de_Estudos)
 * [Dez Mandamentos](Educação_Moral/Dez_Mandamentos)
 * [Valores](Educação_Moral/Valores)
 * [Virtudes](Educação_Moral/Virtudes)
@@ -18,6 +19,7 @@
 
 - Língua Portuguesa
 
+* [Roteiro de Estudos](Língua_Portuguesa/Roteiro_de_Estudos)
 * [Iniciação a Escrita](Língua_Portuguesa/Iniciação_a_Escrita)
 * [Iniciação a Leitura](Língua_Portuguesa/Iniciação_a_Leitura)
 * [Classes Gramaticais](Língua_Portuguesa/Classes_Gramaticais)
@@ -29,10 +31,12 @@
 
 - Língua Inglesa
 
+* [Roteiro de Estudos](Língua_Inglesa/Roteiro_de_Estudos)
 * [Materiais Diversos](Língua_Inglesa/Materiais_diversos)
 
 - Matemática
 
+* [Roteiro de Estudos](Matemática/Roteiro_de_Estudos)
 * [Conceitos Elementares](Matemática/Conceitos_Elementares)
 * [As Quatro Operações](Matemática/As_Quatro_Operações)
 * [Tempo e Dinheiro](Matemática/Tempo_e_Dinheiro)
@@ -47,6 +51,7 @@
 
 - Artes
 
+* [Roteiro de Estudos](Artes/Roteiro_de_Estudos)
 * [Habilidades Básicas](Artes/Habilidades_Básicas)
 * [Formas da Arte](Artes/Formas_da_Arte)
 * [História da Arte](Artes/História_da_Arte)
@@ -54,6 +59,7 @@
 
 - Vida Prática
 
+* [Roteiro de Estudos](Vida_Prática/Roteiro_de_Estudos)
 * [Habilidades Básicas](Vida_Prática/Habilidades_básicas)
 * [Cuidado Pessoal](Vida_Prática/Cuidado_pessoal)
 * [Cuidado Ambiental](Vida_Prática/Cuidado_ambiental)
@@ -64,6 +70,7 @@
 
 - Geografia
 
+* [Roteiro de Estudos](Geografia/Roteiro_de_Estudos)
 * [Posição e Direção](Geografia/Posicão_e_Direcão)
 * [Leitura de Mapas](Geografia/Leitura_de_Mapas)
 * [Planeta Terra](Geografia/Planeta_Terra)
@@ -74,6 +81,7 @@
 
 - História
 
+* [Roteiro de Estudos](História/Roteiro_de_Estudos)
 * [Medidas de Tempo](História/Medidas_de_Tempo)
 * [Primeiros Humanos](História/Primeiros_Humanos)
 * [Civilizações Históricas](História/Civilizações_Históricas)
@@ -81,4 +89,5 @@
 
 - Conhecimentos Gerais
 
+* [Roteiro de Estudos](Conhecimentos_Gerais/Roteiro_de_Estudos)
 * [Conhecimentos Gerais](Conhecimentos_Gerais/Conhecimentos_Gerais)
