@@ -42,6 +42,11 @@
 * [Roteiro de Estudos](Língua_Inglesa/Roteiro_de_Estudos)
 * [Materiais Diversos](Língua_Inglesa/Materiais_diversos)
 
+- Literatura
+
+* [Roteiro de Estudos](Literatura/Roteiro_de_Estudos)
+* [Recomendações de Livros](Literatura/Recomendações_de_Livros)
+
 - Matemática
 
 * [Roteiro de Estudos](Matemática/Roteiro_de_Estudos)
