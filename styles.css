@@ -1,0 +1,8 @@
+.sidebar-nav > ul {
+  font-weight: bold;
+}
+
+.sidebar-nav li > a[href^="#/"]:not([href*="?id="]),
+.sidebar-nav li > a[href^="#/"]:not([href*="?id="]) ~ ul a {
+  padding: 0 10px;
+}
