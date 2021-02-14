@@ -17,6 +17,12 @@
 * [Temperamentos](Educação_Moral/Temperamentos)
 * [Pecados Capitais](Educação_Moral/Pecados_Capitais)
 
+- Filosofia
+
+* [Roteiro de Estudos](Filosofia/Roteiro_de_Estudos)
+* [Introdução](Filosofia/Introdução)
+* [Grandes Nomes](Filosofia/Grandes_Nomes)
+
 - Língua Portuguesa
 
 * [Roteiro de Estudos](Língua_Portuguesa/Roteiro_de_Estudos)
