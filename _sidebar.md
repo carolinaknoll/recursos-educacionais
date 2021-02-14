@@ -3,10 +3,12 @@
 * [Página Inicial](/)
 * [Contribuições](CONTRIBUTING)
 
-- Base Nacional Comum Curricular (BNCC)
+- Bases e Exames
 
-* [Conteúdo Resumido por Ano](BNCC/Conteúdo_resumido_por_ano)
-* [Links para consulta](BNCC/Links_para_consulta)
+* [BNCC - Conteúdo Resumido por Ano](Bases_e_Exames/BNCC_Conteúdo_resumido_por_ano)
+* [BNCC - Links para consulta](Bases_e_Exames/BNCC_Links_para_consulta)
+* [ENCCEJA - Comprovação Ens. Fund. e Médio](Bases_e_Exames/ENCCEJA)
+* [ENEM - Porta de entrada para universidade](Bases_e_Exames/ENEM)
 
 - Educação Moral
 
