@@ -1,6 +1,8 @@
 <h1 align="center">Graça e Cortesia</h1>
 
-A matéria de Graça e Cortesia, frequentemente utilizada no método Montessori, engloba atividades que visam orientar a criança em como deve agir em diversas situações. Tais situações são apresentadas à criança como um "teatro de faz de conta", onde os adultos explicam a situação e em seguida a reforçam através da encenação desta com a criança. Para crianças de até seis anos, o foco deve estar no "como". Para as crianças maiores, pode-se explicar o "porquê", pois estarão mais maduras e receptivas à explicação moral destes comportamentos.
+A matéria de Graça e Cortesia, frequentemente utilizada no método Montessori, engloba atividades que visam orientar a criança em como deve agir em diversas situações. Tais situações são apresentadas à criança como um "teatro de faz de conta", onde os adultos explicam a situação e em seguida a reforçam através da encenação desta com a criança.
+
+Cabe aos educadores modelar bons modos, atitudes e hábitos, o que deve ser contínuo e é suficiente para crianças menores. A partir dos três anos, podem ser dadas pequenas "lições", de poucos minutos, encenando situações cotidianas. Para crianças de até seis anos, o foco deve estar no "como". Para as crianças maiores, pode-se explicar o "porquê", pois estarão mais maduras e receptivas à explicação moral destes comportamentos.
 
 Sugestões de atividades de Graça e Cortesia:
 
