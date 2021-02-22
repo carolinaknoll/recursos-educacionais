@@ -8,4 +8,6 @@ Recomendações de materiais que podem ser analisados e utilizados durante o dia
 
 - **Portal Educação Clássica** [[Página oficial](https://www.educacaoclassica.com/) / [Livraria](https://www.educacaoclassica.com/livraria)] - Cursos com aulas online para crianças e adultos de inglês, latim, espanhol, literatura, coral e matemática, além de diversas sugestões de bons livros e filmes em sua livraria.
 
+- **Classical Conversations** [[Página EN](https://www.classicalconversations.com/) / [Página BR](https://classicalconversations.com.br/) / [Loja Virtual](https://homeschool.com.br/shop/)] - Programas de Educação Clássica em diversos níveis (Scribblers, Foundations, Essentials e Challenge) com comunidades no Brasil. Loja virtual com materiais de arte, latim e história.
+
 - **Sérgio Morselli - Matemática** [[Página oficial](https://sergiomorselli.com/)] - Apostilas semestrais baseadas no método de Singapura, contemplando oportunidades para a prática de diversas habilidades matemáticas em cada ano. Apostilas fortes e ricas em conteúdo, mas que são suavizadas através de enunciados claros e ilustrações simples e belas desenhadas à mão.
