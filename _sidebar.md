@@ -10,6 +10,11 @@
 * [ENCCEJA - Comprovação Ens. Fund. e Médio](Bases_e_Exames/ENCCEJA)
 * [ENEM - Porta de entrada para universidade](Bases_e_Exames/ENEM)
 
+- Iniciativas e Materiais para Estudos
+
+* [Materiais para Estudos](Iniciativas_e_Materiais/Materiais_para_Estudos)
+* [Brinquedos e Jogos](Iniciativas_e_Materiais/Brinquedos_e_Jogos)
+
 - Educação Moral
 
 * [Roteiro de Estudos](Educação_Moral/Roteiro_de_Estudos)
@@ -104,8 +109,3 @@
 
 * [Roteiro de Estudos](Conhecimentos_Gerais/Roteiro_de_Estudos)
 * [Conhecimentos Gerais](Conhecimentos_Gerais/Conhecimentos_Gerais)
-
-- Jogos, Atividades e Brinquedos
-
-* [Brinquedos](Jogos_Atividades_Brinquedos/Brinquedos)
-* [Jogos](Jogos_Atividades_Brinquedos/Jogos)

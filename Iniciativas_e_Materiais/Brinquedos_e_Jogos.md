@@ -1,6 +1,6 @@
-<h1 align="center">Brinquedos: Recomendações</h1>
+<h1 align="center">Brinquedos e Jogos: Recomendações</h1>
 
-Recomendações de brinquedos simples, abertos, sem exageros de cor ou som que podem ser adquiridos ou sugeridos para presentes.
+Recomendações de brinquedos simples, abertos, sem exageros de cor ou som e de jogos para uso individual ou em grupo que podem ser adquiridos ou sugeridos para presentes.
 
 ---
 
@@ -67,6 +67,8 @@ Recomendações de brinquedos simples, abertos, sem exageros de cor ou som que p
 - Astronomia https://www.amazon.com.br/Grow-3584-Astronomia-Multicor/dp/B07W73D13R/
 - https://www.casadaeducacao.com.br/corrida-de-bolinha-master-em-madeira--lume.7678.html
 - https://www.engenhocabrinquedos.com.br/product-page/quebra-cabe%C3%A7a-viagem-c%C3%B3smica-1000-pe%C3%A7as
+- Uno
+- Rummikub
 
 ---
 
