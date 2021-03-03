@@ -11,3 +11,11 @@ Recomendações de materiais que podem ser analisados e utilizados durante o dia
 - **Classical Conversations** [[Página EN](https://www.classicalconversations.com/) / [Página BR](https://classicalconversations.com.br/) / [Loja Virtual](https://homeschool.com.br/shop/)] - Programas de Educação Clássica em diversos níveis (Scribblers, Foundations, Essentials e Challenge) com comunidades no Brasil. Loja virtual com materiais de arte, latim e história.
 
 - **Sérgio Morselli - Matemática** [[Página oficial](https://sergiomorselli.com/)] - Apostilas semestrais baseadas no método de Singapura, contemplando oportunidades para a prática de diversas habilidades matemáticas em cada ano. Apostilas fortes e ricas em conteúdo, mas que são suavizadas através de enunciados claros e ilustrações simples e belas desenhadas à mão.
+
+- **Douglas Bonafe - Matemática e Computação** - [[Página oficial](https://aprenderexatas.com/) / [Linktree](https://linktr.ee/dsbonafe)] - Possui apostilas de matemática e computação para diversas faixas etárias, iniciando aos três ou quatro anos.
+
+- **Editora Auxilium Christianorum - Infantil, Língua Portuguesa e História** - [[Página oficial](https://space.hotmart.com/editora_auxilium_christianorum)] - Apostila de regra de vida para crianças, língua portuguesa (apostilas de caligrafia e análise) e história antiga.
+
+- **Sabedoria em Casa** - [[Página oficial](https://www.sabedoriaemcasa.com.br/)] - Apostilas de lógica, traçado e percepção visual para crianças a partir dos três anos de idade.
+
+- **Educação do Alto - Montessori e Charlotte Mason** [[Linktree](https://linktr.ee/educacaodoalto)] - Currículo anual para crianças de três a oito anos de idade.
