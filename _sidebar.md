@@ -13,6 +13,7 @@
 - Iniciativas e Materiais para Estudos
 
 * [Materiais para Estudos](Iniciativas_e_Materiais/Materiais_para_Estudos)
+* [Palestras e Podcasts](Iniciativas_e_Materiais/Palestras_e_Podcasts)
 * [Brinquedos e Jogos](Iniciativas_e_Materiais/Brinquedos_e_Jogos)
 
 - Educação Moral
