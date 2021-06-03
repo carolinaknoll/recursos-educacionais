@@ -58,7 +58,8 @@
 - Literatura
 
 * [Roteiro de Estudos](Literatura/Roteiro_de_Estudos)
-* [Recomendações de Livros](Literatura/Recomendações_de_Livros)
+* [Para Adultos, Pais e Educadores](Literatura/Para_Adultos_Pais_e_Educadores)
+* [Para Crianças, Filhos e Educandos](Literatura/Para_Crianças_Filhos_e_Educandos)
 
 - Matemática
 
