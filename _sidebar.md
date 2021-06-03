@@ -10,6 +10,13 @@
 * [ENCCEJA - Comprovação Ens. Fund. e Médio](Bases_e_Exames/ENCCEJA)
 * [ENEM - Porta de entrada para universidade](Bases_e_Exames/ENEM)
 
+- Comunidade
+
+* [Grupos de Apoio](Comunidade/Grupos_de_Apoio)
+* [Calendário de Eventos](Comunidade/Calendário_de_Eventos)
+* [Locais Físicos](Comunidade/Locais_Físicos)
+* [Professores e Alunos Avançados](Comunidade/Professores_e_Alunos_Avançados)
+
 - Iniciativas e Materiais para Estudos
 
 * [Materiais para Estudos](Iniciativas_e_Materiais/Materiais_para_Estudos)
