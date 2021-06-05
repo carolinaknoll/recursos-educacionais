@@ -2,6 +2,6 @@
 
 Aqui se encontram locais de interesse para complementar os estudos, como bibliotecas e parques públicos, planetários e zoológicos.
 
-Para cadastrar um local, por favor utilize este formulário.
+Para cadastrar um local, por favor utilize [este formulário](https://forms.gle/3Gk9RZwUnq5bqW18A).
 
 ---

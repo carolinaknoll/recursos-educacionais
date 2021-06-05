@@ -2,6 +2,6 @@
 
 Abaixo está a lista de grupos de apoio abertos a autoestudo e educação domiciliar, separados por cidade e estado.
 
-Para cadastrar um grupo de apoio, por favor utilize este formulário.
+Para cadastrar um grupo de apoio, por favor utilize [este](https://forms.gle/jSooEYsrawLdyZY38) formulário.
 
 ---
