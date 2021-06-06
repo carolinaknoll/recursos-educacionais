@@ -10,6 +10,11 @@
 * [Locais Físicos](Comunidade/Locais_Físicos)
 * [Professores e Alunos Avançados](Comunidade/Professores_e_Alunos_Avançados)
 
+- Apoio Legal
+
+* [Contatos Úteis](Apoio_Legal/Contatos_Úteis)
+* [Notícias e Artigos](Apoio_Legal/Notícias_e_Artigos)
+
 - Iniciativas e Materiais para Estudos
 
 * [Materiais para Estudos](Iniciativas_e_Materiais/Materiais_para_Estudos)
