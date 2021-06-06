@@ -1,1 +1,1 @@
-<h1 align="center">Geografia: Continentes</h1>
+<h1 align="center">Geografia - Continentes</h1>

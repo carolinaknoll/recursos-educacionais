@@ -1,4 +1,4 @@
-<h1 align="center">História: Roteiro de Estudos</h1>
+<h1 align="center">História - Roteiro de Estudos</h1>
 
 Há várias formas para seguir o caminho da história. O mais básico é estudar o que as grades curriculares de escolas próximas a si ou até da própria BNCC estejam ensinando, e buscar materiais ou até mesmo as próprias apostilas utilizadas pelas escolas.
 

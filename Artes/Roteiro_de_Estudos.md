@@ -1,1 +1,1 @@
-<h1 align="center">Artes: Roteiro de Estudos</h1>
+<h1 align="center">Artes - Roteiro de Estudos</h1>

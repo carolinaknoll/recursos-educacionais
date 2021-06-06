@@ -1,1 +1,1 @@
-<h1 align="center">Filosofia: Introdução</h1>
+<h1 align="center">Filosofia - Introdução</h1>

@@ -1,1 +1,1 @@
-<h1 align="center">Música: Roteiro de Estudos</h1>
+<h1 align="center">Música - Roteiro de Estudos</h1>

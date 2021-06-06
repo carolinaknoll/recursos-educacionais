@@ -1,1 +1,1 @@
-<h1 align="center">Língua Portuguesa: Iniciação a Leitura</h1>
+<h1 align="center">Língua Portuguesa - Iniciação a Leitura</h1>

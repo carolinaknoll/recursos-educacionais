@@ -1,1 +1,1 @@
-<h1 align="center">História: Primeiros Humanos</h1>
+<h1 align="center">História - Primeiros Humanos</h1>

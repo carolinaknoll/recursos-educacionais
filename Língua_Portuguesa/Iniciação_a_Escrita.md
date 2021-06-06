@@ -1,4 +1,4 @@
-<h1 align="center">Língua Portuguesa: Iniciação a Escrita</h1>
+<h1 align="center">Língua Portuguesa - Iniciação a Escrita</h1>
 
 O processo de preparo para a escrita pode ser iniciado com crianças ainda pequenas, de cerca de um ano e meio a dois anos, e envolve exercícios de vida prática que treinarão a coordenação das mãos e a mente para que consiga discernir traços e coordenar seus movimentos.
 

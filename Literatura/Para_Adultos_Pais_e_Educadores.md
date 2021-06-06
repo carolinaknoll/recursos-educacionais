@@ -1,4 +1,4 @@
-<h1 align="center">Literatura: Para Adultos, Pais e Educadores</h1>
+<h1 align="center">Literatura - Para Adultos, Pais e Educadores</h1>
 
 As recomendações de livros abaixo estão dispostas em tópicos. Não é necessário adquirir todos os livros aqui citados - utilize discrição -, porém convém pesquisar a respeito dos que lhe chamarem maior atenção.
 

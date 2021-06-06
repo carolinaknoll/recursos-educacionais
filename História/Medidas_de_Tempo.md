@@ -1,1 +1,1 @@
-<h1 align="center">História: Medidas de Tempo</h1>
+<h1 align="center">História - Medidas de Tempo</h1>

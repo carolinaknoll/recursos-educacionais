@@ -1,4 +1,4 @@
-<h1 align="center">Vida Prática: Materiais Diversos</h1>
+<h1 align="center">Vida Prática - Materiais Diversos</h1>
 
 ### Links úteis
 

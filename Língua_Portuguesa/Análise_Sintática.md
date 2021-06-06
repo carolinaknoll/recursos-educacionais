@@ -1,1 +1,1 @@
-<h1 align="center">Língua Portuguesa: Análise Sintática</h1>
+<h1 align="center">Língua Portuguesa - Análise Sintática</h1>

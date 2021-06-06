@@ -1,1 +1,1 @@
-<h1 align="center">Matemática: Roteiro de Estudos</h1>
+<h1 align="center">Matemática - Roteiro de Estudos</h1>

@@ -1,4 +1,4 @@
-<h1 align="center">Materiais para Estudos: Recomendações</h1>
+<h1 align="center">Materiais para Estudos - Recomendações</h1>
 
 Recomendações de materiais que podem ser analisados e utilizados durante o dia a dia de estudos individuais.
 

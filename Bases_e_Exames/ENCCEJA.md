@@ -1,4 +1,4 @@
-<h1 align="center">ENCCEJA: Comprovação Ensino Fundamental e Ensino Médio</h1>
+<h1 align="center">ENCCEJA - Comprovação Ensino Fundamental e Ensino Médio</h1>
 
 O Encceja é um exame voluntário, gratuito e destinado a jovens e adultos que não tiveram oportunidade de concluir seus estudos na idade apropriada para cada nível de ensino: no mínimo, 15 (quinze) anos completos para o Ensino Fundamental, e no mínimo 18 (dezoito) anos completos para o Ensino Médio. Também pode ser realizado por indivíduos ou famílias que realizam autoestudo, ou educação domiciliar.
 

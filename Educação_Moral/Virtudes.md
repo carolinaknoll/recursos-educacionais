@@ -1,1 +1,1 @@
-<h1 align="center">Educação Moral: As Virtudes</h1>
+<h1 align="center">Educação Moral - As Virtudes</h1>

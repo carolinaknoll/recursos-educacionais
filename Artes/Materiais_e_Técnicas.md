@@ -1,1 +1,1 @@
-<h1 align="center">Artes: Materiais e Técnicas</h1>
+<h1 align="center">Artes - Materiais e Técnicas</h1>

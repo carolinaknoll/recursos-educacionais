@@ -1,1 +1,1 @@
-<h1 align="center">Matemática: As Quatro Operações</h1>
+<h1 align="center">Matemática - As Quatro Operações</h1>

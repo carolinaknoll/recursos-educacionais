@@ -1,4 +1,4 @@
-<h1 align="center">Brinquedos e Jogos: Recomendações</h1>
+<h1 align="center">Brinquedos e Jogos - Recomendações</h1>
 
 Recomendações de brinquedos simples, abertos, sem exageros de cor ou som e de jogos para uso individual ou em grupo que podem ser adquiridos ou sugeridos para presentes.
 

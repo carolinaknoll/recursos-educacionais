@@ -3,13 +3,6 @@
 * [Página Inicial](/)
 * [Contribuições](CONTRIBUTING)
 
-- Bases e Exames
-
-* [BNCC - Conteúdo Resumido por Ano](Bases_e_Exames/BNCC_Conteúdo_resumido_por_ano)
-* [BNCC - Links para consulta](Bases_e_Exames/BNCC_Links_para_consulta)
-* [ENCCEJA - Comprovação Ens. Fund. e Médio](Bases_e_Exames/ENCCEJA)
-* [ENEM - Porta de entrada para universidade](Bases_e_Exames/ENEM)
-
 - Comunidade
 
 * [Grupos de Apoio](Comunidade/Grupos_de_Apoio)
@@ -22,6 +15,13 @@
 * [Materiais para Estudos](Iniciativas_e_Materiais/Materiais_para_Estudos)
 * [Palestras e Podcasts](Iniciativas_e_Materiais/Palestras_e_Podcasts)
 * [Brinquedos e Jogos](Iniciativas_e_Materiais/Brinquedos_e_Jogos)
+
+- Bases e Exames
+
+* [BNCC - Conteúdo Resumido por Ano](Bases_e_Exames/BNCC_Conteúdo_resumido_por_ano)
+* [BNCC - Links para consulta](Bases_e_Exames/BNCC_Links_para_consulta)
+* [ENCCEJA - Comprovação Ens. Fund. e Médio](Bases_e_Exames/ENCCEJA)
+* [ENEM - Porta de entrada para universidade](Bases_e_Exames/ENEM)
 
 - Educação Moral
 

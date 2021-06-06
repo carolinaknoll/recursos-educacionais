@@ -1,4 +1,4 @@
-<h1 align="center">Filosofia: Grandes Nomes</h1>
+<h1 align="center">Filosofia - Grandes Nomes</h1>
 
 - Platão
 - Isócrates
