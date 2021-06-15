@@ -61,7 +61,7 @@
 - Língua Inglesa
 
 * [Roteiro de Estudos](Língua_Inglesa/Roteiro_de_Estudos)
-* [Materiais Diversos](Língua_Inglesa/Materiais_diversos)
+* [Materiais, Livros e Apostilas](Língua_Inglesa/Materiais_Livros_e_Apostilas)
 
 - Literatura
 
@@ -82,7 +82,7 @@
 * [Números Negativos](Matemática/Números_Negativos)
 * [Resolução de Problemas](Matemática/Resolução_de_Problemas)
 * [Razões, Proporções e Porcentagens](Matemática/Razões_Proporções_e_Porcentagens)
-* [Materiais Diversos](Matemática/Materiais_diversos)
+* [Materiais, Livros e Apostilas](Matemática/Materiais_Livros_e_Apostilas)
 
 - Artes
 

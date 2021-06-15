@@ -2,6 +2,8 @@
 
 Recomendações de materiais que podem ser analisados e utilizados durante o dia a dia de estudos individuais.
 
+---
+
 - **Instituto Cidade de Deus** [[Página oficial](https://editoracidadededeus.com/)] - Apostilas católicas que contemplam a vida escolar a partir dos três anos até o Ensino Médio. Possui todas as disciplinas comuns ao Ensino Fundamental e inclui outras como Apologética, Moral e Geografia Política ao longo do Ensino Médio. O material inclui 10 apostilas anuais contendo avaliações propostas e vídeo-aulas.
 
 - **Família de Trigo** [[Blog](https://www.familiadetrigo.com.br/) / [Loja](https://familia-de-trigo.myshopify.com/)] - Apostilas de alfabetização, grafismo e caligrafia, memória, artes, matemática e tópicos como o espaço e a semana da pátria.

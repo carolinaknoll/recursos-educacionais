@@ -1,5 +1,8 @@
-<h1 align="center">Inglês</h1>
-<h3 align="center">Recursos relacionados á língua inglesa para famílias que desejam vivenciar a educação domiciliar com seus filhos.</h3>
+<h1 align="center">Língua Inglesa - Materiais, Livros e Apostilas</h1>
+
+Encontram-se abaixo sugestões de materiais para o estudo da língua inglesa. Caso tenha o desejo de adicionar algum item, por favor acesse a página de contribuições e cuide se seu vídeo ou material não possui exageros em som, cores ou imagens, e se possui um vocabulário adequado a idade sugerida.
+
+---
 
 ### Currículos com atividades anuais
 

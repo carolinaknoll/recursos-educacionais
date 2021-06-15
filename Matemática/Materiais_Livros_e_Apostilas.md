@@ -1,5 +1,4 @@
-<h1 align="center">Matemática</h1>
-<h3 align="center">Recursos relacionados á matemática para famílias que desejam vivenciar a educação domiciliar com seus filhos.</h3>
+<h1 align="center">Matemática - Materiais, Livros e Apostilas</h1>
 
 ### Links úteis
 

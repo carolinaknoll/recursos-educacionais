@@ -1,5 +1,8 @@
 <h1 align="center">Recursos Educacionais - BNCC</h1>
-<h3 align="center">Resumo dos conteúdos exigidos pela BNCC por ano escolar.</h3>
+
+A lista abaixo apresenta um resumo dos conteúdos exigidos pela BNCC por ano escolar, buscando ser uma fonte mais sucinta e direta do que a base oficial.
+
+---
 
 ## 1° ano
 

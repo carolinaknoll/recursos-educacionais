@@ -4,4 +4,6 @@ O Encceja é um exame voluntário, gratuito e destinado a jovens e adultos que n
 
 Ao realizar a prova e obter a nota mínima, o aplicante receberá uma Certificação de Conclusão de Ensino Fundamental ou do Ensino Médio, que pode ser utilizada como comprovação para início dos estudos da universidade. Além disso, para realizar o exame do Ensino Médio, não é necessário ter realizado, antes, o do Ensino Fundamental.
 
+---
+
 - [Página oficial](http://enccejanacional.inep.gov.br/encceja/#!/inicial)
