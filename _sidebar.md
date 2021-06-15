@@ -55,6 +55,8 @@
 * [Análise Sintática](Língua_Portuguesa/Análise_Sintática)
 * [Tipos e Gêneros Textuais](Língua_Portuguesa/Tipos_e_Gêneros_Textuais)
 * [Desenvolvimento Textual](Língua_Portuguesa/Desenvolvimento_Textual)
+* [Escrita Criativa](Língua_Portuguesa/Escrita_Criativa)
+* [Fichamento](Língua_Portuguesa/Fichamento)
 
 - Língua Inglesa
 
