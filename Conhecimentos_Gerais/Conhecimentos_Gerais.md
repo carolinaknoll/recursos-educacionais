@@ -1,7 +1,6 @@
 <h1 align="center">Conhecimentos Gerais</h1>
-<h3 align="center">Recursos relacionados a Conhecimentos Gerais para famílias que desejam vivenciar a educação domiciliar com seus filhos.</h3>
 
-A matéria de Conhecimentos Gerais é utilizada para abarcar todo aquele assunto que não se encaixa em um método ou dentro de uma disciplina comum como Matemática ou Geografia. É onde são demonstrados assuntos como o que fazer durante uma tempestade grave, ou como funcionam as dinâmicas de um estágio ou trabalho. Sendo assim, é um conjunto de sugestões práticas que podem ser dadas desde a idade infantil até a etapa da vida adulta, de acordo com a maturidade de desenvolvimento do educando, e das prioridades dos pais/educadores.
+A disciplina de Conhecimentos Gerais é utilizada para abarcar todo aquele assunto que não se encaixa em um método ou dentro de uma disciplina comum como Matemática ou Geografia. É onde são demonstrados assuntos como o que fazer durante uma tempestade grave, ou como funcionam as dinâmicas de um estágio ou trabalho. Sendo assim, é um conjunto de sugestões práticas que podem ser dadas desde a idade infantil até a etapa da vida adulta, de acordo com a maturidade de desenvolvimento do educando, e das prioridades dos pais/educadores.
 
 ---
 
@@ -45,14 +44,14 @@ Sugestões de atividades de Conhecimentos gerais:
 - Para educandos mais velhos, que estão finalizando o Ensino Fundamental ou iniciando o Médio, pode-se solicitar um pequeno trabalho sobre a profissão apresentada, por meio de power-point, cartaz, texto ou fala.
 - Esta dinâmica possui grande valor informativo para que o educando conheça profissões diversas e que possa, no futuro, tomar uma decisão mais contextualizada sobre qual caminho irá tomar, de acordo com seus gostos e suas aptidões.
 
-### _Dinâmicas de estágio/trabalho/emprego_
+## _Dinâmicas de estágio/trabalho/emprego_
 
-### _Atividade prática - Simulação de um estágio_
+### _Simulação de um estágio (atividade prática)_
 
 - Devem ser préviamente alinhadas as tarefas que farão parte do estágio, a ser requisitado ao educando, que simulará ser um estagiário
 - Tais tarefas poderão ter caráter educacional, onde serão apresentadas atividades básicas realizadas em um emprego, que podem ter relação com os interesses do educando. Como exemplo, pode ser solicitado que asse um bolo caso tenha interesse em gastronomia ou confeitaria ou uma atividade de programação ou suporte caso tenha interesse por computadores e lógica.
 
-### _Atividade prática - Simulação de um emprego formal_
+### _Simulação de um emprego formal (atividade prática)_
 
 - Devem ser préviamente alinhadas as tarefas que farão parte de um trabalho, a ser requisitado ao educando, que simulará estar empregado
 - Em um emprego formal, normalmente pressupõe-se que o empregado já tenha algum conhecimento e já esteja confortável realizando suas tarefas, mesmo que ocasionalmente precise de ajuda ou tenha dúvidas pontuais. Sendo assim, como exemplo de tarefas podem ser utilizadas idas ao mercado com listas de alimentos, a realização de tarefas de casa ou jardinagem, lavação de automóveis, cuidado de irmãos ou parentes mais novos ou tutoria em seus estudos.
