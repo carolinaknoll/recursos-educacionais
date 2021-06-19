@@ -53,6 +53,8 @@ Após o período elementar, o ensino padrão iniciado pela adição e subtraçã
 | Lógica                  | Identificação de todo e metade                                                                                 |
 | Lógica                  | Uso de palavras posicionais (em cima, em baixo, ao lado, atrás, dentro, fora) para explicar posição de objetos |
 | Lógica                  | Capacidade de contar o tempo pela hora                                                                         |
+| Geometria               | Capacidade de reconhecer as cinco formas básicas (triângulo, retângulo, círculo, quadrado e oval)              |
+| Geometria               | Capacidade de desenhar as cinco formas básicas (triângulo, retângulo, círculo, quadrado e oval)                |
 
 ---
 
