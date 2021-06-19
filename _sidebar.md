@@ -74,7 +74,7 @@
 * [Roteiro de Estudos](Matemática/Roteiro_de_Estudos)
 * [Conceitos Elementares](Matemática/Conceitos_Elementares)
 * [As Quatro Operações](Matemática/As_Quatro_Operações)
-* [Tempo e Dinheiro](Matemática/Tempo_e_Dinheiro)
+* [Sistema Monetário](Matemática/Sistema_Monetário)
 * [Medidas](Matemática/Medidas)
 * [Geometria](Matemática/Geometria)
 * [Frações](Matemática/Frações)
