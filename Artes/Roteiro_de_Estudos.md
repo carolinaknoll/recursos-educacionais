@@ -12,6 +12,8 @@ Após isso, pode-se buscar reproduzir imagens do que há na natureza, como anima
 
 Por fim, um terceiro aspecto é o histórico sobre a Arte, pintores e escultores de importância ao longo dos séculos, suas pinturas e em quais estilos e períodos se situam.
 
+Sugere-se o estudo da arte uma vez por semana, alternando entre criações manuais e leituras sobre períodos históricos, suas características e seus artistas de importância, buscando também a elaboração de projetos relacionados.
+
 ---
 
 ### Habilidades Básicas
