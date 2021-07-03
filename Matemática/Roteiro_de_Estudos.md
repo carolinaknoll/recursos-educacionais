@@ -4,6 +4,14 @@ _"A matemática, vista corretamente, possui não apenas verdade, mas também sup
 
 ---
 
+<div style="float: right; padding-left: 20px">
+
+|                <img height="400" src="../assets/images/Matemática/Francois-LouisLanfantdeMetz_ALessoninMathematics.jpeg" />                |
+| :----------------------------------------------------------------------------------------------------------------------------------------: |
+| [Francois-Louis Lanfant de Metz - Uma Lição em Matemática](https://search.creativecommons.org/photos/187b2903-3519-4119-90ce-3bda35ecd2ed) |
+
+</div>
+
 O estudo da matemática pode ser iniciado desde cedo, e não precisa começar com a escrita de números e pequenas contas de adição. O exercício mais básico já pode ser realizado com bebês de 15 a 18 meses com supervisão, e se trata de colocar exatamente uma coisa em exatamente um espaço, como um botão para cada espacinho em uma forma de gelo. Exercícios como este, indo até o reconhecimento visual de cada número, estão dentro de Conceitos Elementares.
 
 Após o período elementar, o ensino padrão iniciado pela adição e subtração já pode começar. Conceitos básicos podem ser ensinados com a ajuda de materiais manipuláveis, que podem ser utilizados amplamente com crianças de três até cerca dos seis a oito anos, realizando uma passagem gradual do material concreto ao desenho, e do desenho ao abstrato. Após essa idade tais materiais ainda podem ser utilizados, embora com menor uso e com caráter ilustrativo.
