@@ -4,7 +4,7 @@
 
 <div style="float: right; padding-left: 20px">
 
-|               <img height="400" src="../assets/images/Educação_Física/EdgarDegas_TheDanceClass.jpeg" />                |
+|                <img height="400" src="./assets/images/Educação_Física/EdgarDegas_TheDanceClass.jpeg" />                |
 | :--------------------------------------------------------------------------------------------------------------------: |
 | [Edgar Degas - A Aula de Dança (1876)](https://search.creativecommons.org/photos/d71d3214-f39b-4328-a461-5e8183919382) |
 
