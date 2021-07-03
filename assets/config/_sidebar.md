@@ -1,7 +1,7 @@
 - Início
 
 * [Página Inicial](/)
-* [Contribuições](CONTRIBUTING)
+* [Contribuições](Início/CONTRIBUTING)
 
 - Comunidade
 

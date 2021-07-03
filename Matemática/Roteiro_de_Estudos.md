@@ -6,7 +6,7 @@ _"A matemática, vista corretamente, possui não apenas verdade, mas também sup
 
 <div style="float: right; padding-left: 20px">
 
-|                <img height="400" src="../assets/images/Matemática/Francois-LouisLanfantdeMetz_ALessoninMathematics.jpeg" />                |
+|                <img height="400" src="./assets/images/Matemática/Francois-LouisLanfantdeMetz_ALessoninMathematics.jpeg" />                 |
 | :----------------------------------------------------------------------------------------------------------------------------------------: |
 | [Francois-Louis Lanfant de Metz - Uma Lição em Matemática](https://search.creativecommons.org/photos/187b2903-3519-4119-90ce-3bda35ecd2ed) |
 
