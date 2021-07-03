@@ -1,4 +1,4 @@
-<h1 align="center">Graça e Cortesia</h1>
+<h1 align="center">Vida Prática - Graça e Cortesia</h1>
 
 ---
 

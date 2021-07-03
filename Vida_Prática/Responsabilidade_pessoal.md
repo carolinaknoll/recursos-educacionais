@@ -1,3 +1,3 @@
-<h1 align="center">Responsabilidade Pessoal</h1>
+<h1 align="center">Vida Prática - Responsabilidade Pessoal</h1>
 
 ---

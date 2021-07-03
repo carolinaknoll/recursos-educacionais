@@ -1,4 +1,4 @@
-<h1 align="center">Cuidado Ambiental</h1>
+<h1 align="center">Vida Prática - Cuidado Ambiental</h1>
 
 ---
 

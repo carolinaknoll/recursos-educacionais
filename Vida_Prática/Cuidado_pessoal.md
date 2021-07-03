@@ -1,4 +1,4 @@
-<h1 align="center">Cuidado Pessoal</h1>
+<h1 align="center">Vida Prática - Cuidado Pessoal</h1>
 
 ---
 

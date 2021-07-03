@@ -1,4 +1,4 @@
-<h1 align="center">Preparo de Alimentos</h1>
+<h1 align="center">Vida Prática - Preparo de Alimentos</h1>
 
 ---
 
