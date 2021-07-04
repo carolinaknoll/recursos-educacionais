@@ -126,6 +126,14 @@
 
 * [Roteiro de Estudos](Ciências_e_Biologia/Roteiro_de_Estudos)
 
+- Física
+
+* [Roteiro de Estudos](Física/Roteiro_de_Estudos)
+
+- Química
+
+* [Roteiro de Estudos](Química/Roteiro_de_Estudos)
+
 - Educação Física
 
 * [Roteiro de Estudos](Educação_Física/Roteiro_de_Estudos)
