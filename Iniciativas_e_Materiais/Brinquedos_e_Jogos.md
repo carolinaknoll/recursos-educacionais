@@ -14,6 +14,17 @@ Seja com gravetos e pedras, com brinquedos de uso aberto para incentivar a ativi
 
 ---
 
+### Lojas com brinquedos e jogos
+
+- [Brinquedos Uni Duni Tê](https://pt-br.facebook.com/brinquedosUniDuniTe)
+- [Oficina do Aprendiz](https://oficinadoaprendiz.com.br/loja/)
+
+---
+
+### Recomendações sugeridas
+
+As recomendações abaixo são sugestões e podem ser utilizadas caso prefira optar por uma escolha mais rapidamente ao invés de realizar pesquisas mais profundas na lista de lojas acima. Lembre-se de que são apenas sugestões.
+
 #### A partir de 18 meses
 
 - [Loja do Brincar - Encaixe Vertical de Forma Geométrica](https://www.lojadobrincar.com.br/faz-de-conta/brinquedo-madeira-encaixe-vertical-forma-geometrica-18m)
@@ -39,21 +50,21 @@ Seja com gravetos e pedras, com brinquedos de uso aberto para incentivar a ativi
 
 ---
 
-### A partir dos quatro anos
+#### A partir dos quatro anos
 
 - [Amazon - Tudo começa na semente (como os alimentos crescem)](https://www.amazon.com.br/Tudo-Come%C3%A7a-Semente-Alimentos-Crescem/dp/147494454X/)
 - [Loja do Brincar - Piâo em Madeira](https://www.lojadobrincar.com.br/brinquedos/brinquedo-piao-em-madeira-3)
 
 ---
 
-### A partir dos cinco anos
+#### A partir dos cinco anos
 
 - [Amazon - Livro de desenhos incríveis](https://www.amazon.com.br/Livro-Desenhos-Incr%C3%ADveis-Kirsteen-Robson/dp/1474937772/)
 - [Engenhoca Brinquedos - Empilha](https://www.engenhocabrinquedos.com.br/product-page/empilha)
 
 ---
 
-### A partir dos seis anos
+#### A partir dos seis anos
 
 - [Americanas - Ferrorama XP100 Estrela](https://www.americanas.com.br/produto/111160630)
 - [Estrela - Monstronário Folclore Brasileiro](https://www.estrela.com.br/livro-monstronario/p)
@@ -63,14 +74,14 @@ Seja com gravetos e pedras, com brinquedos de uso aberto para incentivar a ativi
 
 ---
 
-### A partir dos sete anos
+#### A partir dos sete anos
 
 - [Amazon - Aprendendo a desenhar](https://www.amazon.com.br/Aprenda-Desenhar-V%C3%A1rios-Autores/dp/8573899875/)
 - [Casa da Educação - Jogo Soletrando](https://www.casadaeducacao.com.br/jogo-soletrando-e-cx-em-cartonado.2518.html)
 
 ---
 
-### A partir dos oito anos
+#### A partir dos oito anos
 
 - [Estrela - Pogobol](https://www.estrela.com.br/pogobol-roxo-e-verde/p)
 - [Amazon - Um desenho por dia](https://www.amazon.com.br/Desenho-por-Dia-Phil-Clarke/dp/1409573699/)
@@ -82,7 +93,7 @@ Seja com gravetos e pedras, com brinquedos de uso aberto para incentivar a ativi
 
 ---
 
-### A partir dos nove anos
+#### A partir dos nove anos
 
 - [Amazon - Animais: Aprenda a Desenhar](https://www.amazon.com.br/Animais-Aprenda-Desenhar-Guia-Completo/dp/0857625446/)
 - [Amazon - Arte para crianças](https://www.amazon.com.br/Arte-Para-Crian%C3%A7as-V%C3%A1rios-Autores/dp/8564517353/)
@@ -90,15 +101,10 @@ Seja com gravetos e pedras, com brinquedos de uso aberto para incentivar a ativi
 
 ---
 
-### A partir dos dez anos
+#### A partir dos dez anos
 
 - [Casa da Educação - Jogo Gramaticartas Cartonado](https://www.casadaeducacao.com.br/jogo-gramaticartas-e-cx-em-cartonado.4759.html)
-- [Casa da Educação - Coleção Miitar - Quebra-cabeça Tanque de Guerra com 144 peças](https://www.casadaeducacao.com.br/colecao-militar-quebra-cabeca-3d-tanque-de-guerra-com-144-pecas--monta-mundi.3432.html)
+- [Casa da Educação - Coleção Militar - Quebra-cabeça Tanque de Guerra com 144 peças](https://www.casadaeducacao.com.br/colecao-militar-quebra-cabeca-3d-tanque-de-guerra-com-144-pecas--monta-mundi.3432.html)
 - [Engenhoca Brinquedos - Kit Braço Hidráulico](https://www.engenhocabrinquedos.com.br/product-page/kit-bra%C3%A7o-hidr%C3%A1ulico)
 
 ---
-
-### Lojas de brinquedos madeira:
-
-- [Brinquedos Uni Duni Tê](https://pt-br.facebook.com/brinquedosUniDuniTe)
-- [Oficina do Aprendiz](https://oficinadoaprendiz.com.br/loja/)
