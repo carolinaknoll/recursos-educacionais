@@ -124,7 +124,7 @@ O método clássico utiliza três ciclos de quatro anos. Pode-se unir o método 
 - O Pouso na Lua
 - O Desastre de Chernobyl
 - A Queda do Muro de Berlim
-- 11 de Setembro de 2011
+- 11 de Setembro de 2001
 
 ---
 
