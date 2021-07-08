@@ -1,4 +1,4 @@
-<h1 align="center">Ciências e Biologia - Roteiro de Estudos</h1>
+<h1 align="center">Biologia - Roteiro de Estudos</h1>
 
 ---
 
@@ -30,12 +30,6 @@ O método clássico utiliza três ciclos de quatro anos. Para o método clássic
 ## Método comum escolar
 
 A título de sugestão, seguem abaixo tópicos de interesse para estudos de acordo com o ano do aluno.
-
-### Ensino Fundamental
-
-Conteúdo em desenvolvimento.
-
----
 
 ### Ensino Médio
 

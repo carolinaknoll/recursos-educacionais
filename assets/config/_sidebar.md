@@ -2,6 +2,7 @@
 
 * [Página Inicial](/)
 * [Contribuições](Início/CONTRIBUTING)
+* [Mapa Amigável](Início/Mapa_Amigável)
 
 - Comunidade
 
