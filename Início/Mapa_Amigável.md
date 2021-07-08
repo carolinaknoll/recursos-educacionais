@@ -41,6 +41,7 @@ Independente das categorias abaixo, cabe ao educador avaliar o momento de iníci
 [Grupos de Apoio](Comunidade/Grupos_de_Apoio)  
 [Calendário de Eventos Presenciais](Comunidade/Calendário_de_Eventos_Presenciais)  
 [Calendário de Eventos Virtuais](Comunidade/Calendário_de_Eventos_Virtuais)  
+[Cursos e Aulas](Comunidade/Cursos_e_Aulas)  
 [Locais Físicos](Comunidade/Locais_Físicos)  
 [Professores e Alunos Avançados](Comunidade/Professores_e_Alunos_Avançados)
 
