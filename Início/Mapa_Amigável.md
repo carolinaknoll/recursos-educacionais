@@ -35,3 +35,35 @@ Independente das categorias abaixo, cabe ao educador avaliar o momento de iníci
 [Vida Prática](Vida_Prática/Roteiro_de_Estudos)
 
 ---
+
+#### Comunidade - Eventos e Grupos
+
+[Grupos de Apoio](Comunidade/Grupos_de_Apoio)  
+[Calendário de Eventos Presenciais](Comunidade/Calendário_de_Eventos_Presenciais)  
+[Calendário de Eventos Virtuais](Comunidade/Calendário_de_Eventos_Virtuais)  
+[Locais Físicos](Comunidade/Locais_Físicos)  
+[Professores e Alunos Avançados](Comunidade/Professores_e_Alunos_Avançados)
+
+---
+
+#### Apoio Legal
+
+[Contatos Úteis](Apoio_Legal/Contatos_Úteis)  
+[Notícias e Artigos](Apoio_Legal/Notícias_e_Artigos)
+
+---
+
+#### Iniciativas e Materiais para Estudos
+
+[Materiais para Estudos](Iniciativas_e_Materiais/Materiais_para_Estudos)  
+[Palestras e Podcasts](Iniciativas_e_Materiais/Palestras_e_Podcasts)  
+[Brinquedos e Jogos](Iniciativas_e_Materiais/Brinquedos_e_Jogos)
+
+---
+
+#### Bases e Exames
+
+[BNCC - Conteúdo Resumido por Ano](Bases_e_Exames/BNCC_Conteúdo_resumido_por_ano)  
+[BNCC - Links para consulta](Bases_e_Exames/BNCC_Links_para_consulta)  
+[ENCCEJA - Comprovação Ens. Fund. e Médio](Bases_e_Exames/ENCCEJA)  
+[ENEM - Porta de entrada para universidade](Bases_e_Exames/ENEM)
