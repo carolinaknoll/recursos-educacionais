@@ -123,9 +123,13 @@
 * [Civilizações Históricas](História/Civilizações_Históricas)
 * [História do Nosso País](História/História_do_Nosso_País)
 
-- Ciências e Biologia
+- Ciências
 
-* [Roteiro de Estudos](Ciências_e_Biologia/Roteiro_de_Estudos)
+* [Roteiro de Estudos](Ciências/Roteiro_de_Estudos)
+
+- Biologia
+
+* [Roteiro de Estudos](Biologia/Roteiro_de_Estudos)
 
 - Física
 
