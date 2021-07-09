@@ -11,18 +11,16 @@
 * [Calendário de Eventos Virtuais](Comunidade/Calendário_de_Eventos_Virtuais)
 * [Cursos e Aulas](Comunidade/Cursos_e_Aulas)
 * [Locais Físicos](Comunidade/Locais_Físicos)
+* [Lojas e Negócios Familiares](Comunidade/Lojas_e_Negócios_Familiares)
 * [Professores e Alunos Avançados](Comunidade/Professores_e_Alunos_Avançados)
+* [Materiais para Estudos](Iniciativas_e_Materiais/Materiais_para_Estudos)
+* [Palestras e Podcasts](Iniciativas_e_Materiais/Palestras_e_Podcasts)
+* [Brinquedos e Jogos](Iniciativas_e_Materiais/Brinquedos_e_Jogos)
 
 - Apoio Legal
 
 * [Contatos Úteis](Apoio_Legal/Contatos_Úteis)
 * [Notícias e Artigos](Apoio_Legal/Notícias_e_Artigos)
-
-- Iniciativas e Materiais para Estudos
-
-* [Materiais para Estudos](Iniciativas_e_Materiais/Materiais_para_Estudos)
-* [Palestras e Podcasts](Iniciativas_e_Materiais/Palestras_e_Podcasts)
-* [Brinquedos e Jogos](Iniciativas_e_Materiais/Brinquedos_e_Jogos)
 
 - Bases e Exames
 
