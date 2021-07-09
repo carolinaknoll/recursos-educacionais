@@ -14,10 +14,10 @@ _Este é o espaço para apoiarmos e ajudarmos uns aos outros, para que todos cre
 
 ### Lojas Virtuais
 
-#### Comidas
+#### Alimentos
 
-[Trapistas Boa Vista](https://www.trapistasboavista.com.br/)  
-[Padaria Trapista](https://www.padariatrapista.com.br/)
+[Trapistas Boa Vista](https://www.trapistasboavista.com.br/) - Chocolates, geléias e kits produzidos artesanalmente pelas irmãs trapistas.  
+[Padaria Trapista](https://www.padariatrapista.com.br/) - Pães, biscoitos e brownies produzidos pelos monges trapistas.
 
 ---
 
