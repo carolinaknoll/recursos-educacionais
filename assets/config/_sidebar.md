@@ -106,21 +106,12 @@
 - Geografia
 
 * [Roteiro de Estudos](Geografia/Roteiro_de_Estudos)
-* [Posição e Direção](Geografia/Posicão_e_Direcão)
-* [Leitura de Mapas](Geografia/Leitura_de_Mapas)
-* [Planeta Terra](Geografia/Planeta_Terra)
-* [Continentes](Geografia/Continentes)
-* [Nosso País](Geografia/Nosso_País)
-* [Biomas](Geografia/Biomas)
-* [Geografia Cultural](Geografia/Geografia_Cultural)
+* [Materiais, Livros e Apostilas](Geografia/Materiais_Livros_e_Apostilas)
 
 - História
 
 * [Roteiro de Estudos](História/Roteiro_de_Estudos)
-* [Medidas de Tempo](História/Medidas_de_Tempo)
-* [Primeiros Humanos](História/Primeiros_Humanos)
-* [Civilizações Históricas](História/Civilizações_Históricas)
-* [História do Nosso País](História/História_do_Nosso_País)
+* [Materiais, Livros e Apostilas](História/Materiais_Livros_e_Apostilas)
 
 - Ciências
 
