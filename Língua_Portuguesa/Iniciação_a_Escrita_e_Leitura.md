@@ -1,6 +1,8 @@
-<h1 align="center">Língua Portuguesa - Iniciação a Escrita</h1>
+<h1 align="center">Língua Portuguesa - Iniciação a Escrita e Leitura</h1>
 
 ---
+
+### Iniciação a Escrita
 
 O processo de preparo para a escrita pode ser iniciado com crianças ainda pequenas, de cerca de um ano e meio a dois anos, e envolve exercícios de vida prática que treinarão a coordenação das mãos e a mente para que consiga discernir traços e coordenar seus movimentos.
 
@@ -61,3 +63,19 @@ Excelente para o treino da forma correta da letra. Utilizar para tracejar as let
 Onde adquirir
 
 - Metal insets https://www.elo7.com.br/material-mobtessori-formas-metalicas-em-madeira/dpara12B6734
+
+---
+
+### Iniciação a Leitura
+
+---
+
+<div style="float: right; padding-left: 20px">
+
+|            <img height="300" src="./assets/images/Língua_Portuguesa/CarltonAlfredSmith_TheFirstLesson.jpeg" />            |
+| :-----------------------------------------------------------------------------------------------------------------------: |
+| [Carlton Alfred Smith - The First Lesson](https://search.creativecommons.org/photos/6a6a21de-4c22-4d21-81eb-ed08b708a1ae) |
+
+</div>
+
+Iniciação a leitura.

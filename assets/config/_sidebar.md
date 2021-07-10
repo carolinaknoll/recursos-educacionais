@@ -47,13 +47,12 @@
 - Língua Portuguesa
 
 * [Roteiro de Estudos](Língua_Portuguesa/Roteiro_de_Estudos)
-* [Iniciação a Escrita](Língua_Portuguesa/Iniciação_a_Escrita)
-* [Iniciação a Leitura](Língua_Portuguesa/Iniciação_a_Leitura)
+* [Materiais, Livros e Apostilas](Língua_Portuguesa/Materiais_Livros_e_Apostilas)
+* [Iniciação a Escrita e Leitura](Língua_Portuguesa/Iniciação_a_Escrita_e_Leitura)
 * [Classes Gramaticais](Língua_Portuguesa/Classes_Gramaticais)
 * [Desenvolvimento de Vocabulário](Língua_Portuguesa/Desenvolvimento_de_Vocabulário)
 * [Capitalização e Pontuação](Língua_Portuguesa/Capitalização_e_Pontuação)
 * [Análise Sintática](Língua_Portuguesa/Análise_Sintática)
-* [Tipos e Gêneros Textuais](Língua_Portuguesa/Tipos_e_Gêneros_Textuais)
 * [Desenvolvimento Textual](Língua_Portuguesa/Desenvolvimento_Textual)
 * [Escrita Criativa](Língua_Portuguesa/Escrita_Criativa)
 * [Fichamento](Língua_Portuguesa/Fichamento)
