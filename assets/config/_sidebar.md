@@ -13,9 +13,9 @@
 * [Locais Físicos](Comunidade/Locais_Físicos)
 * [Lojas e Negócios Familiares](Comunidade/Lojas_e_Negócios_Familiares)
 * [Professores e Alunos Avançados](Comunidade/Professores_e_Alunos_Avançados)
-* [Materiais para Estudos](Iniciativas_e_Materiais/Materiais_para_Estudos)
-* [Palestras e Podcasts](Iniciativas_e_Materiais/Palestras_e_Podcasts)
-* [Brinquedos e Jogos](Iniciativas_e_Materiais/Brinquedos_e_Jogos)
+* [Materiais para Estudos](Comunidade/Materiais_para_Estudos)
+* [Palestras e Podcasts](Comunidade/Palestras_e_Podcasts)
+* [Brinquedos e Jogos](Comunidade/Brinquedos_e_Jogos)
 
 - Apoio Legal
 
@@ -32,6 +32,7 @@
 - Educação Moral
 
 * [Roteiro de Estudos](Educação_Moral/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Educação_Moral/Materiais_Livros_e_Apostilas)
 * [Dez Mandamentos](Educação_Moral/Dez_Mandamentos)
 * [Valores](Educação_Moral/Valores)
 * [Virtudes](Educação_Moral/Virtudes)
@@ -41,6 +42,7 @@
 - Filosofia
 
 * [Roteiro de Estudos](Filosofia/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Filosofia/Materiais_Livros_e_Apostilas)
 * [Introdução](Filosofia/Introdução)
 * [Grandes Nomes](Filosofia/Grandes_Nomes)
 
@@ -71,6 +73,7 @@
 - Matemática
 
 * [Roteiro de Estudos](Matemática/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Matemática/Materiais_Livros_e_Apostilas)
 * [Conceitos Elementares](Matemática/Conceitos_Elementares)
 * [As Quatro Operações](Matemática/As_Quatro_Operações)
 * [Sistema Monetário](Matemática/Sistema_Monetário)
@@ -81,7 +84,6 @@
 * [Números Negativos](Matemática/Números_Negativos)
 * [Resolução de Problemas](Matemática/Resolução_de_Problemas)
 * [Razões, Proporções e Porcentagens](Matemática/Razões_Proporções_e_Porcentagens)
-* [Materiais, Livros e Apostilas](Matemática/Materiais_Livros_e_Apostilas)
 
 - Artes
 
@@ -91,13 +93,13 @@
 - Vida Prática
 
 * [Roteiro de Estudos](Vida_Prática/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Vida_Prática/Materiais_Livros_e_Apostilas)
 * [Habilidades Básicas](Vida_Prática/Habilidades_básicas)
 * [Cuidado Pessoal](Vida_Prática/Cuidado_pessoal)
 * [Cuidado Ambiental](Vida_Prática/Cuidado_ambiental)
 * [Graça e Cortesia](Vida_Prática/Graça_e_cortesia)
 * [Preparo de Alimentos](Vida_Prática/Preparo_de_alimentos)
 * [Responsabilidade Pessoal](Vida_Prática/Responsabilidade_pessoal)
-* [Materiais Diversos](Vida_Prática/Materiais_diversos)
 
 - Geografia
 
@@ -112,24 +114,30 @@
 - Ciências
 
 * [Roteiro de Estudos](Ciências/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Ciências/Materiais_Livros_e_Apostilas)
 
 - Biologia
 
 * [Roteiro de Estudos](Biologia/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Biologia/Materiais_Livros_e_Apostilas)
 
 - Física
 
 * [Roteiro de Estudos](Física/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Física/Materiais_Livros_e_Apostilas)
 
 - Química
 
 * [Roteiro de Estudos](Química/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Química/Materiais_Livros_e_Apostilas)
 
 - Educação Física
 
 * [Roteiro de Estudos](Educação_Física/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Educação_Física/Materiais_Livros_e_Apostilas)
 
 - Conhecimentos Gerais
 
 * [Roteiro de Estudos](Conhecimentos_Gerais/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Conhecimentos_Gerais/Materiais_Livros_e_Apostilas)
 * [Conhecimentos Gerais](Conhecimentos_Gerais/Conhecimentos_Gerais)
