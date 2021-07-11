@@ -29,3 +29,9 @@
 .markdown-section a {
   color: #2a7d58 !important;
 }
+
+.sidebar-nav hr {
+  border-bottom: hidden;
+  width: 90%;
+  background-color: #2a9263;
+}

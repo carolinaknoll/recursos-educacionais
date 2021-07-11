@@ -1,10 +1,10 @@
-<h1 align="center">Vida Prática - Graça e Cortesia</h1>
+<h1 align="center">Conhecimentos Práticos e Gerais - Graça e Cortesia</h1>
 
 ---
 
 <div style="float: right; padding-left: 20px">
 
-|                <img height="500" src="./assets/images/Vida_Prática/EmileMunier_MayIHaveOneToo.jpeg" />                 |
+|                <img height="500" src="./assets/images/Conhecimentos/EmileMunier_MayIHaveOneToo.jpeg" />                |
 | :--------------------------------------------------------------------------------------------------------------------: |
 | [Emile Munier - Posso ter uma também?](https://search.creativecommons.org/photos/66587d24-72fa-4af9-b341-931abe30bf26) |
 

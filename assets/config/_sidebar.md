@@ -29,22 +29,34 @@
 * [ENCCEJA - Comprovação Ens. Fund. e Médio](Bases_e_Exames/ENCCEJA)
 * [ENEM - Porta de entrada para universidade](Bases_e_Exames/ENEM)
 
-- Educação Moral
+---
 
-* [Roteiro de Estudos](Educação_Moral/Roteiro_de_Estudos)
-* [Materiais, Livros e Apostilas](Educação_Moral/Materiais_Livros_e_Apostilas)
-* [Dez Mandamentos](Educação_Moral/Dez_Mandamentos)
-* [Valores](Educação_Moral/Valores)
-* [Virtudes](Educação_Moral/Virtudes)
-* [Temperamentos](Educação_Moral/Temperamentos)
-* [Pecados Capitais](Educação_Moral/Pecados_Capitais)
+- Disciplinas Fundamentais
 
-- Filosofia
+- Artes
 
-* [Roteiro de Estudos](Filosofia/Roteiro_de_Estudos)
-* [Materiais, Livros e Apostilas](Filosofia/Materiais_Livros_e_Apostilas)
-* [Introdução](Filosofia/Introdução)
-* [Grandes Nomes](Filosofia/Grandes_Nomes)
+* [Roteiro de Estudos](Artes/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Artes/Materiais_Livros_e_Apostilas)
+
+- Ciências
+
+* [Roteiro de Estudos](Ciências/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Ciências/Materiais_Livros_e_Apostilas)
+
+- Educação Física
+
+* [Roteiro de Estudos](Educação_Física/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Educação_Física/Materiais_Livros_e_Apostilas)
+
+- Geografia
+
+* [Roteiro de Estudos](Geografia/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Geografia/Materiais_Livros_e_Apostilas)
+
+- História
+
+* [Roteiro de Estudos](História/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](História/Materiais_Livros_e_Apostilas)
 
 - Língua Portuguesa
 
@@ -58,11 +70,6 @@
 * [Desenvolvimento Textual](Língua_Portuguesa/Desenvolvimento_Textual)
 * [Escrita Criativa](Língua_Portuguesa/Escrita_Criativa)
 * [Fichamento](Língua_Portuguesa/Fichamento)
-
-- Língua Inglesa
-
-* [Roteiro de Estudos](Língua_Inglesa/Roteiro_de_Estudos)
-* [Materiais, Livros e Apostilas](Língua_Inglesa/Materiais_Livros_e_Apostilas)
 
 - Literatura
 
@@ -85,36 +92,9 @@
 * [Resolução de Problemas](Matemática/Resolução_de_Problemas)
 * [Razões, Proporções e Porcentagens](Matemática/Razões_Proporções_e_Porcentagens)
 
-- Artes
+---
 
-* [Roteiro de Estudos](Artes/Roteiro_de_Estudos)
-* [Materiais, Livros e Apostilas](Artes/Materiais_Livros_e_Apostilas)
-
-- Vida Prática
-
-* [Roteiro de Estudos](Vida_Prática/Roteiro_de_Estudos)
-* [Materiais, Livros e Apostilas](Vida_Prática/Materiais_Livros_e_Apostilas)
-* [Habilidades Básicas](Vida_Prática/Habilidades_básicas)
-* [Cuidado Pessoal](Vida_Prática/Cuidado_pessoal)
-* [Cuidado Ambiental](Vida_Prática/Cuidado_ambiental)
-* [Graça e Cortesia](Vida_Prática/Graça_e_cortesia)
-* [Preparo de Alimentos](Vida_Prática/Preparo_de_alimentos)
-* [Responsabilidade Pessoal](Vida_Prática/Responsabilidade_pessoal)
-
-- Geografia
-
-* [Roteiro de Estudos](Geografia/Roteiro_de_Estudos)
-* [Materiais, Livros e Apostilas](Geografia/Materiais_Livros_e_Apostilas)
-
-- História
-
-* [Roteiro de Estudos](História/Roteiro_de_Estudos)
-* [Materiais, Livros e Apostilas](História/Materiais_Livros_e_Apostilas)
-
-- Ciências
-
-* [Roteiro de Estudos](Ciências/Roteiro_de_Estudos)
-* [Materiais, Livros e Apostilas](Ciências/Materiais_Livros_e_Apostilas)
+- Disciplinas Médias
 
 - Biologia
 
@@ -131,13 +111,45 @@
 * [Roteiro de Estudos](Química/Roteiro_de_Estudos)
 * [Materiais, Livros e Apostilas](Química/Materiais_Livros_e_Apostilas)
 
-- Educação Física
+---
 
-* [Roteiro de Estudos](Educação_Física/Roteiro_de_Estudos)
-* [Materiais, Livros e Apostilas](Educação_Física/Materiais_Livros_e_Apostilas)
+- Disciplinas Eletivas
 
-- Conhecimentos Gerais
+- Conhecimentos Práticos e Gerais
 
-* [Roteiro de Estudos](Conhecimentos_Gerais/Roteiro_de_Estudos)
-* [Materiais, Livros e Apostilas](Conhecimentos_Gerais/Materiais_Livros_e_Apostilas)
-* [Conhecimentos Gerais](Conhecimentos_Gerais/Conhecimentos_Gerais)
+* [Roteiro de Estudos](Conhecimentos/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Conhecimentos/Materiais_Livros_e_Apostilas)
+* [Habilidades Básicas](Conhecimentos/Habilidades_básicas)
+* [Cuidado Pessoal](Conhecimentos/Cuidado_pessoal)
+* [Cuidado Ambiental](Conhecimentos/Cuidado_ambiental)
+* [Graça e Cortesia](Conhecimentos/Graça_e_cortesia)
+* [Preparo de Alimentos](Conhecimentos/Preparo_de_alimentos)
+* [Responsabilidade Pessoal](Conhecimentos/Responsabilidade_pessoal)
+* [Conhecimentos Gerais](Conhecimentos/Conhecimentos_Gerais)
+
+- Educação Moral
+
+* [Roteiro de Estudos](Educação_Moral/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Educação_Moral/Materiais_Livros_e_Apostilas)
+* [Dez Mandamentos](Educação_Moral/Dez_Mandamentos)
+* [Valores](Educação_Moral/Valores)
+* [Virtudes](Educação_Moral/Virtudes)
+* [Temperamentos](Educação_Moral/Temperamentos)
+* [Pecados Capitais](Educação_Moral/Pecados_Capitais)
+
+- Filosofia
+
+* [Roteiro de Estudos](Filosofia/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Filosofia/Materiais_Livros_e_Apostilas)
+* [Introdução](Filosofia/Introdução)
+* [Grandes Nomes](Filosofia/Grandes_Nomes)
+
+- Língua Inglesa
+
+* [Roteiro de Estudos](Língua_Inglesa/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Língua_Inglesa/Materiais_Livros_e_Apostilas)
+
+- Música
+
+* [Roteiro de Estudos](Música/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Música/Materiais_Livros_e_Apostilas)
