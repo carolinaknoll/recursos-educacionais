@@ -45,6 +45,7 @@ Independente das categorias abaixo, cabe ao educador avaliar o momento de iníci
 [Locais Físicos](Comunidade/Locais_Físicos)  
 [Lojas e Negócios Familiares](Comunidade/Lojas_e_Negócios_Familiares)  
 [Professores e Alunos Avançados](Comunidade/Professores_e_Alunos_Avançados)  
+[Influenciadores e Pessoas Públicas](Comunidade/Influenciadores_e_Pessoas_Públicas)  
 [Materiais para Estudos](Iniciativas_e_Materiais/Materiais_para_Estudos)  
 [Palestras e Podcasts](Iniciativas_e_Materiais/Palestras_e_Podcasts)  
 [Brinquedos e Jogos](Iniciativas_e_Materiais/Brinquedos_e_Jogos)

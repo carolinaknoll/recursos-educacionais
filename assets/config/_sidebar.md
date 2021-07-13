@@ -13,6 +13,7 @@
 * [Locais Físicos](Comunidade/Locais_Físicos)
 * [Lojas e Negócios Familiares](Comunidade/Lojas_e_Negócios_Familiares)
 * [Professores e Alunos Avançados](Comunidade/Professores_e_Alunos_Avançados)
+* [Influenciadores e Pessoas Públicas](Comunidade/Influenciadores_e_Pessoas_Públicas)
 * [Materiais para Estudos](Comunidade/Materiais_para_Estudos)
 * [Palestras e Podcasts](Comunidade/Palestras_e_Podcasts)
 * [Brinquedos e Jogos](Comunidade/Brinquedos_e_Jogos)
