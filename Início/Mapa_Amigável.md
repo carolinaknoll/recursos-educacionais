@@ -39,15 +39,15 @@ Independente das categorias abaixo, cabe ao educador avaliar o momento de iníci
 #### Comunidade - Eventos e Grupos
 
 [Grupos de Apoio](Comunidade/Grupos_de_Apoio)  
+[Influenciadores e Pessoas Públicas](Comunidade/Influenciadores_e_Pessoas_Públicas)  
 [Calendário de Eventos Presenciais](Comunidade/Calendário_de_Eventos_Presenciais)  
 [Calendário de Eventos Virtuais](Comunidade/Calendário_de_Eventos_Virtuais)  
-[Cursos, Aulas e Professores](Comunidade/Cursos_Aulas_e_Professores)
-[Locais Físicos](Comunidade/Locais_Físicos)  
+[Cursos, Aulas e Professores](Comunidade/Cursos_Aulas_e_Professores)  
 [Lojas e Negócios Familiares](Comunidade/Lojas_e_Negócios_Familiares)  
-[Influenciadores e Pessoas Públicas](Comunidade/Influenciadores_e_Pessoas_Públicas)  
-[Materiais para Estudos](Iniciativas_e_Materiais/Materiais_para_Estudos)  
-[Palestras e Podcasts](Iniciativas_e_Materiais/Palestras_e_Podcasts)  
-[Brinquedos e Jogos](Iniciativas_e_Materiais/Brinquedos_e_Jogos)
+[Materiais para Estudos](Comunidade/Materiais_para_Estudos)  
+[Locais Físicos](Comunidade/Locais_Físicos)  
+[Palestras e Podcasts](Comunidade/Palestras_e_Podcasts)  
+[Brinquedos e Jogos](Comunidade/Brinquedos_e_Jogos)
 
 ---
 
