@@ -18,7 +18,7 @@ Observe que a intenção aqui não é que elementos mais leves e divertidos seja
 
 Segue abaixo um cronograma sugerido do que se deve ensinar no Ensino Fundamental. Observe que o material selecionado pelo pai pode ter - ou não - cada um dos tópicos abaixo. Cabe à reta avaliação se e como trabalhá-los. Para a etapa pré-escolar e os primeiros dois anos do Fundamental abaixo, pode-se utilizar as dicas da página [Iniciação à Escrita e Leitura](Língua_Portuguesa/Iniciação_a_Escrita_e_Leitura).
 
-### Primeiro e Segundo Anos
+#### Primeiro e Segundo Anos
 
 A atenção aqui deve estar na correta distinção dos sons e letras alfabéticas, bem como fundamentos de leitura de sons, palavras e pequenas frases. Também engloba a escrita em letra de imprensa e cursiva maiúscula e minúscula, e o uso de pontuação. A prática dos tópicos citados iniciada aqui deve continuar nos próximos anos e permanecer constante e com aumento gradual de dificuldade ao longo de todos os anos de aprendizado.
 
@@ -36,7 +36,9 @@ A atenção aqui deve estar na correta distinção dos sons e letras alfabética
   - Identificação de elementos de uma narrativa lida, tais como personagens, enredo, tempo e espaço;
   - Uso constante do dicionário para o aprendizado de novas palavras e ampliação de vocabulário.
 
-### Terceiro, Quarto e Quinto Anos
+---
+
+#### Terceiro, Quarto e Quinto Anos
 
 Entram aqui os exercícios de acentuação e interpretação de textos, bem como o estudo dos componentes iniciais das Classes Gramaticais: artigo, verbo, substantivo e adjetivo, sua distinção e aplicação.
 
@@ -55,3 +57,25 @@ Entram aqui os exercícios de acentuação e interpretação de textos, bem como
   - Distinção e acentuação de palavras oxítonas, paroxítonas e proparoxítonas.
 - Escrita
   - Elaboração de frases e pequenos textos seguindo as regras aprendidas até o momento.
+
+---
+
+#### Sexto e Sétimo Anos
+
+Nesta fase entram em cena os exercícios de desenvolvimento textual, dado o treino do aluno durante os anos anteriores, para que siga corrigindo vícios e erros de escrita e também possa trabalhar no sentido e ordenação de ideias em textos de acordo com o gênero textual proposto. Além disso, há um aprofundamento maior nas classes gramaticais.
+
+- Classes Gramaticais
+  - Análise da função e das flexões de substantivos e adjetivos e de verbos nos modos Indicativo, Subjuntivo e Imperativo: afirmativo e negativo.
+
+---
+
+#### Oitavo e Nono Anos
+
+- Figuras de linguagem
+  - Análise dos efeitos de figuras de linguagem como ironia, eufemismo, antítese, aliteração, assonância, dentre outras.
+
+---
+
+### Ensino Médio
+
+O conteúdo de Ensino Médio, especialmente durante o primeiro ano, é bastante focado em revisar tudo o que foi aprendido no Ensino Fundamental: pontuação e acentuação, ortografia, classes gramaticais e desenvolvimento textual. Após isto, há um aprofundamento nas classes gramaticais e na interpretação de textos, em preparação para os exames de vestibular.
