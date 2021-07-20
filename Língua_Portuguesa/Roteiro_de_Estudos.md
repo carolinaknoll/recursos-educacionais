@@ -6,7 +6,7 @@ Um profundo conhecimento da língua materna, considerando sua gramática, ortogr
 
 Para atingir este objetivo, é necessário começar cedo e da menor parte, a parte mais básica e introdutória da língua: o som pertencente a cada letra. A partir disso e conforme caminharem os estudos, entram as atividades de correta construção e assimilação de palavras e frases até chegar aos pequenos e aos grandes textos.
 
-O currículo abaixo carrega como base as [normas da BNCC](https://www.alex.pro.br/BNCC%20L%C3%ADngua%20Portuguesa.pdf), já que é essa a base solicitada em exames. Contudo, não se assuste o professor: o aluno não será penalizado caso não conheça o que são os tais _memes_ ou _vlogs_ no Ensino Fundamental. Maior valor possuem os textos que exaltam as virtudes e trazem consigo uma maior riqueza em sentido, propósito e vocabulário.
+O currículo abaixo carrega como base uma versão altamente direta e polida das [normas da BNCC](https://www.alex.pro.br/BNCC%20L%C3%ADngua%20Portuguesa.pdf), já que é essa a base solicitada em exames. Contudo, não se assuste o professor: o aluno não será penalizado caso não conheça o que são os tais _memes_ ou _vlogs_ no Ensino Fundamental. Maior valor possuem os textos que exaltam as virtudes e trazem consigo uma maior riqueza em sentido, propósito e vocabulário.
 
 ---
 
@@ -33,4 +33,25 @@ A atenção aqui deve estar na correta distinção dos sons e letras alfabética
 - Leitura
   - Leitura individual de pequenas histórias e poemas;
   - Leitura compartilhada de histórias maiores e fábulas;
+  - Identificação de elementos de uma narrativa lida, tais como personagens, enredo, tempo e espaço;
   - Uso constante do dicionário para o aprendizado de novas palavras e ampliação de vocabulário.
+
+### Terceiro, Quarto e Quinto Anos
+
+Entram aqui os exercícios de acentuação e interpretação de textos, bem como o estudo dos componentes iniciais das Classes Gramaticais: artigo, verbo, substantivo e adjetivo, sua distinção e aplicação.
+
+- Análise textual
+  - Identificação da ideia central em um texto;
+  - Organização de textos em parágrafos segundo normas gráficas e de acordo com as características do gênero textual;
+  - Identificação e diferenciação do verbo, substantivo e adjetivo em diferentes textos;
+  - Identificção da expressão de presente, passado e futuro em tempos verbais do modo indicativo;
+  - Diferenciação do discurso direto e discurso indireto em textos.
+- Pontuação
+  - Diferencição e uso da vírgula, ponto e vírgula, dois-pontos e travessão;
+  - Reconhecimento do efeito de sentido que decorre do uso de reticências, aspas, parênteses.
+- Ortografia
+  - Leitura e escrita de palavras com correspondências regulares contextuais entre grafemas e fonemas – c/qu; g/gu; r/rr; s/ss; o (e não u) e e (e não i) em sílaba átona em final de palavra – e com marcas de nasalidade (til, m, n);
+  - Leitura e escrita correta de palavras com os dígrafos lh, nh, ch;
+  - Distinção e acentuação de palavras oxítonas, paroxítonas e proparoxítonas.
+- Escrita
+  - Elaboração de frases e pequenos textos seguindo as regras aprendidas até o momento.
