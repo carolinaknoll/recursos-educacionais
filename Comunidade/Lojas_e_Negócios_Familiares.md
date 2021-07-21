@@ -21,7 +21,9 @@ _Este é o espaço para apoiarmos e ajudarmos uns aos outros, para que todos cre
 
 ---
 
-#### Moda modesta feminina
+### Vestuário Modesto
+
+#### Feminino
 
 [Alma Mater Modéstia](https://www.almamatermodestia.com.br/)  
 [Ateliê Piedoso](https://www.ateliepiedoso.com.br/)  
@@ -41,3 +43,13 @@ _Este é o espaço para apoiarmos e ajudarmos uns aos outros, para que todos cre
 [Sou Modesta e uso Saia](https://soumodestaeusosaia.com.br/)  
 [Stella Maris](https://www.stellamarisloja.com.br/)  
 [Treze de Maio Loja](https://trezedemaioloja.lojavirtualnuvem.com.br/)
+
+#### Masculino
+
+Ainda não existem itens para esta categoria.
+
+#### Infantil
+
+Ainda não existem itens para esta categoria.
+
+---
