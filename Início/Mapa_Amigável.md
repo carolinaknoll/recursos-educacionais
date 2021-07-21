@@ -60,7 +60,6 @@ Independente das categorias abaixo, cabe ao educador avaliar o momento de iníci
 
 #### Bases e Exames
 
-[BNCC - Conteúdo Resumido por Ano](Bases_e_Exames/BNCC_Conteúdo_resumido_por_ano)  
 [BNCC - Links para consulta](Bases_e_Exames/BNCC_Links_para_consulta)  
 [ENCCEJA - Comprovação Ens. Fund. e Médio](Bases_e_Exames/ENCCEJA)  
 [ENEM - Porta de entrada para universidade](Bases_e_Exames/ENEM)
