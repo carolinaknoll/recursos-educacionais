@@ -31,6 +31,7 @@ _Este é o espaço para apoiarmos e ajudarmos uns aos outros, para que todos cre
 [Caste Me](https://www.caste.me/)  
 [Fiducia Mea](https://www.fiduciamea.com.br/)  
 [Filha Amada](https://www.filhamada.com/)  
+[Immaculata Mater](https://www.immaculatamater.com.br/)  
 [Loja Modesta](https://www.lojamodesta.com.br/)  
 [Maria Graciosa](https://www.mariagraciosa.com/)  
 [Maria Modesta](https://www.mariamodesta.com.br/)  
@@ -50,6 +51,10 @@ Ainda não existem itens para esta categoria.
 
 #### Infantil
 
-Ainda não existem itens para esta categoria.
+[Becassine Store](https://linktr.ee/becassine.store)
 
 ---
+
+### Artigos Religiosos
+
+[Monte Carmelo Ateliê](https://www.montecarmeloatelie.com/loja/)
