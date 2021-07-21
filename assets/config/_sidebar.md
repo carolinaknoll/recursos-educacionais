@@ -3,6 +3,7 @@
 * [Página Inicial](/)
 * [Contribuições](Início/CONTRIBUTING)
 * [Mapa Amigável](Início/Mapa_Amigável)
+* [Contribuidores e Agradecimentos](Início/Contribuidores_e_Agradecimentos)
 
 - Comunidade
 
