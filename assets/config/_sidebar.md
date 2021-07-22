@@ -119,12 +119,9 @@
 
 * [Roteiro de Estudos](Conhecimentos/Roteiro_de_Estudos)
 * [Materiais, Livros e Apostilas](Conhecimentos/Materiais_Livros_e_Apostilas)
-* [Habilidades Básicas](Conhecimentos/Habilidades_básicas)
-* [Cuidado Pessoal](Conhecimentos/Cuidado_pessoal)
-* [Cuidado Ambiental](Conhecimentos/Cuidado_ambiental)
+* [Habilidades Elementares](Conhecimentos/Habilidades_Elementares)
 * [Graça e Cortesia](Conhecimentos/Graça_e_cortesia)
 * [Preparo de Alimentos](Conhecimentos/Preparo_de_alimentos)
-* [Responsabilidade Pessoal](Conhecimentos/Responsabilidade_pessoal)
 * [Conhecimentos Gerais](Conhecimentos/Conhecimentos_Gerais)
 
 - Educação Moral
