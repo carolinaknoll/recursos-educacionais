@@ -37,6 +37,49 @@ Uma sugestão de curriculo de geografia seguindo os princípios do método clás
 
 As referências para as páginas abaixo possuem o intuito de trazer luz a quais conteúdos estão sendo estudados nas escolas e avaliados em exames. Cabe o julgamento do professor aplicar, ou não, cada um dos tópicos expostos, assim como a maneira mais adequada de fazê-lo.
 
+#### Resumo das habilidades esperadas
+
+Para um estudante de geografia do Ensino Fundamental, de modo geral, a BNCC espera que conheça:
+
+Até o quinto ano:
+
+- Agua: ciclo, importância, uso sustentável e poluição
+- Alterações das paisagens naturais e antrópicas causadas pela da ação do tempo e de processos históricos
+- Diferenças em costumes, tradições, vestuários e hábitos alimentares de acordo com o país e a estação do ano
+- Diferenças entre o campo e a cidade
+- Diferenças étnico-raciais e étnico-culturais e desigualdades sociais entre grupos em diferentes territórios
+- Direções cardeais, uso e criação de mapas e consulta em imagens de satélite
+- Localização espacial de construções e objetos
+- Meios de transporte e de comunicação
+- Órgãos do poder público e canais de participação social
+- Problemas ambientais e possíveis soluções
+- Processo de produção (transformação de matérias primas), circulação e consumo de diferentes produtos
+- Processos migratórios no Brasil
+- Recursos naturais: solo e água no campo e na cidade
+- Tipos de trabalho e comparação de suas atividades
+- Unidades político-administrativas oficiais nacionais (Distrito, Município, Unidade da Federação e grande região)
+
+Do sexto ao nono ano, além dos conteúdos dos anos anteriores:
+
+- Cadeias industriais e inovação no uso dos recursos naturais e matérias-primas
+- Características da população brasileira
+- Característidas da biodiversidade brasileira (Florestas Tropicais, Cerrados, Caatingas, Campos Sulinos e Matas de Araucária)
+- Consumo dos recursos hídricos e o uso das principais bacias hidrográficas no Brasil e no mundo
+- Desigualdades sociais e econômicas e as pressões sobre a natureza e suas riquezas
+- Diferentes fontes de energia (termoelétrica, hidrelétrica, eólica e nuclear) em diferentes países
+- Diferentes formas de uso do solo e recursos hídricos, vantagens e desvantágens em diferentes épocas e lugares
+- Divisão do mundo em Ocidente e Oriente
+- Fluxos de migração na América Latina
+- Globalização e mundialização
+- Organismos de integração do território americano (Mercosul, OEA, OEI, Nafta, Unasul, Alba, Comunidade Andina, Aladi)
+- Papel ambiental e territorial da Antártica e seu valor como área destinada a pesquisa
+- Principais características produtivas dos países latino-americanos (exploração mineral na Venezuela; agricultura de alta especialização e exploração mineira no Chile; circuito da carne nos pampas argentinos e no Brasil; circuito da cana-de-açúcar em Cuba; polígono industrial do sudeste brasileiro e plantações de soja no centro-oeste; maquiladoras mexicanas)
+- Principais recursos hídricos da America Latina
+- Processos de urbanização
+- Produção, distribuição e intercâmbio dos produtos agrícolas no mundo e países BRICS (Brasil, Rússia, Índia, China e África do Sul)
+- Rotas de dispersão da população humana pelo planeta e principais fluxos migratórios em diferentes períodos da história
+- Situação do Brasil e de outros países da América Latina e da África
+
 #### Referências da BNCC
 
 - [Primeiro ao Quinto Ano (anos iniciais)](http://basenacionalcomum.mec.gov.br/abase/#fundamental/geografia-no-ensino-fundamental-anos-iniciais-unidades-tematicas-objetos-de-conhecimento-e-habilidades);
