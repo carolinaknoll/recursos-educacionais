@@ -288,6 +288,10 @@ A coleção de assuntos abaixo segue os conteúdos da [BNCC](http://basenacional
 
 ---
 
+**Aqui, um aviso:** dado que é geralmente nas disciplinas de Geografia e Ciências onde nas escolas atuais são ensinadas versões parciais de certos assuntos mais delicados como aquecimento global, mudanças climáticas e camada de ozônio, recomenda-se um cuidado maior no momento de abordar tais temas, para que o aluno tenha uma visão mais completa e de fontes com opiniões contrastantes acerca destes assuntos.
+
+---
+
 ### Ensino Médio
 
 No ensino médio, a disciplina deixa de ser aplicada, dando lugar a Biologia, que aborda aspectos concretos e em maior profundidade da formação animal, vegetal e dos grandes reinos.

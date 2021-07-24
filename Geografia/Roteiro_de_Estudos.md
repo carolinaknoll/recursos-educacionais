@@ -80,6 +80,8 @@ Do sexto ao nono ano, além dos conteúdos dos anos anteriores:
 - Rotas de dispersão da população humana pelo planeta e principais fluxos migratórios em diferentes períodos da história
 - Situação do Brasil e de outros países da América Latina e da África
 
+**Aqui, um aviso:** dado que é geralmente nas disciplinas de Geografia e Ciências onde nas escolas atuais são ensinadas versões parciais de certos assuntos mais delicados como aquecimento global, mudanças climáticas e camada de ozônio, recomenda-se um cuidado maior no momento de abordar tais temas, para que o aluno tenha uma visão mais completa e de fontes com opiniões contrastantes acerca destes assuntos.
+
 #### Referências da BNCC
 
 - [Primeiro ao Quinto Ano (anos iniciais)](http://basenacionalcomum.mec.gov.br/abase/#fundamental/geografia-no-ensino-fundamental-anos-iniciais-unidades-tematicas-objetos-de-conhecimento-e-habilidades);
