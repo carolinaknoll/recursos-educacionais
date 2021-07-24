@@ -122,7 +122,8 @@
 * [Habilidades Elementares](Conhecimentos/Habilidades_Elementares)
 * [Graça e Cortesia](Conhecimentos/Graça_e_cortesia)
 * [Preparo de Alimentos](Conhecimentos/Preparo_de_alimentos)
-* [Conhecimentos Gerais](Conhecimentos/Conhecimentos_Gerais)
+* [Segurança e Primeiros Socorros](Conhecimentos/Segurança_e_Primeiros_Socorros)
+* [Preparação para o Trabalho e para a Vida Adulta](Conhecimentos/Preparação_para_o_Trabalho_e_para_a_Vida_Adulta)
 
 - Educação Moral
 

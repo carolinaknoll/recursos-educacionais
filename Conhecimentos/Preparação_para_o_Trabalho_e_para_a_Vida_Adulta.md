@@ -1,41 +1,8 @@
-<h1 align="center">Conhecimentos Práticos e Gerais - Conhecimentos Gerais</h1>
-
-A disciplina de Conhecimentos Gerais é utilizada para abarcar todo aquele assunto que não se encaixa em um método ou dentro de uma disciplina comum como Matemática ou Geografia. É onde são demonstrados assuntos como o que fazer durante uma tempestade grave, ou como funcionam as dinâmicas de um estágio ou trabalho. Sendo assim, é um conjunto de sugestões práticas que podem ser dadas desde a idade infantil até a etapa da vida adulta, de acordo com a maturidade de desenvolvimento do educando, e das prioridades dos pais/educadores.
+<h1 align="center">Conhecimentos Práticos e Gerais - Preparação para o Trabalho e para a Vida Adulta</h1>
 
 ---
 
-Sugestões de atividades de Conhecimentos gerais:
-
-## Segurança
-
-### _Energia elétrica_
-
-- Como é gerada
-- Como chega até as cidades e nossa casa
-- Porque devemos ter cuidado com possíveis choques
-- Materiais condutures e não condutores de energia
-- Como agir em uma situação de risco de choque
-
-### Condições adversas
-
-### _Ventos fortes_
-
-- A ação do vento
-- Precauções em uma ventania (guardar objetos que possam voar, trancar as janelas...)
-- Como agir em uma ventania forte
-
----
-
-## Vida prática
-
-### _Comportamentos sociais_
-
-- Como se comportar/vestir/apresentar em uma situação social (pode ser apresentado a crianças ainda pequenas em Montessori - Graça e Cortesia)
-- Discussões e brigas: o que esperar, o que fazer e como reagir
-
----
-
-## Vida madura em sociedade
+# Vida madura em sociedade
 
 ### _Dia da Profissão_
 
