@@ -139,8 +139,6 @@
 
 * [Roteiro de Estudos](Filosofia/Roteiro_de_Estudos)
 * [Materiais, Livros e Apostilas](Filosofia/Materiais_Livros_e_Apostilas)
-* [Introdução](Filosofia/Introdução)
-* [Grandes Nomes](Filosofia/Grandes_Nomes)
 
 - Língua Inglesa
 
