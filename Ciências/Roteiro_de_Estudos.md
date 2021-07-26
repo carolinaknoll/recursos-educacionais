@@ -4,9 +4,9 @@
 
 <div style="float: right; padding-left: 20px">
 
-|            <img height="450" src="./assets/images/Ciências_e_Biologia/ThomasHeaphy_LadywithaParrot.jpeg" />            |
-| :--------------------------------------------------------------------------------------------------------------------: |
-| [Thomas Heaphy - Moça com um Papagaio](https://search.creativecommons.org/photos/28450040-2132-4b41-8c8d-50ff300956cc) |
+|          <img height="450" src="./assets/images/Ciências_e_Biologia/Joseph_Wright_of_Derby-The Synnot_children.jpeg" />          |
+| :------------------------------------------------------------------------------------------------------------------------------: |
+| [Joseph Wright of Derby - As Crianças de Synnot](https://search.creativecommons.org/photos/e028dbbd-ae77-4335-8659-c28a9cd274e8) |
 
 </div>
 
