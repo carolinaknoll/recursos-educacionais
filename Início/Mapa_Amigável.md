@@ -31,6 +31,7 @@ Independente das categorias abaixo, cabe ao educador avaliar o momento de iníci
 [Filosofia](Filosofia/Roteiro_de_Estudos)  
 [Educação Moral](Educação_Moral/Roteiro_de_Estudos)  
 [Língua Inglesa](Língua_Inglesa/Roteiro_de_Estudos)  
+[Lógica, Retórica e Dialética](Lógica_Retória_e_Dialética/Roteiro_de_Estudos)  
 [Música](Música/Roteiro_de_Estudos)  
 [Vida Prática](Vida_Prática/Roteiro_de_Estudos)
 

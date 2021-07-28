@@ -145,6 +145,11 @@
 * [Roteiro de Estudos](Língua_Inglesa/Roteiro_de_Estudos)
 * [Materiais, Livros e Apostilas](Língua_Inglesa/Materiais_Livros_e_Apostilas)
 
+- Lógica, Retórica e Dialética
+
+* [Roteiro de Estudos](Lógica_Retória_e_Dialética/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Lógica_Retória_e_Dialética/Materiais_Livros_e_Apostilas)
+
 - Música
 
 * [Roteiro de Estudos](Música/Roteiro_de_Estudos)
