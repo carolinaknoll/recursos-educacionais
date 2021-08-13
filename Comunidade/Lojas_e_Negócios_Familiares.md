@@ -60,3 +60,7 @@ Ainda não existem itens para esta categoria.
 #### Artigos Religiosos
 
 [Monte Carmelo Ateliê](https://www.montecarmeloatelie.com/loja/)
+
+#### Livros
+
+[Sofus Livros](https://sofuslivros.com.br/)
