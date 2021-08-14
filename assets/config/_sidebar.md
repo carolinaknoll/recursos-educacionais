@@ -76,6 +76,7 @@
 * [Roteiro de Estudos](Literatura/Roteiro_de_Estudos)
 * [Para Adultos, Pais e Educadores](Literatura/Para_Adultos_Pais_e_Educadores)
 * [Para Crianças, Filhos e Educandos](Literatura/Para_Crianças_Filhos_e_Educandos)
+* [Literatura Clássica - Os Grandes Livros](Literatura/Literatura_Clássica_Grandes_Livros)
 
 - Matemática
 
