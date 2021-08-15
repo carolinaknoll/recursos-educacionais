@@ -28,9 +28,11 @@ Ainda não existem itens para esta categoria.
 ##### Feminino
 
 [Alma Mater Modéstia](https://www.almamatermodestia.com.br/)  
+[Ateliê La Salette](https://www.atelielasalette.com.br/)  
 [Ateliê Piedoso](https://www.ateliepiedoso.com.br/)  
 [Bella Virtude](https://bellavirtude.com.br/)  
 [Caste Me](https://www.caste.me/)  
+[Cheia de Graça Modéstia](http://www.cheiadegracamf.com.br/)
 [Fiducia Mea](https://www.fiduciamea.com.br/)  
 [Filha Amada](https://www.filhamada.com/)  
 [Immaculata Mater](https://www.immaculatamater.com.br/)  
@@ -40,9 +42,11 @@ Ainda não existem itens para esta categoria.
 [Menina Moça Moda](https://www.meninamocamoda.com.br/)  
 [Modesta Dama](https://www.modestadama.com.br/)  
 [Modesta Flor](https://modestaflorstore.com.br/)  
+[Patrícia Gampires](https://www.patriciagampires.com.br/)  
 [Saia Modesta](https://www.saiamodesta.com.br/loja/blusas)  
 [Santa Maria - Loja Fitness](https://www.santamaria-lojafitness.com.br/)  
 [Senhorita Moda Comportada](https://www.senhoritamodacomportada.com/)  
+[Singela Veste](https://www.singelaveste.com.br/)  
 [Sou Modesta e uso Saia](https://soumodestaeusosaia.com.br/)  
 [Stella Maris](https://www.stellamarisloja.com.br/)  
 [Treze de Maio Loja](https://trezedemaioloja.lojavirtualnuvem.com.br/)
