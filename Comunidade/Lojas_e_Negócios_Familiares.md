@@ -32,7 +32,7 @@ Ainda não existem itens para esta categoria.
 [Ateliê Piedoso](https://www.ateliepiedoso.com.br/)  
 [Bella Virtude](https://bellavirtude.com.br/)  
 [Caste Me](https://www.caste.me/)  
-[Cheia de Graça Modéstia](http://www.cheiadegracamf.com.br/)
+[Cheia de Graça Modéstia](http://www.cheiadegracamf.com.br/)  
 [Fiducia Mea](https://www.fiduciamea.com.br/)  
 [Filha Amada](https://www.filhamada.com/)  
 [Immaculata Mater](https://www.immaculatamater.com.br/)  
