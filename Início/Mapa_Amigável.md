@@ -8,9 +8,9 @@ Esta página tem o propósito de apresentar, de forma mais clara, as páginas do
 
 A lista abaixo divide as disciplinas em Fundamentais, Médias e Eletivas. Atente-se de que as disciplinas Médias neste caso não apontam disciplinas que devem ser aplicadas apenas no nível de Ensino Médio, mas sim que deve-se esperar até que o aluno possua melhor base na escrita e leitura e nas disciplinas Fundamentais.
 
-Disciplinas eletivas são aquelas que podem ser escolhidas e aplicadas independente do nível do aluno. A quantidade de disciplinas escolhidas, bem como quais e quantos anos cada uma delas será estudada dependerá dos objetivos de cada educador e aluno.
+Disciplinas eletivas são aquelas que podem ser escolhidas e aplicadas independente do nível do aluno. A quantidade de disciplinas escolhidas, bem como quais, com quais frequências, e por quantos anos cada uma delas será estudada dependerá dos objetivos de cada educador e aluno. Pode-se ser também que se queira passar de um estudo informal anterior acerca destas disciplinas para um estudo um pouco mais formal, rigoroso e disciplinado.
 
-Independente das categorias abaixo, cabe ao educador avaliar o momento de início para cada disciplina.
+Uma ênfase necessária é: independente das categorias abaixo, cabe ao educador avaliar o momento de início para cada disciplina.
 
 **Fundamentais**  
 [Artes](Artes/Roteiro_de_Estudos)  
@@ -28,6 +28,7 @@ Independente das categorias abaixo, cabe ao educador avaliar o momento de iníci
 [Biologia](Biologia/Roteiro_de_Estudos)
 
 **Eletivas**  
+[Doutrina Católica](Doutrina_Católica/Roteiro_de_Estudos)  
 [Filosofia](Filosofia/Roteiro_de_Estudos)  
 [Educação Moral](Educação_Moral/Roteiro_de_Estudos)  
 [Língua Inglesa](Língua_Inglesa/Roteiro_de_Estudos)  
