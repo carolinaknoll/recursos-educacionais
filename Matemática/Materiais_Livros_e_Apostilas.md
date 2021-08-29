@@ -10,6 +10,8 @@ Esta página tem o propósito de apresentar recursos para auxílio aos estudos d
 
 - [Primeiros Números - 3 anos A (Sérgio Morselli)](https://sergiomorselli.wordpress.com/primeirosnumeros34/) - Belíssimas apostilas com explicações simples, sem floreios, e ilustrações desenhadas a mão. São duas apostilas por ano, esta é a primeira do primeiro ano de estudos na Matemática. Há outras apostilas do autor, no momento até a primeira série escolar, e asua ideia é desenvolver apostilas que englobam todos os conteúdos necessários para o Ensino Fundamental.
 
+- [Matemática para Jovens Católicos - Seton](https://www.editoramagnificat.com.br/didaticos) - A Seton é conhecida nos Estados Unidos por oferecer materiais católicos sobre diversos temas, desde matemática a história, nutrição e livros de leitura. Em português, por enquanto, estão disponíveis as apostilas de matemática para as séries iniciais. É possível, também, conferir os [materiais da Seton em inglês](https://setonbooks.com/).
+
 ---
 
 ### Manipuláveis

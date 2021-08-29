@@ -10,6 +10,14 @@ Esta página tem o propósito de apresentar recursos para auxílio aos estudos d
 
 #### Materiais de Retórica
 
+##### Progymnasmata
+
+Progymnasmata (em grego clássico: προγυμνάσματα "pré-exercícios"; em latim: praeexercitamina) são uma série de exercícios retóricos preliminares que começaram na Grécia Antiga e continuaram durante o Império Romano. Esses exercícios foram executados por alunos de retórica, que iniciaram a escolaridade entre os doze e os quinze anos. Trata-se, simplificadamente, do ensino da escrita através dos grandes autores. Os materiais abaixo são baseados nestes pré-exercícios, e são organizados em faixas etárias diferentes.
+
+**8 a 10 anos**
+
+[O Touro e a Rã](https://www.materiaisdehomeschooling.com/2020/11/estudo-das-fabulas-progymnasmata-e.html)
+
 ---
 
 #### Materiais de Dialética
