@@ -151,6 +151,11 @@
 * [Roteiro de Estudos](Língua_Inglesa/Roteiro_de_Estudos)
 * [Materiais, Livros e Apostilas](Língua_Inglesa/Materiais_Livros_e_Apostilas)
 
+- Língua Latina
+
+* [Roteiro de Estudos](Língua_Latina/Roteiro_de_Estudos)
+* [Materiais, Livros e Apostilas](Língua_Latina/Materiais_Livros_e_Apostilas)
+
 - Lógica, Retórica e Dialética
 
 * [Roteiro de Estudos](Lógica_Retória_e_Dialética/Roteiro_de_Estudos)
