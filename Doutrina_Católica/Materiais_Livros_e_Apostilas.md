@@ -25,3 +25,9 @@ Esta página tem o propósito de apresentar recursos para auxílio aos estudos d
 [Catecismo Romano - O Catecismo do Concílio de Trento](https://ecclesiae.com.br/catecismo-romano-o-catecismo-do-concilio-de-trento-castela) - Monumental obra da fé católica, obra de referência, indispensável para os párocos, coordenadores de catequese, seminários e casas de formação teológica, que deve ser colocada no conjunto das obras de estudo dos que desejam aprofundar, enriquecer e iluminar o seu conhecimento dos elementos da fé católica. Contém a práxis concionatória, um sumário catequístico, um índice esquemático e um índice analítico-remissivo, para facilitar o seu estudo e compreensão.
 
 [Catecismo ilustrado (2 vols.) Texto e gravuras](https://livraria.deiaetiba.com.br/catecismo-ilustrado) - Uma das coisas mais importantes para a vida espiritual é receber uma boa catequese. O conhecimento claro e coerente dos conteúdos básicos da vida espiritual vai servir como bússola na vida de uma criança na medida em que ela vai crescendo e se tornando cada vez mais responsável por seus atos.
+
+---
+
+### Bíblias e História Sagrada
+
+[Bíblia Ilustrada – História Sagrada escrito - 2 Vol. - Dom Bosco](https://livraria.deiaetiba.com.br/biblia-ilustrada-historia-sagrada-escrito?author_id=5557) - Inspirado pela reação de seus pequenos e jovens ao contar os acontecimentos da História Sagrada. É uma compilação das Sagradas Escrituras que Dom Bosco fez para seus filhos espirituais poderem ter um contato mais simples e ao mesmo tempo profundo com a bíblia, em forma de uma história contínua. Ele é dividido em 7 épocas, que conta desde a criação até os Atos dos Apóstolos e a queda de Jerusalém. No final de cada capítulo Dom Bosco costuma dar um direcionamento espiritual para que aquela leitura possa ser ainda mais frutuosa para a criança.
