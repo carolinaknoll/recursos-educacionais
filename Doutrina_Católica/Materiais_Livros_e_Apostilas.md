@@ -31,3 +31,9 @@ Esta página tem o propósito de apresentar recursos para auxílio aos estudos d
 ### Bíblias e História Sagrada
 
 [Bíblia Ilustrada – História Sagrada escrito - 2 Vol. - Dom Bosco](https://livraria.deiaetiba.com.br/biblia-ilustrada-historia-sagrada-escrito?author_id=5557) - Inspirado pela reação de seus pequenos e jovens ao contar os acontecimentos da História Sagrada. É uma compilação das Sagradas Escrituras que Dom Bosco fez para seus filhos espirituais poderem ter um contato mais simples e ao mesmo tempo profundo com a bíblia, em forma de uma história contínua. Ele é dividido em 7 épocas, que conta desde a criação até os Atos dos Apóstolos e a queda de Jerusalém. No final de cada capítulo Dom Bosco costuma dar um direcionamento espiritual para que aquela leitura possa ser ainda mais frutuosa para a criança.
+
+---
+
+### Exercícios Espirituais e Primeira Comunhão
+
+[Exercícios Espirituais Ilustrados para a Primeira Comunhão - 2 Vol. - Beato Frei Manuel Sancho](https://livraria.deiaetiba.com.br/exercicios-espirituais-ilustrados-para-a-primeira-comunhao---2-vol?manufacturer_id=1562) - Tendo em vista o bem imenso para o progresso espiritual que estes exercícios fizeram para tantas pessoas, não seria conveniente que as crianças não tivessem a oportunidade de tirar frutos de uma prática tão devota e frutuosa. Foi então que descobrimos que o Frei Manoel Sancho aplicou estes Santos Exercícios às crianças com uma impressionante capacidade de adaptar as meditações para as experiências infantis, mas sem perder a seriedade e profundidade própria destas práticas, e os registrou neste livro. Assim, entendemos ser importantíssimo colocar este tesouro à disposição das crianças para que possam ter uma poderosa ferramenta de orientação e progresso espiritual. Contudo, não podemos deixar de observar que as meditações são tão acessíveis e bem preparadas que até mesmo um adulto pode tirar bons frutos em suas próprias práticas espirituais.
