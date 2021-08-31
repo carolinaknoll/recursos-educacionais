@@ -50,6 +50,7 @@ Uma ênfase necessária é: independente das categorias abaixo, cabe ao educador
 [Materiais para Estudos](Comunidade/Materiais_para_Estudos)  
 [Locais Físicos](Comunidade/Locais_Físicos)  
 [Palestras e Podcasts](Comunidade/Palestras_e_Podcasts)  
+[Planejamento e Histórico Escolar](Comunidade/Planejamento_e_Histórico_Escolar)  
 [Brinquedos e Jogos](Comunidade/Brinquedos_e_Jogos)
 
 ---
