@@ -1,4 +1,4 @@
-<h1 align="center">Planejamento e Histórico Escolar</h1>
+<h1 align="center">Organização e Prática - Histórico Escolar</h1>
 
 ---
 

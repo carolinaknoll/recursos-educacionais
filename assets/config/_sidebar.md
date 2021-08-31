@@ -16,8 +16,12 @@
 * [Materiais para Estudos](Comunidade/Materiais_para_Estudos)
 * [Locais Físicos](Comunidade/Locais_Físicos)
 * [Palestras e Podcasts](Comunidade/Palestras_e_Podcasts)
-* [Planejamento e Histórico Escolar](Comunidade/Planejamento_e_Histórico_Escolar)
 * [Brinquedos e Jogos](Comunidade/Brinquedos_e_Jogos)
+
+- Organização e Prática
+
+* [Histórico Escolar](Organização_e_Prática/Histórico_Escolar)
+* [Planejamento e Rotina](Organização_e_Prática/Planejamento_e_Rotina)
 
 - Apoio Legal
 

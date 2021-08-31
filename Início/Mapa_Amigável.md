@@ -55,6 +55,13 @@ Uma ênfase necessária é: independente das categorias abaixo, cabe ao educador
 
 ---
 
+### Organização e Prática
+
+[Histórico Escolar](Organização_e_Prática/Histórico_Escolar)  
+[Planejamento e Rotina](Organização_e_Prática/Planejamento_e_Rotina)
+
+---
+
 #### Apoio Legal
 
 [Contatos Úteis](Apoio_Legal/Contatos_Úteis)  
