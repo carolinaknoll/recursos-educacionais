@@ -39,6 +39,7 @@ Ainda não existem itens para esta categoria.
 [Loja Modesta](https://www.lojamodesta.com.br/)  
 [Maria Graciosa](https://www.mariagraciosa.com/)  
 [Maria Modesta](https://www.mariamodesta.com.br/)  
+[Mater Praxis - Moda Gestante e Lactante](https://www.lojamaterpraxis.com.br/)  
 [Menina Moça Moda](https://www.meninamocamoda.com.br/)  
 [Modesta Dama](https://www.modestadama.com.br/)  
 [Modesta Flor](https://modestaflorstore.com.br/)  
