@@ -35,7 +35,7 @@ Uma ênfase necessária é: independente das categorias abaixo, cabe ao educador
 [Língua Latina](Língua_Latina/Roteiro_de_Estudos)  
 [Lógica, Retórica e Dialética](Lógica_Retória_e_Dialética/Roteiro_de_Estudos)  
 [Música](Música/Roteiro_de_Estudos)  
-[Vida Prática](Vida_Prática/Roteiro_de_Estudos)
+[Conhecimentos Práticos e Gerais](Conhecimentos/Roteiro_de_Estudos)
 
 ---
 
@@ -55,7 +55,7 @@ Uma ênfase necessária é: independente das categorias abaixo, cabe ao educador
 
 ---
 
-### Organização e Prática
+#### Organização e Prática
 
 [Histórico Escolar](Organização_e_Prática/Histórico_Escolar)  
 [Planejamento e Rotina](Organização_e_Prática/Planejamento_e_Rotina)
