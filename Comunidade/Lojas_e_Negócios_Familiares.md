@@ -16,6 +16,10 @@ Ainda não existem itens para esta categoria.
 
 ### Lojas Virtuais
 
+#### Livrarias
+
+[Livrarias parceiras da CEDET](https://cedet.com.br/livrarias-virtuais.php) - A CEDET apoia indivíduos, famílias e projetos para que possam ter suas próprias livrarias. Se você conhece ou acompanha algum deles, é possível que exista uma livraria também. A cada compra na livraria de quem você escolhe, parte do valor é destinada a estes indivíduos.
+
 #### Alimentos
 
 [Trapistas Boa Vista](https://www.trapistasboavista.com.br/) - Chocolates, geléias e kits produzidos artesanalmente pelas irmãs trapistas.  
