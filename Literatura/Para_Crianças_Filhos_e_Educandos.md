@@ -16,9 +16,19 @@ Certas linhas de educação aconselham que durante os primeiros anos a criança 
 
 ##### Três a cinco anos
 
+[O Pote Vazio](https://www.amazon.com.br/Pote-Vazio-V%C3%A1rios-Autores/dp/8533612176/) - Trabalha a honestidade a partir de uma história.
+
 ##### A partir dos quatro anos
 
 [Crianças como você](https://www.amazon.com.br/Crian%C3%A7as-como-voc%C3%AA-Barnabas-Kindersley/dp/8508192932/)
+
+[Onde existe amor, Deus aí está](https://www.amazon.com.br/Onde-Existe-Amor-Deus-Est%C3%A1/dp/8535639187/)
+
+[A Luz do Mundo](https://www.amazon.com.br/Luz-do-Mundo-R-Sproul/dp/8581321968/)
+
+[Robin Hood e outras histórias de aventura para crianças](https://www.amazon.com.br/Robin-Outras-Hist%C3%B3rias-Aventura-Crian%C3%A7as/dp/0857624393/)
+
+[Os doze trabalhos de Hércules e outros mitos para crianças](https://www.amazon.com.br/Trabalhos-H%C3%A9rcules-Outros-Gregos-Crian%C3%A7as/dp/0857625411/)
 
 #### Livros com conteúdo fictício
 
