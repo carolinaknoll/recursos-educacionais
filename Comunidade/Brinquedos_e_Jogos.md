@@ -19,6 +19,7 @@ Seja com gravetos e pedras, com brinquedos de uso aberto para incentivar a ativi
 - [Brinquedos Uni Duni Tê](https://pt-br.facebook.com/brinquedosUniDuniTe)
 - [Oficina do Aprendiz](https://oficinadoaprendiz.com.br/loja/)
 - [Orar e Brincar (Pray&Play)](https://www.orarebrincar.com.br/)
+- [Quando Viramos Pais](https://loja.quandoviramospais.com.br/)
 
 ---
 

@@ -66,6 +66,11 @@ Ainda não existem itens para esta categoria.
 
 ---
 
+#### Vestuário Religioso
+
+[Veste Sacra Camisetas](https://www.vestesacra.com/)  
+[Camisetas Sabatini](https://www.camisetassabatini.com.br/)
+
 #### Artigos Religiosos
 
 [Monte Carmelo Ateliê](https://www.montecarmeloatelie.com/loja/)
