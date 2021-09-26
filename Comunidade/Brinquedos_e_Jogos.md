@@ -56,6 +56,7 @@ As recomendações abaixo são sugestões e podem ser utilizadas caso prefira op
 
 - [Amazon - Tudo começa na semente (como os alimentos crescem)](https://www.amazon.com.br/Tudo-Come%C3%A7a-Semente-Alimentos-Crescem/dp/147494454X/)
 - [Loja do Brincar - Piâo em Madeira](https://www.lojadobrincar.com.br/brinquedos/brinquedo-piao-em-madeira-3)
+- [Grow - Quebra-cabeças Profissões](https://www.lojagrow.com.br/puzzle-profissoes/p)
 
 ---
 
@@ -80,6 +81,8 @@ As recomendações abaixo são sugestões e podem ser utilizadas caso prefira op
 
 - [Amazon - Aprendendo a desenhar](https://www.amazon.com.br/Aprenda-Desenhar-V%C3%A1rios-Autores/dp/8573899875/)
 - [Casa da Educação - Jogo Soletrando](https://www.casadaeducacao.com.br/jogo-soletrando-e-cx-em-cartonado.2518.html)
+- [Grow - Batalha das Letras](https://www.lojagrow.com.br/jogo-batalha-das-letras-03204/p)
+- [Grow - Pega-pega Tabuada](https://www.lojagrow.com.br/jogo-pega-pega-tabuada---grow-01467/p)
 
 ---
 
@@ -92,6 +95,7 @@ As recomendações abaixo são sugestões e podem ser utilizadas caso prefira op
 - [Engenhoca Brinquedos - Quebra-cabeça Viagem Cósmica 1000 peças](https://www.engenhocabrinquedos.com.br/product-page/quebra-cabe%C3%A7a-viagem-c%C3%B3smica-1000-pe%C3%A7as)
 - Uno
 - Rummikub
+- [Grow - Acerte o Acento](https://www.lojagrow.com.br/jogo-acerte-o-acento---grow-02442/p)
 
 ---
 
