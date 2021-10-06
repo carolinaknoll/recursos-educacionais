@@ -25,6 +25,20 @@ O guia abaixo é livre para todas as pessoas, adultos ou crianças, que desejam 
 
 ---
 
+### Amoreira
+
+- Época de plantio:
+- Época de colheita: entre abril e setembro.
+- Tamanho mínimo do vaso:
+- Intensidade da luz solar:
+- Adubo e nutrientes:
+- Regularidade da poda: frequente.
+- Primeira colheita: um ano após o plantio.
+- Regularidade das regas: ao menos duas vezes por semana.
+- Regularidade da reposição de solo e nutrientes:
+
+---
+
 ### Abacaxizeiro
 
 - Época de plantio:
@@ -33,6 +47,20 @@ O guia abaixo é livre para todas as pessoas, adultos ou crianças, que desejam 
 - Intensidade da luz solar:
 - Adubo e nutrientes:
 - Regularidade da poda:
+- Primeira colheita:
+- Regularidade das regas:
+- Regularidade da reposição de solo e nutrientes:
+
+---
+
+### Aceroleira
+
+- Época de plantio:
+- Época de colheita: entre abril e setembro, potencialmente três vezes ao ano.
+- Tamanho mínimo do vaso:
+- Intensidade da luz solar: frequente.
+- Adubo e nutrientes:
+- Regularidade da poda: frequente.
 - Primeira colheita:
 - Regularidade das regas:
 - Regularidade da reposição de solo e nutrientes:
@@ -298,6 +326,34 @@ O guia abaixo é livre para todas as pessoas, adultos ou crianças, que desejam 
 - Tamanho mínimo do vaso:
 - Intensidade da luz solar:
 - Adubo e nutrientes:
+- Regularidade da poda:
+- Primeira colheita:
+- Regularidade das regas:
+- Regularidade da reposição de solo e nutrientes:
+
+---
+
+### Pitangueira
+
+- Época de plantio:
+- Época de colheita:
+- Tamanho mínimo do vaso:
+- Intensidade da luz solar:
+- Adubo e nutrientes:
+- Regularidade da poda:
+- Primeira colheita:
+- Regularidade das regas:
+- Regularidade da reposição de solo e nutrientes:
+
+---
+
+### Romãzeira
+
+- Época de plantio:
+- Época de colheita:
+- Tamanho mínimo do vaso:
+- Intensidade da luz solar: frequente.
+- Adubo e nutrientes: adubo com matéria orgânica.
 - Regularidade da poda:
 - Primeira colheita:
 - Regularidade das regas:
