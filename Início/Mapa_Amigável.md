@@ -28,6 +28,7 @@ Uma ênfase necessária é: independente das categorias abaixo, cabe ao educador
 [Biologia](Biologia/Roteiro_de_Estudos)
 
 **Eletivas**  
+[Cultivo de Alimentos](Cultivo_de_Alimentos/Materiais_Livros_e_Apostilas)
 [Doutrina Católica](Doutrina_Católica/Roteiro_de_Estudos)  
 [Filosofia](Filosofia/Roteiro_de_Estudos)  
 [Educação Moral](Educação_Moral/Roteiro_de_Estudos)  
@@ -58,7 +59,7 @@ Uma ênfase necessária é: independente das categorias abaixo, cabe ao educador
 #### Organização e Prática
 
 [Histórico Escolar](Organização_e_Prática/Histórico_Escolar)  
-[Planejamento e Rotina](Organização_e_Prática/Planejamento_e_Rotina)   
+[Planejamento e Rotina](Organização_e_Prática/Planejamento_e_Rotina)  
 [Calendário - Datas de Importância](Organização_e_Prática/Calendário)
 
 ---
