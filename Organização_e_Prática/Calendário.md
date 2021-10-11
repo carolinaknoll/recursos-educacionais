@@ -74,7 +74,6 @@ Há diversos calendários que buscam relembrar datas especiais. A intenção da 
 - **28**
   - Dia da Educação ([calendário comum](https://www.calendarr.com/brasil/dia-da-educacao/), nacional)
 
-
 ---
 
 ### Maio
@@ -131,12 +130,25 @@ Há diversos calendários que buscam relembrar datas especiais. A intenção da 
 ### Novembro
 
 - **01**
-  - Dia de Todos os Santos([calendário católico](https://www.calendarr.com/brasil/dia-de-todos-os-santos/))
+  - Dia de Todos os Santos ([calendário católico](https://www.calendarr.com/brasil/dia-de-todos-os-santos/))
 - **02**
   - Finados ([calendário católico](https://www.calendarr.com/brasil/finados/))
 
 ---
 
 ### Dezembro
+
+- **Atividades para o mês**
+  - **Cantigas para ler e cantar**
+    - [Flávio Sampaio de Paiva - Cantigas de Natal](https://livraria.deiaetiba.com.br/cantigas-de-natal)
+  - **Leituras individuais ou em família (filhos mais novos)**
+    - [Flávio Sampaio de Paiva - O Presépio das Crianças](https://livraria.deiaetiba.com.br/o-presepio-das-criancas)
+    - [Contos de Natal](https://livraria.deiaetiba.com.br/contos-de-natal)
+    - [A árvore, a canção e o velho - um passeio pelas tradições natalinas](https://www.cultordelivros.com.br/produto/a-arvore-a-cancao-e-o-velho-um-passeio-pelas-tradicoes-natalinas-78493)
+  - **Leituras individuais ou em família (filhos mais velhos)**
+    - [Francisco Faus - Contemplar o Natal](https://livraria.deiaetiba.com.br/contemplar-o-natal)
+    - [Sermões para o Advento e o Natal](https://www.cultordelivros.com.br/produto/sermoes-para-o-advento-e-o-natal-78453)
+    - [Agatha Christie - A aventura do pudim de Natal](https://livraria.deiaetiba.com.br/a-aventura-do-pudim-de-natal)
+    - [São Bernardo de Claraval - Sermões de Natal](https://livraria.deiaetiba.com.br/sermoes-de-natal)
 
 ---

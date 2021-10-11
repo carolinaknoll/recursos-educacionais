@@ -10,6 +10,11 @@ Certas linhas de educação aconselham que durante os primeiros anos a criança 
 
 ### Para ler com as crianças
 
+#### Livros sem idade definida
+
+[A árvore, a canção e o velho - um passeio pelas tradições natalinas](https://www.cultordelivros.com.br/produto/a-arvore-a-cancao-e-o-velho-um-passeio-pelas-tradicoes-natalinas-78493)  
+[Os gatos não têm sete vidas](https://www.cultordelivros.com.br/produto/os-gatos-nao-tem-sete-vidas-78352)
+
 #### Livros fieis à realidade
 
 ##### Dois a quatro anos
@@ -18,17 +23,18 @@ Certas linhas de educação aconselham que durante os primeiros anos a criança 
 
 [O Pote Vazio](https://www.amazon.com.br/Pote-Vazio-V%C3%A1rios-Autores/dp/8533612176/) - Trabalha a honestidade a partir de uma história.
 
+##### A partir dos dois anos
+
+[Chorar faz bem, falar também](https://www.amazon.com.br/Chorar-faz-bem-falar-tamb%C3%A9m/dp/6586858127/)
+
 ##### A partir dos quatro anos
 
-[Crianças como você](https://www.amazon.com.br/Crian%C3%A7as-como-voc%C3%AA-Barnabas-Kindersley/dp/8508192932/)
-
-[Onde existe amor, Deus aí está](https://www.amazon.com.br/Onde-Existe-Amor-Deus-Est%C3%A1/dp/8535639187/)
-
-[A Luz do Mundo](https://www.amazon.com.br/Luz-do-Mundo-R-Sproul/dp/8581321968/)
-
-[Robin Hood e outras histórias de aventura para crianças](https://www.amazon.com.br/Robin-Outras-Hist%C3%B3rias-Aventura-Crian%C3%A7as/dp/0857624393/)
-
-[Os doze trabalhos de Hércules e outros mitos para crianças](https://www.amazon.com.br/Trabalhos-H%C3%A9rcules-Outros-Gregos-Crian%C3%A7as/dp/0857625411/)
+[Crianças como você](https://www.amazon.com.br/Crian%C3%A7as-como-voc%C3%AA-Barnabas-Kindersley/dp/8508192932/)  
+[Onde existe amor, Deus aí está](https://www.amazon.com.br/Onde-Existe-Amor-Deus-Est%C3%A1/dp/8535639187/)  
+[A Luz do Mundo](https://www.amazon.com.br/Luz-do-Mundo-R-Sproul/dp/8581321968/)  
+[Robin Hood e outras histórias de aventura para crianças](https://www.amazon.com.br/Robin-Outras-Hist%C3%B3rias-Aventura-Crian%C3%A7as/dp/0857624393/)  
+[Os doze trabalhos de Hércules e outros mitos para crianças](https://www.amazon.com.br/Trabalhos-H%C3%A9rcules-Outros-Gregos-Crian%C3%A7as/dp/0857625411/)  
+[Já sei ler!](https://www.amazon.com.br/sei-Ler-Vera-L%C3%BAcia-Dias/dp/8566675061/)
 
 #### Livros com conteúdo fictício
 
@@ -58,6 +64,15 @@ A leitura de livros infantis já conhecidos pela criança e lidos pelos pais div
 #### Livros fieis à realidade
 
 #### Livros com conteúdo fictício
+
+---
+
+### Livros Infantojuvenis
+
+Os livros abaixo abordam temas mais aprofundados, como explicações sobre as virtudes, tradições e reflexões mais detalhadas. São bons livros para alunos adolescentes ou jovens adultos que buscam explicações e motivos para as coisas.
+
+[A cor do trigo](https://www.cultordelivros.com.br/produto/a-cor-do-trigo-78240) - O livro apresenta as reflexões de uma menina que "não cabe no mundo", segundo sua própria definição. Não é uma autobiografia. São reflexões sobre suas experiências do dia-a-dia, um retrato lúcido e bem-humorado de suas lutas, dilemas, indignação muitas vezes, mas tudo regado com muita alegria, determinação, amor, esperança e fé. Sobretudo a fé, que dá sentido à sua procura e sinaliza a direção a seguir (descrição de O Cultor de Livros).  
+[Francisco Faus - A Conquista das Virtudes](https://www.cultordelivros.com.br/produto/a-conquista-das-virtudes-78238)
 
 ---
 
