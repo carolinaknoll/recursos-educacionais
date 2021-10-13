@@ -6,8 +6,12 @@ Encontram-se abaixo sugestões de materiais para o estudo da língua inglesa. Ca
 
 ### Currículos com atividades anuais
 
-- [Inglês Vivo 2.0](https://www.educacaoclassica.com/inglesvivo2.0) - Baseado na Educação Clássica, possui planos com 20 aulas mensais para crianças de 2 a 6 anos, com assinatura mensal e anual.
 - [Our World - Starter](https://www.amazon.com.br/Our-World-Starter-Student-Book/dp/1305114051/) - A coleção utiliza imagens reais do National Geographic para o ensino da língua.
+
+#### Currículos elaborados por famílias educadoras
+
+- [Inglês Vivo 2.0](https://www.educacaoclassica.com/inglesvivo2.0) - Baseado na Educação Clássica, possui planos com 20 aulas mensais para crianças de 2 a 6 anos, com assinatura mensal e anual.
+- [Home English Home - Inglês Online para Crianças](https://homeenglishhome.wixsite.com/website)
 
 ---
 

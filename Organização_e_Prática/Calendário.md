@@ -48,6 +48,8 @@ Há diversos calendários que buscam relembrar datas especiais. A intenção da 
 
 ---
 
+O calendário abaixo está atualizado com as datas do ano de 2022. Para fins de maior clareza, nem todos os eventos estão declarados no calendário. Caso deseje saber sobre todas as datas, ou datas específicas, por favor consulte um calendário [litúrgico](http://www.gcatholic.org/calendar/2022/General-A-pt.htm) ou [comum](https://www.calendarr.com/brasil/datas-comemorativas-2022/).
+
 ### Janeiro
 
 - **01**
@@ -61,14 +63,37 @@ Há diversos calendários que buscam relembrar datas especiais. A intenção da 
 
 ### Fevereiro
 
+É iniciada a Quaresma.
+
 ---
 
 ### Março
+
+- **02**
+  - Quarta-feira de Cinzas
+- **06**
+  - Primeiro Domingo da Quaresma
+- **19**
+  - Dia de São José, esposo da Virgem Santa Maria
 
 ---
 
 ### Abril
 
+É tempo de Pentecostes
+
+[Kit Tempo Litúrgico I - Minha Porta Estreita](https://minhaportaestreita.com/bem-vindos/produto/kit-tempoliturgico-i/)
+
+- **10**
+  - Domingo de Ramos e da Paixão do Senhor
+- **14**
+  - Quinta-feira da Ceia do Senhor
+- **15**
+  - Sexta-feira da Paixão do Senhor
+- **16**
+  - Sábado Santo
+- **17**
+  - Domingo de Páscoa da Ressurreição do Senhor
 - **22**
   - Descobrimento do Brasil
 - **28**
@@ -82,6 +107,8 @@ Há diversos calendários que buscam relembrar datas especiais. A intenção da 
   - Dia das Mães: segundo domingo ([calendário nacional](https://www.calendarr.com/brasil/dia-das-maes/)).
 - **01**
   - Dia do Trabalho
+- **26**
+  - Ascensão do Senhor
 
 ---
 
@@ -89,6 +116,22 @@ Há diversos calendários que buscam relembrar datas especiais. A intenção da 
 
 - **Eventos com datas móveis**
   - Semana Nacional do Meio Ambiente: comemorada na primeira semana do mês.
+- **05**
+  - Domingo de Pentecostes
+- **06**
+  - Bem-aventurada Virgem Maria, Mãe da Igreja
+- **12**
+  - Santíssima Trindade
+- **16**
+  - Santíssimo Corpo e Sangue de Cristo
+- **23**
+  - Nascimento de São João Batista
+- **24**
+  - Sagrado Coração de Jesus
+- **25**
+  - Imaculado Coração da Virgem Santa Maria
+- **29**
+  - Santos Pedro e Paulo, apóstolos
 
 ---
 
@@ -100,6 +143,8 @@ Há diversos calendários que buscam relembrar datas especiais. A intenção da 
 
 - **Eventos com datas móveis**
   - Dia dos Pais: segundo domingo ([calendário nacional](https://www.calendarr.com/brasil/dia-dos-pais/)).
+- **15**
+  - Assunção da Virgem Santa Maria
 - **18**
   - Dia do Estagiário (calendário comum, nacional)
 - **22**
@@ -111,8 +156,12 @@ Há diversos calendários que buscam relembrar datas especiais. A intenção da 
 
 - **07**
   - Independência do Brasil
+- **08**
+  - Natividade da Virgem Santa Maria
 - **21**
   - Dia da Árvore (nacional)
+- **29**
+  - Santos Miguel, Gabriel e Rafael, Arcanjos
 
 ---
 
@@ -129,18 +178,32 @@ Há diversos calendários que buscam relembrar datas especiais. A intenção da 
 
 ### Novembro
 
+Início do tempo do Advento, quatro domingos antes do Natal. Sugestões de atividades podem ser encontradas no mês de dezembro.
+
 - **01**
   - Dia de Todos os Santos ([calendário católico](https://www.calendarr.com/brasil/dia-de-todos-os-santos/))
 - **02**
-  - Finados ([calendário católico](https://www.calendarr.com/brasil/finados/))
+  - Dia de Finados ([calendário católico](https://www.calendarr.com/brasil/finados/))
+- **20**
+  - Nosso Senhor Jesus Cristo, Rei do Universo
+- **21**
+  - Apresentação de Nossa Senhora
+- **27**
+  - Primeiro Domingo do Advento
 
 ---
 
 ### Dezembro
 
+Continuidade do tempo do Advento.
+
 - **Atividades para o mês**
-  - **Cantigas para ler e cantar**
+  - **Materiais para organizar e contemplar**
+    - [Kit Calendário do Advento - Minha Porta Estreita](https://minhaportaestreita.com/bem-vindos/produto/kit-meu-calendario-do-advento/)
+    - Acender, a cada semana, as [velas do advento (exemplo)](https://www.livrarialoyola.com.br/produto/box-vela-do-advento-em-familia-branca-verde-roxa-rosa-657953) em família.
+  - **Materiais para memorizar, apreciar e cantar**
     - [Flávio Sampaio de Paiva - Cantigas de Natal](https://livraria.deiaetiba.com.br/cantigas-de-natal)
+    - [Ebooks ilustrados para o Advento/Natal](https://minhaportaestreita.com/bem-vindos/produto/kit-e-books-ilustrados-para-o-advento-natal/) - além dos materiais do kit, que podem ser adquiridos individualmente, a loja possui diversos outros ricos materiais.
   - **Leituras individuais ou em família (filhos mais novos)**
     - [Flávio Sampaio de Paiva - O Presépio das Crianças](https://livraria.deiaetiba.com.br/o-presepio-das-criancas)
     - [Contos de Natal](https://livraria.deiaetiba.com.br/contos-de-natal)
@@ -150,5 +213,9 @@ Há diversos calendários que buscam relembrar datas especiais. A intenção da 
     - [Sermões para o Advento e o Natal](https://www.cultordelivros.com.br/produto/sermoes-para-o-advento-e-o-natal-78453)
     - [Agatha Christie - A aventura do pudim de Natal](https://livraria.deiaetiba.com.br/a-aventura-do-pudim-de-natal)
     - [São Bernardo de Claraval - Sermões de Natal](https://livraria.deiaetiba.com.br/sermoes-de-natal)
+- **25**
+  - Natal do Senhor
+- **30**
+  - Sagrada Familia de Jesus, Maria e José
 
 ---

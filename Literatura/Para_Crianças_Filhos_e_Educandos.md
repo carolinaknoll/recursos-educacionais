@@ -72,7 +72,8 @@ A leitura de livros infantis já conhecidos pela criança e lidos pelos pais div
 Os livros abaixo abordam temas mais aprofundados, como explicações sobre as virtudes, tradições e reflexões mais detalhadas. São bons livros para alunos adolescentes ou jovens adultos que buscam explicações e motivos para as coisas.
 
 [A cor do trigo](https://www.cultordelivros.com.br/produto/a-cor-do-trigo-78240) - O livro apresenta as reflexões de uma menina que "não cabe no mundo", segundo sua própria definição. Não é uma autobiografia. São reflexões sobre suas experiências do dia-a-dia, um retrato lúcido e bem-humorado de suas lutas, dilemas, indignação muitas vezes, mas tudo regado com muita alegria, determinação, amor, esperança e fé. Sobretudo a fé, que dá sentido à sua procura e sinaliza a direção a seguir (descrição de O Cultor de Livros).  
-[Francisco Faus - A Conquista das Virtudes](https://www.cultordelivros.com.br/produto/a-conquista-das-virtudes-78238)
+[Francisco Faus - A Conquista das Virtudes](https://www.cultordelivros.com.br/produto/a-conquista-das-virtudes-78238)  
+[O Peão Passante](https://www.cultordelivros.com.br/produto/o-peao-passante-78338)
 
 ---
 
