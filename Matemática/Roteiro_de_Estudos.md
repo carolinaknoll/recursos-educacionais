@@ -12,9 +12,13 @@ _"A matemática, vista corretamente, possui não apenas verdade, mas também sup
 
 </div>
 
-O estudo da matemática pode ser iniciado desde cedo, e não precisa começar com a escrita de números e pequenas contas de adição. O exercício mais básico já pode ser realizado com bebês de 15 a 18 meses com supervisão, e se trata de colocar exatamente uma coisa em exatamente um espaço, como um botão para cada espacinho em uma forma de gelo. Exercícios como este, indo até o reconhecimento visual de cada número, estão dentro de Conceitos Elementares.
+A ambientação com a matemática pode ser iniciada desde cedo, e não precisa começar já com a escrita de números e pequenas contas de adição. O exercício mais básico pode ser realizado com bebês de 15 a 18 meses com supervisão, e se trata de colocar exatamente uma coisa em exatamente um espaço, como um botão para cada espacinho em uma forma de gelo.
 
-Após o período elementar, o ensino padrão iniciado pela adição e subtração já pode começar. Conceitos básicos podem ser ensinados com a ajuda de materiais manipuláveis, que podem ser utilizados amplamente com crianças de três até cerca dos seis a oito anos, realizando uma passagem gradual do material concreto ao desenho, e do desenho ao abstrato. Após essa idade tais materiais ainda podem ser utilizados, embora com menor uso e com caráter ilustrativo.
+Neste estágio, com crianças de até três anos, convém enfatizar que nada substitui o contato com os pais. Tais atividades apesar de benéficas, devem ser dadas de forma informal e alegre, como pequenas brincadeiras do dia a dia. Exercícios como este, indo até o reconhecimento visual de cada número, estão dentro de Conceitos Elementares.
+
+Após o período elementar, o ensino padrão iniciado pelo valor posicional já pode começar. Conceitos básicos podem ser ensinados com a ajuda de materiais manipuláveis, que podem ser utilizados amplamente com crianças de três até cerca dos seis a oito anos, realizando uma passagem gradual do material concreto ao desenho, e do desenho ao abstrato. Após essa idade tais materiais ainda podem ser utilizados, embora com menor uso e com caráter ilustrativo.
+
+Para apoiar os pais no ensino de Matemática, convém obter os conselhos do professor Sérgio Morselli, em seus [vídeos no YouTube](https://www.youtube.com/user/Dalmat/videos) e também em seu curso na Escola da Família na plataforma [Brasil Paralelo](https://site.escoladafamiliabp.com.br/assine/). São conselhos valorosos para capacitar-se em como aplicar cada conceito e ser capaz de perceber onde estão as dificuldades, quando existem, e como saná-las, e também na boa execução de cada aula.
 
 ---
 
@@ -22,13 +26,14 @@ Após o período elementar, o ensino padrão iniciado pela adição e subtraçã
 
 #### As Quatro Operações
 
-| Assunto                                                          | Idade sugerida | Ano escolar sugerido |
-| ---------------------------------------------------------------- | -------------- | -------------------- |
-| Adição e Subtração (conceitos)                                   | 3 a 5          | Pré-escola           |
-| Adição e Subtração (contas horizontais de um e dois dígitos)     | 6 a 7          | Primeiro e segundo   |
-| Adição e Subtração (contas verticais de um, dois e três dígitos) | 7 a 8          | Segundo e terceiro   |
-| Multiplicação                                                    | 7 a 8          | Segundo e terceiro   |
-| Divisão                                                          | 8 a 9          | Terceiro e quarto    |
+| Assunto                                    | Idade sugerida | Ano escolar sugerido |
+| ------------------------------------------ | -------------- | -------------------- |
+| Valor Posicional                           | 3 a 5          | Pré-escola           |
+| Valor Posicional e Fatos Básicos da Adição | 6              | Primeiro             |
+| Fatos Básicos da Adição e Subtração        | 6 a 7          | Primeiro e segundo   |
+| Fatos Básicos da Multiplicação             | 7 a 8          | Segundo e terceiro   |
+| Fatos Básicos da Multiplicação e Divisão   | 7 a 8          | Segundo e terceiro   |
+| Divisão                                    | 8 a 9          | Terceiro e quarto    |
 
 #### Frações
 
