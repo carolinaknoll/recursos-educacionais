@@ -12,14 +12,25 @@ Há diversos calendários que buscam relembrar datas especiais. A intenção da 
 
 #### Calendário Secular
 
-- **Equinócio de Primavera**
-- **Solstício de Verão**
-- **Equinócio de Outono**
-- **Solstício de Inverno**
+- **Troca de estações**
+  - Sugere-se decorar a casa de acordo ou realizar atividades que tragam o nome das flores e plantas bem como as características de cada estação.
+    - **Equinócio de Primavera**
+    - **Solstício de Verão**
+    - **Equinócio de Outono**
+    - **Solstício de Inverno**
 - **Aniversário**
+  - Tradições de aniversário permanecem na memória. A data não precisa girar em torno de presentes, e pode conter diferentes atividades e celebrações, criadas e adaptadas de acordo com os valores que a família pretende cultivar.
+    - [Celebração da Vida Montessori](https://www.youtube.com/results?search_query=Montessori+birthday)
 - **Primeiro/Último dia de Aulas**
+  - Ambas as datas costumam ser bem esperadas por pais e filhos, educadores e educandos.
+    - Pode-se registrar o momento com uma foto de primeiro/último dia de aula da criança, podendo ela segurar uma plaquinha ou, mais tradicionalmente, estar sentada em uma mesa disposta com objetos de interesse, como por exemplo a bandeira da cidade e materiais didáticos.
+    - Pode-se organizar préviamente os novos materiais didáticos, livros de literatura e apostilas na mesa ou lugar de estudo do aluno, bem como adicionar uma pequena lembrança para simbolizar o início ou fim daquele ano de estudos.
+    - É significativo que os pais ou educadores escrevam uma mensagem de incentivo e alegria, particular para cada aluno, suscitando o valor deste momento.
+    - Convém fazer algo diferente e animador neste dia, como um passeio ao parque.
 - **Férias de Verão/Inverno**
-- **Aniversário da cidade/estado**: excelente ocasião para relembrar o hino da cidade ou do estado, bem como sua história, seus costumes e tradições locais, e sua bandeira e símbolos.
+  - Época de descanso e de atividades em ritmo reduzido.
+- **Aniversário da cidade/estado**
+  - Excelente ocasião para relembrar o hino da cidade ou do estado, bem como sua história, seus costumes e tradições locais, e sua bandeira e símbolos.
 
 #### Calendário Católico
 
