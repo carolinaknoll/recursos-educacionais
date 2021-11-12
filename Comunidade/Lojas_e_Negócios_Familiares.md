@@ -18,7 +18,7 @@ Ainda não existem itens para esta categoria.
 
 #### Livrarias
 
-[Livrarias parceiras da CEDET](https://cedet.com.br/livrarias-virtuais.php) - A CEDET apoia indivíduos, famílias e projetos para que possam ter suas próprias livrarias. Se você conhece ou acompanha algum deles, é possível que exista uma livraria também. A cada compra na livraria de quem você escolhe, parte do valor é destinada a estes indivíduos.
+[Livrarias parceiras do CEDET](https://cedet.com.br/livrarias-virtuais.php) - O CEDET apoia indivíduos, famílias e projetos para que possam ter suas próprias livrarias. Se você conhece ou acompanha algum deles, é possível que exista uma livraria também. A cada compra na livraria de quem você escolhe, parte do valor é destinada a estes indivíduos.
 
 #### Alimentos
 
@@ -73,7 +73,9 @@ Ainda não existem itens para esta categoria.
 
 #### Artigos Religiosos
 
-[Monte Carmelo Ateliê](https://www.montecarmeloatelie.com/loja/)
+[Via Crucis ateliê](https://www.viacrucisatelie.com.br/) - Artigos cristãos feitos à mão, como genuflexórios, imagens, velas e incensos.  
+[Monte Carmelo Ateliê](https://www.montecarmeloatelie.com/loja/) - Delicados escapulários de tecido.  
+[Acessórios Gratia Plena](https://www.acessoriosgratiaplena.com.br/) - Escapulários, colares e correntes masculinas, femininas e infantis.
 
 #### Livros
 
