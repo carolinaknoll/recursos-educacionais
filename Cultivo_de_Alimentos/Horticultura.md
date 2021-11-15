@@ -6,607 +6,488 @@ Horticultura é a arte de cultivar hortas e jardins. Como por exemplo, podemos c
 
 ---
 
-### Abóbora madura
+### Abóbora madura (18°C a 27°C)
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**: Covas de 45 cm de profundidade e 60 cm de diâmetro para plantas de grande porte, e de 30 cm de profundidade e 50 cm de diâmetro para plantas menores. Após adubar a terra da cova e fechá-la, irrigue e coloque 2 ou 3 sementes em um pequeno buraco de cerca de 2 cm de profundidade.
+- **Colheita**: 85 a 150 dias após o plantio.
+- **Luminosidade**: Ensolarado ou de sombra parcial, desde que haja alta luminosidade.
+- **Irrigação**: Solo úmido, sem encharcar. É resistente a pequenos períodos de seca.
 
 ---
 
-### Abobrinha
+### Abobrinha (18°C a 27°C)
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**: Covas com 2 a 3 sementes a cerca de 2 cm de profundidade, e espaçamento de 0,9m x 0,9m a 1m x 1,5m, dependendo da espécie cultivada.
+- **Colheita**: 45 a 80 dias após o plantio.
+- **Luminosidade**: Ensolarado ou de sombra parcial, desde que haja alta luminosidade.
+- **Irrigação**: Solo úmido, sem encharcar. É resistente a pequenos períodos de seca.
 
 ---
 
-### Acelga
+### Acelga (15°C a 19°C)
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**: 60 a 85 dias após o plantio.
+- **Luminosidade**: Ensolarado ou de sombra parcial, desde que haja alta luminosidade.
+- **Irrigação**: Solo úmido, sem encharcar. É resistente a pequenos períodos de seca.
 
 ---
 
-### Agrião
+### Agrião (10°C a 20°C)
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**: É uma planta semi-aquática. Deve ser plantada no solo úmido, preferencialmente em vasos para facilitar o cultivo caseiro, e regada diariamente caso não seja possível mantê-lo encharcado. Quando encharcado, trocar a água com frequência para evitar a proliferação de mosquitos. Plante com 20 a 30cm de espaçamento entre cada planta.
+- **Colheita**: 60 a 80 dias após o plantio.
+- **Luminosidade**: Ensolarado ou de sombra parcial, desde que haja alta luminosidade. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
+- **Irrigação**: Solo constantemente úmido, preferencialmente encharcado.
 
 ---
 
-### Aipo
+### Aipo (15°C a 21°C)
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**: Sobre o solo ou sobre uma fina camada de solo úmido, pois precisa da luminosidade para germinar. A germinação é demorada, e ocorre de 2 a 3 semanas após o plantio. Plante com espaçamento de 20 a 25cm entre cada planta.
+- **Colheita**: 75 a 150 dias após o plantio.
+- **Luminosidade**: Ensolarado ou de sombra parcial, desde que haja alta luminosidade. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
+- **Irrigação**: Solo úmido, sem encharcar.
 
 ---
 
-### Alcachofra
+### Alface (10°C a 24°C)
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**: Em solo com boa disponibilidade de nitrogênio, com espaçamento de 20 a 35 cm.
+- **Colheita**: 55 e 130 dias após o plantio. Corte a planta cerca de 2,5cm acima do solo, permitindo que fique um pequeno pedaço do caule, onde surgirão os novos brotos.
+- **Luminosidade**: Ensolarado ou de sombra parcial. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
+- **Irrigação**: Solo úmido, sem encharcar.
 
 ---
 
-### Alface
+### Alho (0°C a 15°C - 25°C após)
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**: Em clima inicialmente frio, geralmente no outono, seguido por mais ameno ou quente na época de maturação. Pode-se plantar os dentes do alho ou sementes. Profundidade de 3 a 5cm, e espaçamento de 25 a 30 cm entre as linhas de plantio, e 10 cm entre as plantas.
+- **Colheita**: 110 a 250 dias após o plantio, quando as folhas mais velhas começarem a amarelar e a secar, em dias secos ou ensolarados.
+- **Luminosidade**: Sol por algumas horas, a depender do cultivar mais adequado para a região.
+- **Irrigação**: Solo inicialmente úmido, diminuindo a frequência ao longo do crescimento e suspendendo de 10 a 20 dias antes da colheita.
 
 ---
 
-### Alho
+### Alho-Poró (13°C a 24°C)
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**: Semeado em 1cm de profundidade, com 15 a 20cm de espaçamento.
+- **Colheita**: 120 e 150 dias após o plantio.
+- **Luminosidade**: Ensolarado ou de sombra parcial, desde que haja alta luminosidade.
+- **Irrigação**: Solo úmido, mas sem encharcar.
 
 ---
 
-### Alho-Porró
+### Almeirão (12°C a 22°C)
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**: Em dias nublados ou fim da tarde, quando a temperatura ambiente fica um pouco mais baixa, com espaçamento de 15 a 30cm.
+- **Colheita**: 50 a 100 dias após o plantio. Para deixar a planta menos amarga, pode-se privá-la do sol e luz por 15 dias antes da colheita.
+- **Luminosidade**: Ensolarado ou de sombra parcial. Quando cultivada sob o sol direto e constante, a planta pode ficar mais amarca.
+- **Irrigação**: Solo úmido, evitando ressecar o solo.
 
 ---
 
-### Almeirão
+### Aspargo (16°C a 24°C)
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**: Na primavera, em canteiros a cerca de 2,5cm de profundidade, e espaçamento de 7cm, ou em local definitivo com 10cm de profundidade, com espaçamento de 30 a 40cm.
+- **Colheita**: No início da primavera, todos os anos a partir do segundo ou terceiro ano de plantio, podendo produzir bem por duas décadas ou mais em regiões de clima propício e com boas condições de cultivo.
+- **Luminosidade**: Ensolarado ou de sombra parcial, desde que haja alta luminosidade.
+- **Irrigação**: Solo úmido, sem que fique encharcado. O aspargo é sensível tanto ao excesso quanto a falta de água.
 
 ---
 
-### Aspargo
+### Batata (15°C a 25°C)
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**: Com batatas-sementes ou comuns. Deixe a batata sobre o solo até que os brotos cresçam a 2cm, plantando-as em seguida. Não permitir que as batatas que serão posteriormente colhidas fiquem espostas à luz solar, garantindo que estejam sempre cobertas por uma camada de terra.
+- **Colheita**: 100 a 150 dias após o plantio. A batateira é tóxica, e as partes da planta não devem ser utilizadas para consumo humano ou animal.
+- **Luminosidade**: Ensolarado, ou em sombra parcial em climas mais quentes, desde que haja alta luminosidade.
+- **Irrigação**: Levemente úmido, suspendendo a irrigação nas duas últimas semanas antes da colheita.
 
 ---
 
-### Batata
+### Batata-doce (24°C a 26°C)
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**: Batatas-doce pequenas, enterradas a 5cm. Trepadeira.
+- **Colheita**: 100 a 180 dias após o plantio. Em clima mais frio, a colheita precisa ocorrer antes da chegada das baixas temperaturas de inverno.
+- **Luminosidade**: Ensolarado, com boa luminosidade.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
 
 ---
 
-### Batata-doce
+### Berinjela (20°C ou mais)
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**: No solo, cobertas com uma fina camada de terra. Espaçamento de 50cm a 1m entre as plantas. Os pés podem precisar de suportes circulares para não tombar.
+- **Colheita**: 90 a 180 dias após o plantio. Devem ser colhidas com cuidado para não ferir os frutos e apressar sua deterorioração.
+- **Luminosidade**: Ensolarado, com boa luminosidade.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
 
 ---
 
-### Berinjela
+### Bertalha (25°C ou mais)
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**: No solo, com 0,5cm de profundidade e 40cm de espaçamento. Os pés podem precisar de suportes.
+- **Colheita**: 60 a 90 dias após o plantio, repetida a cada 20 ou 30 dias.
+- **Luminosidade**: Ensolarado, com boa luminosidade.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
 
 ---
 
-### Bertalha
+### Beterraba (10°C a 24°C)
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
-
----
-
-### Beterraba
-
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**: Em solo preferencialmente rico em boro, em 1cm de profundidade e com espaçamento de 15 a 30cm entre as plantas. Cubra sempre as raízes espostas com a terra.
+- **Colheita**: A depender do cultivar, de 60 a 90 dias ou 4 a 6 meses após o plantio.
+- **Luminosidade**: Ensolarado, com boa luminosidade.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
 
 ---
 
 ### Brócolis
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Cebola
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Cenoura
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Cheiro-verde
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Chicória
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Chuchu
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Couve
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Couve-chinesa
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Couve-de-bruxelas
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Couve-flor
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Endívia
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Ervilha
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Ervilha seca
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Espinafre
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Feijão-vagem
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Grão-de-bico
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Inhame
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Jiló
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Lentilha
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Mandioquinha-salsa
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Maxixe
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Melancia
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Melão
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Milho-verde
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Moranga
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Morango
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Mostarda
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Nabo
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Pepino
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Pimenta biquinho
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Pimenta-de-cheiro
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Pimenta jalapeño
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Pimenta habanero
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Pimenta malagueta
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Pimentão
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Quiabo
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Rabanete
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Repolho
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
 
 ### Salsa
 
-- Época de plantio:
-- Tamanho mínimo do vaso:
-- Adubo e nutrientes:
-- Primeira colheita:
-- Intervalo entre as regas:
-- Intervalo para reposição de solo e nutrientes:
+- **Plantio**:
+- **Colheita**:
+- **Luminosidade**:
+- **Irrigação**:
 
 ---
