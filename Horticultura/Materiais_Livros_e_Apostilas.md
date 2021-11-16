@@ -1,4 +1,4 @@
-<h1 align="center">Cultivo de Alimentos - Materiais, Livros e Apostilas</h1>
+<h1 align="center">Horticultura - Materiais, Livros e Apostilas</h1>
 
 ---
 

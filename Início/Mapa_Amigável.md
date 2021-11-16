@@ -28,15 +28,15 @@ Uma ênfase necessária é: independente das categorias abaixo, cabe ao educador
 [Biologia](Biologia/Roteiro_de_Estudos)
 
 **Eletivas**  
-[Cultivo de Alimentos](Cultivo_de_Alimentos/Materiais_Livros_e_Apostilas)
+[Conhecimentos Práticos e Gerais](Conhecimentos/Roteiro_de_Estudos)  
 [Doutrina Católica](Doutrina_Católica/Roteiro_de_Estudos)  
-[Filosofia](Filosofia/Roteiro_de_Estudos)  
 [Educação Moral](Educação_Moral/Roteiro_de_Estudos)  
+[Filosofia](Filosofia/Roteiro_de_Estudos)  
+[Horticultura](Horticultura/Materiais_Livros_e_Apostilas)  
 [Língua Inglesa](Língua_Inglesa/Roteiro_de_Estudos)  
 [Língua Latina](Língua_Latina/Roteiro_de_Estudos)  
 [Lógica, Retórica e Dialética](Lógica_Retória_e_Dialética/Roteiro_de_Estudos)  
-[Música](Música/Roteiro_de_Estudos)  
-[Conhecimentos Práticos e Gerais](Conhecimentos/Roteiro_de_Estudos)
+[Música](Música/Roteiro_de_Estudos)
 
 ---
 

@@ -1,4 +1,4 @@
-<h1 align="center">Cultivo de Alimentos - Fruticultura</h1>
+<h1 align="center">Horticultura - Fruticultura</h1>
 
 ---
 

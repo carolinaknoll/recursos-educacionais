@@ -1,8 +1,8 @@
-<h1 align="center">Cultivo de Alimentos - Horticultura</h1>
+<h1 align="center">Horticultura - Olericultura</h1>
 
 ---
 
-Horticultura é a arte de cultivar hortas e jardins. Como por exemplo, podemos citar hortaliças que podem ser cultivadas no solo ou até mesmo em vasos, desde que bem adubadas e tendo o cuidado dos dias e intervalos para regar e renovar seu solo com nutrientes. A quantidade, frequência e necessidade de nutrientes específicos também varia de planta para planta. O guia abaixo é livre para todas as pessoas, adultos ou crianças, que desejam cultivar uma horta e sentem a necessidade de uma fonte direta para obter informações sobre seu cultivo e os cuidados citados acima.
+Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar hortaliças que podem ser cultivadas no solo ou até mesmo em vasos, desde que bem adubadas e tendo o cuidado dos dias e intervalos para regar e renovar seu solo com nutrientes. A quantidade, frequência e necessidade de nutrientes específicos também varia de planta para planta. O guia abaixo é livre para todas as pessoas, adultos ou crianças, que desejam cultivar uma horta e sentem a necessidade de uma fonte direta para obter informações sobre seu cultivo e os cuidados citados acima.
 
 ---
 
