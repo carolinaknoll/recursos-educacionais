@@ -78,7 +78,7 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 
 ---
 
-### Almeirão (12°C a 22°C)
+### Almeirão/chicória (12°C a 22°C)
 
 - **Plantio**: Em dias nublados ou fim da tarde, quando a temperatura ambiente fica um pouco mais baixa, com espaçamento de 15 a 30cm.
 - **Colheita**: 50 a 100 dias após o plantio. Para deixar a planta menos amarga, pode-se privá-la do sol e luz por 15 dias antes da colheita.
@@ -141,57 +141,57 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 
 ---
 
-### Brócolis
+### Brócolis-de-cabeça (6°C a 23°C)
 
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
-
----
-
-### Cebola
-
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+- **Plantio**: Plante em solo rico em nutrientes, especialmente o boro. Plante com profundidade de 1cm do solo e espaçamento de 30 a 60cm entre cada planta.
+- **Colheita**: 75 a 100 dias após o plantio. Podem produzir brotos, menores, para uma segunda colheita.
+- **Luminosidade**: Ensolarado, com boa luminosidade.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
 
 ---
 
-### Cenoura
+### Brócolis-ramoso (15°C a 28°C)
 
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
-
----
-
-### Cheiro-verde
-
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+- **Plantio**: Plante em solo rico em nutrientes, especialmente o boro. Plante com profundidade de 1cm do solo e espaçamento de 30 a 60cm entre cada planta.
+- **Colheita**: 60 a 90 dias após o plantio. Produzem novos brotos, que podem ser colhidos a cada 5 a 10 dias até o fim do período de colheita. Colha quando as inflorescências estão bem desenvolvidas e com uma cor intensa, mas antes que as flores comecem a abrir.
+- **Luminosidade**: Ensolarado, com boa luminosidade.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
 
 ---
 
-### Chicória
+### Cebola (13°C a 28°C)
 
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+- **Plantio**: Plante em solo com profundidade de 2 ou 3cm e espaçamento de 10 a 15cm entre plantas. Cuide sempre para remover plantas invasoras.
+- **Colheita**: 85 a 300 dias após o plantio, variando de acordo com o cultivar, região e estação de plantio. Pode ser arrancado em qualquer estágio caso seja para consumo imediato. Arranque a planta inteira e deixe as cebolas secando ao sol por alguns dias, para que perca o excesso de água.
+- **Luminosidade**: Varia de acordo com a cultivar, necessitando pelo menos de algumas horas de sol por dia.
+- **Irrigação**: Solo úmido, sem que fique encharcado. Vá diminuindo a frequência e cesse completamente nas duas ou três semanas que antecedem a colheita.
 
 ---
 
-### Chuchu
+### Cenoura (16°C a 22°C)
 
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+- **Plantio**: Plante no solo, com profundidade de 0,5 a 1cm, e espaçamento de 5 a 10cm entre as plantas.
+- **Colheita**: 60 a 120 dias após o plantio. Para colher continuadamente, plante a cada 2 ou 3 semanas.
+- **Luminosidade**: Ensolarado, ou em sombra parcial em climas mais quentes, desde que haja alta luminosidade.
+- **Irrigação**: Solo levemente úmido, sem que fique encharcado.
+
+---
+
+### Salsa/cheiro-verde (10ºC a 22°C)
+
+- **Plantio**: Semeie no solo ou em vasos com no mínimo 30cm de profundidade e diâmetro, e espaçamento de 15cm entre as plantas.
+- **Colheita**: 60 a 90 dias após o plantio, quando a planta tem aproximadamente 12 a 16 cm de altura. Colha as folhas mais externas inteiras e procure não retirar mais do que um terço das folhas.
+- **Luminosidade**: Ensolarado ou de sombra parcial. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
+
+---
+
+### Chuchu (18°C a 27°C)
+
+- **Plantio**: Plante o fruto inteiro no solo e cubra parcialmente. O chuchuzeiro é uma trepadeira e precisa de galhos ou fios para que suas gavinhas se prendam, atingindo larguras entre 1 a 4m. Por isso, plante apenas um ou use um espaçamento de 5 a 7m entre as plantas. São necessários insetos polinizadores para que a planta dê frutos.
+- **Colheita**: 90 a 120 dias após o plantio. Pode produzir por 7 a 10 anos. Todas as suas partes são comestíveis.
+- **Luminosidade**: Ensolarado, ou em sombra parcial em climas mais quentes, desde que haja alta luminosidade.
+- **Irrigação**: Solo úmido, sem que fique encharcado. O Chuchu é sensível ao excesso ou falta de água.
 
 ---
 
