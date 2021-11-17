@@ -80,3 +80,7 @@ Ainda não existem itens para esta categoria.
 #### Livros
 
 [Sofus Livros](https://sofuslivros.com.br/)
+
+#### Serviços de Impressão
+
+[Fábrica do Livro](https://www.fabricadolivro.com.br/) - Uma opção a se considerar caso a família não deseje investir em uma impressora. Impressão de apostilas, cadernos, manuais e banners, dentre outros tipos de impresso.
