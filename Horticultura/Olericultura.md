@@ -195,75 +195,39 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 
 ---
 
-### Couve
+### Couve (10°C a 20°C)
 
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
-
----
-
-### Couve-chinesa
-
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+- **Plantio**: Semeie a 1cm de profundidade, e 25 a 50cm entre plantas.
+- **Colheita**: 70 a 112 dias após o plantio (10 a 16 semanas). Evite colher nas horas mais quentes, e deixe sempre algumas folhas mais jovens na planta.
+- **Luminosidade**: Ensolarado ou de sombra parcial. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
 
 ---
 
-### Couve-de-bruxelas
+### Couve-flor (15°C a 20°C)
 
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
-
----
-
-### Couve-flor
-
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+- **Plantio**: Plante em solo rico em nitrogênio, matéria orgânica e boro, com profundidade de 1cm e espaçamento de 50 a 75cm. Convém cobrir a cabeça da couve enquanto esta cresce ou ficará amarelada, e isso pode ser feito juntando algumas de suas folhas por cima da cabeça e amarrando-as com um barbante.
+- **Colheita**: 60 a 280 dias após o plantio (8 a 40 semanas). Colha mantendo algumas folhas para proteger a cabeça. As folhas também são comestíveis.
+- **Luminosidade**: Alta, com luz solar direta pelo menos algumas horas por dia.
+- **Irrigação**: Solo úmido, sem que fique encharcado. A couve-flor é sensível à falta de água.
 
 ---
 
-### Endívia
+### Ervilha (13°C a 18°C)
 
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
-
----
-
-### Ervilha
-
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+- **Plantio**: Plante com profundidade de 2 a 5cm, dependendo do solo, e espaçamento de 20 a 30cm para cultivares anãs e 50 a 60cm para cultivares altas. A geminação ocorre em 4 a 8 dias. As plantas de porte alto precisarão de suporte para que cresçam adequadamente.
+- **Colheita**: 60 a 85 dias após o plantio (8 a 12 semanas). Para cultivares de vagens comestíveis, colha quando a vagem ainda não está madura. Para cultivares com grãos verdes, colha quando as sementes estão bem desenvolvidas e hidratadas, e a vagem está seca.
+- **Luminosidade**: Alta, com luz solar direta pelo menos algumas horas por dia.
+- **Irrigação**: Solo levemente úmido de forma frequente. A ervilheira é sensível ao execesso e à falta de água, bem como a chuvas em sua época de colheita.
 
 ---
 
-### Ervilha seca
+### Espinafre (13°C a 20°C)
 
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
-
----
-
-### Espinafre
-
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+- **Plantio**: Plante em solo com boa disponibilidade de nitrogênio, com 1cm de profundidade e 5 a 15cm de espaçamento. A geminação ocorre em uma ou duas semanas.
+- **Colheita**: 40 a 120 dias após o plantio (6 a 16 semanas). Colha quando a planta tiver pelo menos 6 folhas, a partir das folhas mais externas. Também pode ser arrancado inteiro ou mantendo 2,5cm acima do solo, para que brote novamente.
+- **Luminosidade**: Ensolarado ou de sombra parcial. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
 
 ---
 
