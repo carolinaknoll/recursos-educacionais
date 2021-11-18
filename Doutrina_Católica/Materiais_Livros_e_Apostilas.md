@@ -37,3 +37,9 @@ Esta página tem o propósito de apresentar recursos para auxílio aos estudos d
 ### Exercícios Espirituais e Primeira Comunhão
 
 [Exercícios Espirituais Ilustrados para a Primeira Comunhão - 2 Vol. - Beato Frei Manuel Sancho](https://livraria.deiaetiba.com.br/exercicios-espirituais-ilustrados-para-a-primeira-comunhao---2-vol?manufacturer_id=1562) - Tendo em vista o bem imenso para o progresso espiritual que estes exercícios fizeram para tantas pessoas, não seria conveniente que as crianças não tivessem a oportunidade de tirar frutos de uma prática tão devota e frutuosa. Foi então que descobrimos que o Frei Manoel Sancho aplicou estes Santos Exercícios às crianças com uma impressionante capacidade de adaptar as meditações para as experiências infantis, mas sem perder a seriedade e profundidade própria destas práticas, e os registrou neste livro. Assim, entendemos ser importantíssimo colocar este tesouro à disposição das crianças para que possam ter uma poderosa ferramenta de orientação e progresso espiritual. Contudo, não podemos deixar de observar que as meditações são tão acessíveis e bem preparadas que até mesmo um adulto pode tirar bons frutos em suas próprias práticas espirituais.
+
+---
+
+### Livros paradidáticos
+
+[Um chamado especial - Maria Cristina Borges](https://loja.centrodombosco.org/um-chamado-especial-maria-cristina-borges-capa-dura) - Bela obra sobre o chamado de Deus e o despertar para as vocações religiosas.
