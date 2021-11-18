@@ -4,6 +4,8 @@
 
 Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar hortaliças que podem ser cultivadas no solo ou até mesmo em vasos, desde que bem adubadas e tendo o cuidado dos dias e intervalos para regar e renovar seu solo com nutrientes. A quantidade, frequência e necessidade de nutrientes específicos também varia de planta para planta. O guia abaixo é livre para todas as pessoas, adultos ou crianças, que desejam cultivar uma horta e sentem a necessidade de uma fonte direta para obter informações sobre seu cultivo e os cuidados citados acima.
 
+**\***As informações abaixo são resumos a partir do conteúdo de autoria da página [Hortas.info](https://hortas.info/).
+
 ---
 
 ### Abóbora madura (18°C a 27°C)
@@ -231,12 +233,12 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 
 ---
 
-### Feijão-vagem
+### Feijão-vagem (20°C a 25°C)
 
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+- **Plantio**: Plante em solo, com profundidade de 2 a 4cm.
+- **Colheita**: 50 a 90 dias após o plantio. As vagens devem ser cozidas antes do consumo.
+- **Luminosidade**: Ensolarado. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
 
 ---
 
@@ -249,30 +251,30 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 
 ---
 
-### Inhame
+### Inhame (25°C e 30°C)
 
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
-
----
-
-### Jiló
-
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+- **Plantio**: Plante em clima úmido e quente. A planta do inhame é uma trepadeira, portanto plante com um espaçamento de meio metro a 1,25m, em solo profundo, mas não compactado.
+- **Colheita**: 5 a 12 meses após o plantio.
+- **Luminosidade**: Ensolarado. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
+- **Irrigação**: Solo úmido, sem que fique encharcado. O inhame é resistente à seca, mas não cresce bem quando falta água.
 
 ---
 
-### Lentilha
+### Jiló (20°C a 35°C)
 
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+- **Plantio**: Plante em solo com boa disponibilidade de nitrogênio, com 1cm de profundidade e espaçamento de 60 a 100cm.
+- **Colheita**: 90 a 150 dias após o plantio.
+- **Luminosidade**: Alta, com luz solar direta pelo menos algumas horas por dia.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
+
+---
+
+### Lentilha (20°C a 27°C)
+
+- **Plantio**: Plante em solo com a semente tendo a profundidade de 3 a 4cm.
+- **Colheita**: 80 a 135 dias após a colheita.
+- **Luminosidade**: Ensolarado ou de sombra parcial. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
 
 ---
 
