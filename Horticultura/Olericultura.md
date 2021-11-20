@@ -437,110 +437,114 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 
 ---
 
-### Mostarda
+### Mostarda (10°C a 27°C)
 
 - **Plantio**:
+  - A mostarda precisa de insetos polinizadores, como abelhas.
+  - Plante as sementes no solo ou em sementeiras.
+  - Para mostarda-branca e mostarda-preta, use 30 a 40 cm de espaçamento.
+  - Para mostarda-oriental, use 15 a 35 cm de espaçamento.
 - **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+  - 40 a 70 dias após o plantio (6 a 10 semanas).
+  - A floração e a produção de sementes ocorre entre 2 a 5 meses após o plantio.
+- **Luminosidade**: Ensolarado ou de sombra parcial. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
 
 ---
 
-### Nabo
+### Nabo (15°C a 22°C)
 
 - **Plantio**:
+  - Escolha o fim da primavera ou do verão para plantar.
+  - Plante em solo rico em boro, em solução de 2 gramas de boro para 5 litros de água.
+  - Semeie a 0,5 cm de profundidade e 10 a 25 cm entre as plantas.
+  - A geminação do nabo é rara, de alguns dias a uma semana.
 - **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+  - 40 a 80 dias após o plantio (6 a 12 semanas).
+  - Arranque os brotos por inteiro, ou a uma distância de 5 cm do solo, caso deseje que a planta rebrote.
+  - Caso seja cortada para rebrote, pode-se colher novos brotos em duas a três semanas.
+- **Luminosidade**: Ensolarado ou de sombra parcial com boa luminosidade.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
 
 ---
 
-### Pepino
+### Pepino (18°C a 30°C)
 
 - **Plantio**:
+  - A maioria dos cultivares do pepino precisa de insetos polinizadores, como abelhas, para que dê frutos.
+  - Não cultive caso o local seja muito exposto ao vento.
+  - O pepineiro é uma trepadeira, e pode chegar a uma altura de 1 a 3 m.
+  - As sementes de pepino não germinam bem em temperaturas abaixo de 20°C.
+  - Plante as sementes em 2 a 3 cm de profundidade.
+  - O espaçamento varia bastante dependendo do método de plantio. [Saiba mais clicando aqui](https://hortas.info/como-plantar-pepino).
 - **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+  - 30 a 70 dias após o plantio (4 a 10 semanas).
+- **Luminosidade**: Alta, com luz solar direta pelo menos algumas horas por dia.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
 
 ---
 
-### Pimenta biquinho
+### Pimenta (16°C a 35°C)
 
 - **Plantio**:
+  - Plante a 0,5 cm de profundidade, e 20 a 60 cm de espaçamento.
+  - Também pode ser cultivada em vasos, mas cuide para que seja adequado para a cultivar escolhida.
+  - A geminação ocorre em 1 a 2 semanas com temperaturas de 28°C a 30°C, e um tempo um pouco maior com temperaturas mais amenas, menores que 20°C.
 - **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+  - 80 a 150 dias após o plantio (12 a 22 semanas).
+  - Podem ser colhidos tanto verdes como maduros.
+  - Ao colher os frutos, é recomendado usar luvas.
+  - Caso não esteja de luvas, evite tocar em partes sensíveis como olhos, nariz e boca, até que tenha limpado muito bem as mãos com álcool ou óleo.
+- **Luminosidade**: Ensolarado ou de sombra parcial. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
 
 ---
 
-### Pimenta-de-cheiro
+### Pimentão (18°C a 30°C)
 
 - **Plantio**:
+  - Plante a 0,5 cm de profundidade, e 40 a 60 cm entre as plantas.
+    - Também pode ser cultivado em vasos com pelo menos 35 cm de profundidade.
+  - A geminação ocorre em 1 a 3 semanas.
 - **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+  - 85 a 110 dias após o plantio (12 a 16 semanas).
+- **Luminosidade**: Ensolarado ou de sombra parcial. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
 
 ---
 
-### Pimenta jalapeño
+### Quiabo (20°C ou mais)
 
 - **Plantio**:
+  - A geminação ocorre em 1 semana caso as sementes tenham sido deixadas por um dia em um copo com água, e em três semanas no contrário.
 - **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+  - 60 a 80 dias após o plantio (8 a 12 semanas).
+  - Pode continuar produzindo frutos por alguns meses após a primeira colheita.
+  - Colha quando o quiabo estiver bem desenvolvido, mas ainda com uma tonalidade brilhante, cerca de uma semana após a polinização e o início da formação do fruto.
+- **Luminosidade**: Alta, com luz solar direta pelo menos algumas horas por dia.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
 
 ---
 
-### Pimenta habanero
+### Rabanete (8°C a 20°C)
 
 - **Plantio**:
+  - Plante em local definitivo, que pode ser no solo ou em vasos.
 - **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+  - 25 a 32 dias para espécias de pequeno porte, e 60 a 80 dias para as de maior porte.
+- **Luminosidade**: Ensolarado ou de sombra parcial com boa luminosidade.
+- **Irrigação**: Solo úmido, sem que fique encharcado.
 
 ---
 
-### Pimenta malagueta
+### Repolho (0°C a 15°C)
 
 - **Plantio**:
+  - Em solo ou em sementeiras, com 1 a 2 cm de profundidade, e espaçamento de 30 a 60 cm.
+  - A geminação é rápida e ocorre em menos de uma semana.
 - **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
-
----
-
-### Pimentão
-
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
-
----
-
-### Quiabo
-
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
-
----
-
-### Rabanete
-
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
-
----
-
-### Repolho
-
-- **Plantio**:
-- **Colheita**:
-- **Luminosidade**:
-- **Irrigação**:
+  - 2 a 4 meses após o plantio (8 a 16 semanas).
+- **Luminosidade**: Alta, com luz solar direta pelo menos algumas horas por dia.
+- **Irrigação**: Solo úmido, sem que fique encharcado. O repolho é mais exigente quanto à disponibilidade de água.
 
 ---
