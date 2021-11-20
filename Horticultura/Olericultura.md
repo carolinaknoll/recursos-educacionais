@@ -8,6 +8,17 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 
 ---
 
+<div style="display: flex;"> 
+  <div style="flex: 1 1 40%; padding-right: 15px">
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+  </div>
+
+  <div style="flex: 2 1 60%">
+
 ### Abóbora madura (18°C a 27°C)
 
 - **Plantio**:
@@ -16,6 +27,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Colheita**: 85 a 150 dias após o plantio.
 - **Luminosidade**: Ensolarado ou de sombra parcial, desde que haja alta luminosidade.
 - **Irrigação**: Solo úmido, sem encharcar. É resistente a pequenos períodos de seca.
+
+</div>
+</div>
 
 ---
 
