@@ -10,6 +10,9 @@ Certas linhas de educação aconselham que durante os primeiros anos a criança 
 
 A lista de recomendações abaixo apresenta livros que já foram lidos e utilizados por pais ou mães e que estão de acordo com os valores básicos morais, bem como uma breve descrição justificativa de sua utilização. Para fazer uma recomendação, por favor faça um exame cuidadoso se seu livro leva consigo um bom exemplo moral, e se não está repleto de maus exemplos exaltados e situações desconexas com a realidade. Caso deseje prosseguir, por favor utilize este formulário.
 
+- **Livros sem idade definida** - podem ser lidos e acompanhados por todos da família.
+  - [Livros do Clubinho Literário](https://clubinholiterario.com/) - Clube de assinatura de livros mensais recomendado por mães e pais como Déa Camargos, Juliano Cazarré, Sâmia Marsili e Ana Campagnolo.
+
 ---
 
 ### Lista de livros sugeridos
