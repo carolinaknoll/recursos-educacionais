@@ -8,16 +8,15 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 
 ---
 
-<div style="display: flex;"> 
-  <div style="flex: 1 1 40%; padding-right: 15px">
+<div class="grid30by70">
+<div>
 
 |                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
 | :-----------------------------------------------------------------------------------------------------------------------------: |
 | Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
 
-  </div>
-
-  <div style="flex: 2 1 60%">
+</div>
+<div>
 
 ### Abóbora madura (18°C a 27°C)
 
@@ -33,6 +32,16 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 
 ---
 
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
+
 ### Abobrinha (18°C a 27°C)
 
 - **Plantio**:
@@ -41,7 +50,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial, desde que haja alta luminosidade.
 - **Irrigação**: Solo úmido, sem encharcar. É resistente a pequenos períodos de seca.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Acelga (15°C a 19°C)
 
@@ -50,7 +72,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial, desde que haja alta luminosidade.
 - **Irrigação**: Solo úmido, sem encharcar. É resistente a pequenos períodos de seca.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Agrião (10°C a 20°C)
 
@@ -62,10 +97,24 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial, desde que haja alta luminosidade. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
 - **Irrigação**:
   - Solo constantemente úmido, preferencialmente encharcado.
-  - Regue diariamente caso não seja possível mantê-lo encharcado.
+  - Regue dia
+    riamente caso não seja possível mantê-lo encharcado.
   - Quando encharcado, trocar a água com frequência para evitar a proliferação de mosquitos.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Aipo (15°C a 21°C)
 
@@ -77,7 +126,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial, desde que haja alta luminosidade. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
 - **Irrigação**: Solo úmido, sem encharcar.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Alface (10°C a 24°C)
 
@@ -88,7 +150,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
 - **Irrigação**: Solo úmido, sem encharcar.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Alho (0°C a 15°C - 25°C após)
 
@@ -100,7 +175,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Sol por algumas horas, a depender do cultivar mais adequado para a região.
 - **Irrigação**: Solo inicialmente úmido, diminuindo a frequência ao longo do crescimento e suspendendo de 10 a 20 dias antes da colheita.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Alho-Poró (13°C a 24°C)
 
@@ -109,7 +197,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial, desde que haja alta luminosidade.
 - **Irrigação**: Solo úmido, mas sem encharcar.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Almeirão/chicória (12°C a 22°C)
 
@@ -118,7 +219,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial. Quando cultivada sob o sol direto e constante, a planta pode ficar mais amarca.
 - **Irrigação**: Solo úmido, evitando ressecar o solo.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Aspargo (16°C a 24°C)
 
@@ -127,7 +241,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial, desde que haja alta luminosidade.
 - **Irrigação**: Solo úmido, sem que fique encharcado. O aspargo é sensível tanto ao excesso quanto a falta de água.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Batata (15°C a 25°C)
 
@@ -141,7 +268,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado, ou em sombra parcial em climas mais quentes, desde que haja alta luminosidade.
 - **Irrigação**: Levemente úmido, suspendendo a irrigação nas duas últimas semanas antes da colheita.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Batata-doce (24°C a 26°C)
 
@@ -150,7 +290,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado, com boa luminosidade.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Berinjela (20°C ou mais)
 
@@ -159,7 +312,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado, com boa luminosidade.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Bertalha (25°C ou mais)
 
@@ -168,7 +334,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado, com boa luminosidade.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Beterraba (10°C a 24°C)
 
@@ -177,7 +356,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado, com boa luminosidade.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Brócolis-de-cabeça (6°C a 23°C)
 
@@ -190,7 +382,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado, com boa luminosidade.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Brócolis-ramoso (15°C a 28°C)
 
@@ -204,7 +409,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado, com boa luminosidade.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Cebola (13°C a 28°C)
 
@@ -216,7 +434,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Varia de acordo com a cultivar, necessitando pelo menos de algumas horas de sol por dia.
 - **Irrigação**: Solo úmido, sem que fique encharcado. Vá diminuindo a frequência e cesse completamente nas duas ou três semanas que antecedem a colheita.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Cenoura (16°C a 22°C)
 
@@ -227,7 +458,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado, ou em sombra parcial em climas mais quentes, desde que haja alta luminosidade.
 - **Irrigação**: Solo levemente úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Salsa/cheiro-verde (10ºC a 22°C)
 
@@ -238,7 +482,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Chuchu (18°C a 27°C)
 
@@ -251,7 +508,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado, ou em sombra parcial em climas mais quentes, desde que haja alta luminosidade.
 - **Irrigação**: Solo úmido, sem que fique encharcado. O Chuchu é sensível ao excesso ou falta de água.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Couve (10°C a 20°C)
 
@@ -262,7 +532,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Couve-flor (15°C a 20°C)
 
@@ -273,7 +556,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Alta, com luz solar direta pelo menos algumas horas por dia.
 - **Irrigação**: Solo úmido, sem que fique encharcado. A couve-flor é sensível à falta de água.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Ervilha (13°C a 18°C)
 
@@ -288,9 +584,23 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Alta, com luz solar direta pelo menos algumas horas por dia.
 - **Irrigação**:
   - Solo levemente úmido de forma frequente.
-  - A ervilheira é sensível ao execesso e à falta de água, bem como a chuvas em sua época de colheita.
+  - A ervilhe
+    ira é sensível ao execesso e à falta de água, bem como a chuvas em sua época de colheita.
+
+</div>
+</div>
 
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Espinafre (13°C a 20°C)
 
@@ -304,7 +614,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Feijão-vagem (20°C a 25°C)
 
@@ -315,7 +638,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Grão-de-bico
 
@@ -324,7 +660,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**:
 - **Irrigação**:
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Inhame (25°C e 30°C)
 
@@ -335,7 +684,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
 - **Irrigação**: Solo úmido, sem que fique encharcado. O inhame é resistente à seca, mas não cresce bem quando falta água.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Jiló (20°C a 35°C)
 
@@ -344,7 +706,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Alta, com luz solar direta pelo menos algumas horas por dia.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Lentilha (20°C a 27°C)
 
@@ -353,7 +728,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Mandioquinha-salsa/batata-baroa (14°C a 21°C)
 
@@ -365,7 +753,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial.
 - **Irrigação**: Solo úmido, sem que fique encharcado. A mandioqueira é sensível à falta de água.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Maxixe (20°C a 27°C)
 
@@ -380,7 +781,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Alta, com luz solar direta pelo menos algumas horas por dia.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Melancia (20°C a 34°C)
 
@@ -395,9 +809,23 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Alta, com luz solar direta pelo menos algumas horas por dia.
 - **Irrigação**:
   - Solo úmido, sem que fique encharcado, durante sua fase de crescimento.
-  - Após, durante a maturação dos frutos, convém ir diminuindo a frequência para que fiquem mais adocicados e saborosos para o consumo.
+  - Após, dur
+    ante a maturação dos frutos, convém ir diminuindo a frequência para que fiquem mais adocicados e saborosos para o consumo.
+
+</div>
+</div>
 
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Melão (25°C a 32°C)
 
@@ -414,9 +842,23 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Alta, com luz solar direta pelo menos algumas horas por dia.
 - **Irrigação**:
   - Solo úmido, sem que fique encharcado, durante sua fase de crescimento.
-  - Após, durante a maturação dos frutos, convém ir diminuindo a frequência para que fiquem mais adocicados e saborosos para o consumo.
+  - Após, dur
+    ante a maturação dos frutos, convém ir diminuindo a frequência para que fiquem mais adocicados e saborosos para o consumo.
+
+</div>
+</div>
 
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Milho-verde (15°C a 32°C)
 
@@ -430,9 +872,23 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Alta, com luz solar direta pelo menos algumas horas por dia.
 - **Irrigação**:
   - Solo úmido, sem que fique encharcado, durante sua fase de crescimento.
-  - O milho é sensível à falta de água durante o crescimento, mas quando suas espigas já estão bem desenvolvidas, a irrigação cuidadosa já não é mais necessária.
+  - O milho é
+    sensível à falta de água durante o crescimento, mas quando suas espigas já estão bem desenvolvidas, a irrigação cuidadosa já não é mais necessária.
+
+</div>
+</div>
 
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Morango (04°C a 22°C)
 
@@ -449,7 +905,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Alta, com luz solar direta pelo menos algumas horas por dia.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Mostarda (10°C a 27°C)
 
@@ -464,7 +933,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Nabo (15°C a 22°C)
 
@@ -480,7 +962,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial com boa luminosidade.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Pepino (18°C a 30°C)
 
@@ -496,7 +991,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Alta, com luz solar direta pelo menos algumas horas por dia.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Pimenta (16°C a 35°C)
 
@@ -512,7 +1020,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Pimentão (18°C a 30°C)
 
@@ -525,7 +1046,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial. Em regiões de clima quente, evite que a planta fique exposta ao sol nas horas mais quentes do dia.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Quiabo (20°C ou mais)
 
@@ -538,7 +1072,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Alta, com luz solar direta pelo menos algumas horas por dia.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Rabanete (8°C a 20°C)
 
@@ -549,7 +1096,20 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Ensolarado ou de sombra parcial com boa luminosidade.
 - **Irrigação**: Solo úmido, sem que fique encharcado.
 
+</div>
+</div>
+
 ---
+
+<div class="grid30by70">
+<div>
+
+|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
+| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+
+</div>
+<div>
 
 ### Repolho (0°C a 15°C)
 
@@ -561,4 +1121,5 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 - **Luminosidade**: Alta, com luz solar direta pelo menos algumas horas por dia.
 - **Irrigação**: Solo úmido, sem que fique encharcado. O repolho é mais exigente quanto à disponibilidade de água.
 
----
+</div>
+</div>

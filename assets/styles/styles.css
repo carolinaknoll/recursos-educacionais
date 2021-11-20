@@ -35,3 +35,10 @@
   width: 90%;
   background-color: #2a9263;
 }
+
+.grid30by70 {
+  display: grid;
+  grid-template-columns: repeat(2, 30% 70%);
+  grid-column-gap: 15px;
+  align-items: center;
+}
