@@ -23,6 +23,7 @@
 * [Histórico Escolar](Organização_e_Prática/Histórico_Escolar)
 * [Planejamento e Rotina](Organização_e_Prática/Planejamento_e_Rotina)
 * [Calendário - Datas de Importância](Organização_e_Prática/Calendário)
+* [Materiais Escolares - Marcas de Confiança](Organização_e_Prática/Materiais_Escolares)
 
 - Apoio Legal
 
