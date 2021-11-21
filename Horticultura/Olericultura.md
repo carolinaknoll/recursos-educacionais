@@ -595,9 +595,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+|         <img src="https://cdn.wikifarmer.com/wp-content/uploads/2019/05/Spinach-farming-growing-guide.jpg" />         |
+| :-------------------------------------------------------------------------------------------------------------------: |
+| Planta do espinafre [(CC: Wikifarmer)](https://wikifarmer.com/pt-br/como-cultivar-o-espinafre-do-plantio-a-colheita/) |
 
 </div>
 <div>
@@ -622,9 +622,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+|                                                     <img src="https://www.agroolhar.com.br/imgsite/noticias/plantacao-de-vagem.jpg" />                                                     |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Planta do feijão-vagem [(CC: Agroolhar)](https://www.agroolhar.com.br/noticias/exibir.asp?id=9927&noticia=vagem-e-boa-opcao-para-alimentacao-saudavel-e-semente-apresenta-valor-acessivel) |
 
 </div>
 <div>
@@ -646,9 +646,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+| <img src="https://4.bp.blogspot.com/-0K9qeIM-vZM/XEjREvAwzOI/AAAAAAAALPU/60GzKmFqYwYSg6rqBHQf61CpNoj0rwzDQCLcBGAs/s1600/chickpeas-2689498_640.jpg" /> |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                  Planta do grão de bico [(CC: Batata doceira)](https://batatadoceira.blogspot.com/2019/01/cultura-grao-de-bico.html)                  |
 
 </div>
 <div>
@@ -668,9 +668,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+|          <img src="https://t2.uc.ltmcdn.com/pt/images/2/3/4/img_27432_ins_120864_600.jpg" />           |
+| :----------------------------------------------------------------------------------------------------: |
+| Planta do inhame [(CC: Casa umComo)](https://casa.umcomo.com.br/artigo/como-plantar-inhame-27432.html) |
 
 </div>
 <div>
@@ -692,9 +692,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+|  <img src="https://revistacampoenegocios.com.br/wp-content/uploads/2016/09/Foto-01-Cr%C3%A9dito-Luize-Hess5.jpg" />  |
+| :------------------------------------------------------------------------------------------------------------------: |
+| Planta do jiló [(CC: Revista Campo e Negócios)](https://revistacampoenegocios.com.br/a-forma-certa-de-plantar-jilo/) |
 
 </div>
 <div>
@@ -714,9 +714,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+|   <img src="https://www.noticiasdejardim.com/wp-content/uploads/2021/06/piante-lenticchie_NG1.jpg" />   |
+| :-----------------------------------------------------------------------------------------------------: |
+| Planta da lentilha [(CC: Notícias de Jardim)](https://www.noticiasdejardim.com/dicas/plantas-lentilha/) |
 
 </div>
 <div>
@@ -736,9 +736,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+|                        <img src="https://www.embrapa.br/bme_images/thumb/186280040thumb.jpg" />                         |
+| :---------------------------------------------------------------------------------------------------------------------: |
+| Planta da mandioquinha-salsa [(CC: Embrapa)](https://www.embrapa.br/busca-geral/-/busca/tag/mandioquinha-salsa/noticia) |
 
 </div>
 <div>
@@ -761,9 +761,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+| <img src="https://www.coisasdaroca.com/wp-content/uploads/2018/04/DSC07641-e1524679911972-1280x720.jpg" /> |
+| :--------------------------------------------------------------------------------------------------------: |
+|        Planta do maxixe [(CC: Coisas da Roça)](https://www.coisasdaroca.com/alimentos/maxixe.html)         |
 
 </div>
 <div>
@@ -789,9 +789,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+|  <img src="https://blog.plantei.com.br/wp-content/uploads/2016/05/plantar-melancia.jpg" />  |
+| :-----------------------------------------------------------------------------------------: |
+| Planta da melancia [(CC: Blog Plantei)](https://blog.plantei.com.br/como-plantar-melancia/) |
 
 </div>
 <div>
@@ -820,9 +820,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+| <img src="https://lh3.googleusercontent.com/proxy/XztDnUZ9wxiSElh7QJUtWKz0XZfEvUjEVM7SgaAab_dSBQ_8el8XEFZVnTmC-EZE4y257c6i2KPb25T7X3fuH1zwWoTSeNSOgxqiQikT6pw" /> |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|               Planta do melão [(CC: Planta Sonya)](http://www.plantasonya.com.br/frutiferas/caracteristicas-e-cultivo-do-melao-cucumis-mello.html)                |
 
 </div>
 <div>
@@ -853,9 +853,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+|                       <img src="https://blog.belagro.com.br/content/uploads/2019/01/escolha-da-sement-de-milho.jpg" />                        |
+| :-------------------------------------------------------------------------------------------------------------------------------------------: |
+| Planta do milho-verde [(CC: Blog Belagro)](https://blog.belagro.com.br/a-importancia-da-escolha-da-semente-de-milho-para-o-sucesso-da-safra/) |
 
 </div>
 <div>
@@ -883,9 +883,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+|             <img src="https://blog.jardineiroamador.com.br/wp-content/uploads/2020/03/morango-em-vaso.jpg" />              |
+| :------------------------------------------------------------------------------------------------------------------------: |
+| Planta do morango [(CC: Blog Jardineiro Amador)](https://blog.jardineiroamador.com.br/como-plantar-morangos-em-canteiros/) |
 
 </div>
 <div>
@@ -913,9 +913,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+|      <img src="https://gardenandhappy.com/wp-content/uploads/2019/05/mustard-848836_1920.jpg" />      |
+| :---------------------------------------------------------------------------------------------------: |
+| Planta da mostarda [(CC: Garden and Happy)](https://gardenandhappy.com/mustard-plant-as-a-trap-crop/) |
 
 </div>
 <div>
@@ -941,9 +941,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+| <img src="https://www.fazfacil.com.br/wp-content/uploads/2013/06/20150908-nabo-exib.jpg" /> |
+| :-----------------------------------------------------------------------------------------: |
+|  Planta do nabo [(CC: Faz Fácil)](https://www.fazfacil.com.br/jardim/nabo-brassica-rapa/)   |
 
 </div>
 <div>
@@ -970,9 +970,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+| <img src="https://www.fazfacil.com.br/wp-content/uploads/2013/01/207365_ogrek.jpg" /> |
+| :-----------------------------------------------------------------------------------: |
+|    Planta do pepino [(CC: Faz Fácil)](https://www.fazfacil.com.br/jardim/pepino/)     |
 
 </div>
 <div>
@@ -999,9 +999,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+|      <img src="https://t2.uc.ltmcdn.com/pt/images/9/8/9/img_como_plantar_pimenta_biquinho_25989_orig.jpg" />      |
+| :---------------------------------------------------------------------------------------------------------------: |
+| Planta da pimenta [(CC: Casa umComo)](https://casa.umcomo.com.br/artigo/como-plantar-pimenta-biquinho-25989.html) |
 
 </div>
 <div>
@@ -1028,9 +1028,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+|                  <img src="https://ciclovivo.com.br/wp-content/uploads/2017/05/iStock-530253685.jpg" />                   |
+| :-----------------------------------------------------------------------------------------------------------------------: |
+| Planta do pimentão [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/como-plantar-pimentao-organico-em-casa/) |
 
 </div>
 <div>
@@ -1054,9 +1054,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+|            <img src="https://ciclovivo.com.br/wp-content/uploads/2018/11/iStock-927861078.jpg" />             |
+| :-----------------------------------------------------------------------------------------------------------: |
+| Planta do quiabo [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/como-plantar-quiabo-organico/) |
 
 </div>
 <div>
@@ -1080,9 +1080,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+| <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIwBuoX5PKf-iFcAdjPQFZvrDPnqTmntQM2A&usqp=CAU" /> |
+| :---------------------------------------------------------------------------------------------------------------: |
+|      Planta do rabanete [(CC: A Cientista Agrícola)](https://acientistaagricola.pt/como-cultivar-rabanetes/)      |
 
 </div>
 <div>
@@ -1104,9 +1104,9 @@ Olericultura é a arte de cultivar hortaliças. Como por exemplo, podemos citar 
 <div class="grid30by70">
 <div>
 
-|                     <img src="https://ciclovivo.com.br/wp-content/uploads/2017/12/iStock-610878486.jpg" />                      |
-| :-----------------------------------------------------------------------------------------------------------------------------: |
-| Planta da abóbora madura [(CC: Ciclovivo)](https://ciclovivo.com.br/mao-na-massa/horta/aprenda-como-plantar-abobora-organica/") |
+|        <img src="https://t2.uc.ltmcdn.com/pt/images/9/7/3/como_plantar_repolho_19379_600.jpg" />         |
+| :------------------------------------------------------------------------------------------------------: |
+| Planta do repolho [(CC: Casa umComo)](https://casa.umcomo.com.br/artigo/como-plantar-repolho-19379.html) |
 
 </div>
 <div>
