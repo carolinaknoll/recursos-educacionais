@@ -23,6 +23,36 @@ Floricultura é a arte de cultivar as flores. Como por exemplo, podemos citar fl
 
 ---
 
+### Áster (18°C a 30°C)
+
+A áster é conhecida por ser a flor da simplicidade. Também chamada de flor estelar, devido ao seu formato, na linguagem das flores simboliza amor, paciência, lealdade, sabedoria, luz e poder. Para os chineses, ela é considerada o símbolo da fidelidade ([fonte](https://www.greenme.com.br/morar/como-plantar/70058-aster-a-flor-da-simplicidade-e-outros-significados-como-plantar/)).
+
+<div class="grid30by70">
+<div>
+
+|     <img src="https://flowerpowerdaily.com/wp-content/uploads/2020/09/asters-931622_1280.jpg" />      |
+| :---------------------------------------------------------------------------------------------------: |
+| Flor de Áster [(CC: Flower Power Daily)](https://flowerpowerdaily.com/aster-the-flower-of-september/) |
+
+</div>
+<div>
+
+- **Plantio**:
+  - Início ou meio da primavera.
+  - No solo, faça covas de 1 cm de profundidade e use um espaçamento de 1 a 3 metros, dependendo da variedade.
+  - Em vaso, coloque brita no fundo, uma manta de bidim ou poliéster para impedir que a terra tape os buraquinhos de drenagem da água do vaso, a terra adubada e a semente ou muda da áster. Após, cubra a terra do vaso com folhas secas para proteger a planta.
+- **Germinação**: 14 dias.
+- **Florescer**: Verão e outono.
+- **Luminosidade**: Sombra parcial, desde que haja boa luminosidade.
+- **Irrigação**:
+  - Em épocas quentes, regularmente. Em épocas mais amenas, algumas vezes por semana.
+  - É sensível a muita água, e resistente a pequenos períodos de seca.
+
+</div>
+</div>
+
+---
+
 ### Flor
 
 - **Plantio**:
