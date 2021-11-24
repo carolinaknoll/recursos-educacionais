@@ -23,6 +23,37 @@ Floricultura é a arte de cultivar as flores. Como por exemplo, podemos citar fl
 
 ---
 
+### Agapanto (20°C a 35°C)
+
+O Agapanto é uma excelente planta perene para delinear caminhos e adornar as partes baixas dos muros, além de ser útil para confeccionar belos arranjos florais em vasos ou buquês. Por ser uma planta mais rústica, é de fácil manutenção e resistente à curtos períodos de baixas temperaturas e secas, além de sua floração durar um longo tempo. Podem ser encontradas variações cujas flores são brancas, lilases ou azuis.
+
+<div class="grid30by70">
+<div>
+
+|                <img src="http://3.bp.blogspot.com/-jq8oGS5n5Bg/UVv_D15YfGI/AAAAAAAAJgY/d8rioX5r1QY/s1600/AGAPANTOS-5.jpg" />                |
+| :-----------------------------------------------------------------------------------------------------------------------------------------: |
+| Flor de Agapanto [(CC: Um Jardim para Cuidar)](http://umjardimparacuidar.blogspot.com/2013/04/uma-flor-indispensavel-ao-seu-jardim-no.html) |
+
+</div>
+<div>
+
+- **Plantio**:
+  - Primavera ao outono.
+  - Prepare o solo com uma parte de terra e uma parte de composto orgânico.
+  - Fertilize sempre no início da primavera para proporcionar suas belas floradas.
+  - No solo, faça covas de 1 cm de profundidade e use um espaçamento de 1 a 3 metros, dependendo da variedade.
+  - Em vaso, coloque brita no fundo, uma manta de bidim ou poliéster para impedir que a terra tape os buraquinhos de drenagem da água do vaso, a terra adubada e a semente ou muda da áster. Após, cubra a terra do vaso com folhas secas para proteger a planta.
+- **Germinação**: 14 dias.
+- **Florescer**: Primavera e verão.
+- **Luminosidade**: Ensolarado ou de sombra parcial, desde que haja alta luminosidade.
+- **Irrigação**:
+  - Em épocas quentes, regularmente. Em épocas mais amenas, algumas vezes por semana.
+
+</div>
+</div>
+
+---
+
 ### Áster (18°C a 30°C)
 
 A áster é conhecida por ser a flor da simplicidade. Também chamada de flor estelar, devido ao seu formato, na linguagem das flores simboliza amor, paciência, lealdade, sabedoria, luz e poder. Para os chineses, ela é considerada o símbolo da fidelidade ([fonte](https://www.greenme.com.br/morar/como-plantar/70058-aster-a-flor-da-simplicidade-e-outros-significados-como-plantar/)).
