@@ -43,7 +43,6 @@ Ainda não existem itens para esta categoria.
 [Loja Modesta](https://www.lojamodesta.com.br/)  
 [Maria Graciosa](https://www.mariagraciosa.com/)  
 [Maria Modesta](https://www.mariamodesta.com.br/)  
-[Mater Praxis - Moda Gestante e Lactante](https://www.lojamaterpraxis.com.br/)  
 [Menina Moça Moda](https://www.meninamocamoda.com.br/)  
 [Modesta Dama](https://www.modestadama.com.br/)  
 [Modesta Flor](https://modestaflorstore.com.br/)  
@@ -63,6 +62,11 @@ Ainda não existem itens para esta categoria.
 ##### Infantil
 
 [Becassine Store](https://linktr.ee/becassine.store)
+
+##### Maternidade
+
+[Florescer Ecológicos - Fraldas Ecológicas](https://www.florescerecologicos.com.br/)  
+[Mater Praxis - Moda Gestante e Lactante](https://www.lojamaterpraxis.com.br/)
 
 ---
 
@@ -84,3 +88,7 @@ Ainda não existem itens para esta categoria.
 #### Serviços de Impressão
 
 [Fábrica do Livro](https://www.fabricadolivro.com.br/) - Uma opção a se considerar caso a família não deseje investir em uma impressora. Impressão de apostilas, cadernos, manuais e banners, dentre outros tipos de impresso.
+
+#### Papelaria e Itens para Casa
+
+[MaiorGlorie](https://www.maiorglorie.com.br/) - Cadernos A5 e A4, listas de afazeres dos santos, xícaras e almofadas.

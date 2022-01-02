@@ -63,6 +63,8 @@ A lista abaixo possui títulos que, apesar de não terem sido lidos integralment
 
 Os livros abaixo abordam temas mais aprofundados, como explicações sobre as virtudes, tradições e reflexões mais detalhadas. São bons livros para alunos pré-adolescentes, adolescentes ou jovens adultos que buscam explicações e motivos para as coisas.
 
+- **A partir dos dez anos**
+  - [A Montanha das Dezoito Virtudeds](https://www.amazon.com.br/montanha-das-dezoito-virtudes-ebook/dp/B005LVN15O/)
 - **A partir dos doze anos**
   - [Meninas Corajosas](https://www.amazon.com.br/Meninas-Corajosas-Jennifer-Gerelds/dp/8578607090/)
   - [Kit Mentiras em que as Meninas Acreditam e a Verdade que as Liberta + Guia Para as Mães](https://www.amazon.com.br/Mentiras-Meninas-Acreditam-Verdade-Liberta/dp/6586136768/)
