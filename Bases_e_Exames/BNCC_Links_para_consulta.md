@@ -4,6 +4,10 @@ A lista abaixo apresenta os links que levam às bases oficiais dos conteúdos ex
 
 ---
 
+## Resumos
+
+- [Playlist com os principais conceitos estudados](https://www.youtube.com/playlist?list=PLa1HniYmxA_oVFIdnaJ9kHRfPlsXlkjla) de acordo com as normas da BNCC, desde o sexto ano até o terceirão.
+
 ## Ensino Fundamental
 
 ### Tabelas

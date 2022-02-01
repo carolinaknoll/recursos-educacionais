@@ -12,6 +12,7 @@ A lista de recomendações abaixo apresenta livros que já foram lidos e utiliza
 
 - **Livros sem idade definida** - podem ser lidos e acompanhados por todos da família.
   - [Livros do Clubinho Literário](https://clubinholiterario.com/) - Clube de assinatura de livros mensais recomendado por mães e pais como Déa Camargos, Juliano Cazarré, Sâmia Marsili e Ana Campagnolo.
+  - [Desbravando o Mundo Livre](https://www.desbravandomundolivre.com.br/)
 
 ---
 

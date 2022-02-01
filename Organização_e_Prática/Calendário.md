@@ -10,6 +10,10 @@ Há diversos calendários que buscam relembrar datas especiais. A intenção da 
 
 ### Eventos anuais com datas móveis
 
+#### Calendário Escolar
+
+- **[Exemplo de Calendário Escolar](https://www.calendarr.com/brasil/datas-comemorativas-escolares/)** - Os calendários escolares usualmente dão relevância a certas datas ao longo do ano. Esta é uma lista para que a família as relembre e decida quanto à utilização de cada uma das datas apresentadas.
+
 #### Calendário Secular
 
 - **Troca de estações**
