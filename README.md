@@ -1,11 +1,10 @@
 <h1 align="center">
   Recursos Educacionais
 </h1>
-<h2 align="center">
-  Livros, recursos de apoio e comunidades ligadas a autoestudo e educação domiciliar.
-</h2>
 
----
+<h3 align="center">
+  Livros, recursos de apoio e comunidades ligadas a autoestudo e educação domiciliar.
+</h3>
 
 <div align="center">
 
