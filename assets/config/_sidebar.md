@@ -1,6 +1,6 @@
 - Início
 
-* [Página Inicial](/)
+* [Página Inicial](Início/Página_Inicial)
 * [Contribuições](Início/CONTRIBUTING)
 * [Mapa Amigável](Início/Mapa_Amigável)
 * [Contribuidores e Agradecimentos](Início/Contribuidores_e_Agradecimentos)

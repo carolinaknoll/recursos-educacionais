@@ -42,3 +42,17 @@
   grid-column-gap: 15px;
   align-items: center;
 }
+
+.presentationHeader {
+  max-width: 1000px;
+  margin: auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
+.presentationContent {
+  max-width: 1000px;
+  margin: auto;
+  padding: 0 20px;
+  text-align: left;
+}
