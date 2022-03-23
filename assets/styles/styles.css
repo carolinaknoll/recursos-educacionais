@@ -48,6 +48,7 @@
   margin: auto;
   padding: 0 20px;
   text-align: center;
+  color: #fff;
 }
 
 .presentationContent {
@@ -55,11 +56,18 @@
   margin: auto;
   padding: 0 20px;
   text-align: left;
+  color: #fff;
 }
 
 section.cover {
   min-height: 100vh;
   height: max-content;
+  background: url("../images/cover-bg.jpeg"),
+    linear-gradient(180deg, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.3) 100%) !important;
+  background-blend-mode: color;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover !important;
 }
 
 @media (max-width: 720px) {
