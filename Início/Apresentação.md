@@ -22,6 +22,8 @@ Busca alimentar, com recursos confiáveis, todos aqueles que decidiram seguir po
 
 A educação deve ser uma aventura inesgotável a ser continuadamente trilhada com sincera humildade e empenho. Cabe a cada um empenhar-se no caminho de preparar a si e aos seus próximos para o mundo.
 
+\*Direitos autorais da imagem de fundo: [George Goodwin Kilburne - A Lição](https://images.fineartamerica.com/images-medium-large-5/the-lesson-george-goodwin-kilburne.jpg).
+
 </div>
 
 [Página Inicial](Início/Página_Inicial.md)
