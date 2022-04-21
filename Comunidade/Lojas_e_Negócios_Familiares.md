@@ -20,6 +20,10 @@ Ainda não existem itens para esta categoria.
 
 [Livrarias parceiras do CEDET](https://cedet.com.br/livrarias-virtuais.php) - O CEDET apoia indivíduos, famílias e projetos para que possam ter suas próprias livrarias. Se você conhece ou acompanha algum deles, é possível que exista uma livraria também. A cada compra na livraria de quem você escolhe, parte do valor é destinada a estes indivíduos.
 
+[Sofus Livros](https://sofuslivros.com.br/)
+
+---
+
 #### Alimentos
 
 [Trapistas Boa Vista](https://www.trapistasboavista.com.br/) - Chocolates, geléias e kits produzidos artesanalmente pelas irmãs trapistas.  
@@ -68,12 +72,12 @@ Ainda não existem itens para esta categoria.
 [Florescer Ecológicos - Fraldas Ecológicas](https://www.florescerecologicos.com.br/)  
 [Mater Praxis - Moda Gestante e Lactante](https://www.lojamaterpraxis.com.br/)
 
----
-
 #### Vestuário Religioso
 
 [Veste Sacra Camisetas](https://www.vestesacra.com/)  
 [Camisetas Sabatini](https://www.camisetassabatini.com.br/)
+
+---
 
 #### Artigos Religiosos
 
@@ -81,14 +85,26 @@ Ainda não existem itens para esta categoria.
 [Monte Carmelo Ateliê](https://www.montecarmeloatelie.com/loja/) - Delicados escapulários de tecido.  
 [Acessórios Gratia Plena](https://www.acessoriosgratiaplena.com.br/) - Escapulários, colares e correntes masculinas, femininas e infantis.
 
-#### Livros
+---
 
-[Sofus Livros](https://sofuslivros.com.br/)
+#### Flashcards
+
+[Supermente - Materiais Pedagógicos](https://www.supermente.com.br/)
+
+---
 
 #### Serviços de Impressão
 
 [Fábrica do Livro](https://www.fabricadolivro.com.br/) - Uma opção a se considerar caso a família não deseje investir em uma impressora. Impressão de apostilas, cadernos, manuais e banners, dentre outros tipos de impresso.
 
+---
+
 #### Papelaria e Itens para Casa
 
 [MaiorGlorie](https://www.maiorglorie.com.br/) - Cadernos A5 e A4, listas de afazeres dos santos, xícaras e almofadas.
+
+---
+
+#### Plantio caseiro
+
+[Plantei](https://www.plantei.com.br/) - Permite adquirir sementes de diferentes cultivares e marcas de uma só vez, bem como mudas de plantas e pequenas árvores, vasos, tutores e artigos relacionados.
