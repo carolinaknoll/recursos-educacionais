@@ -4,14 +4,6 @@ _Não deveria ser obrigatório, ao indivíduo que deseja educar-se tendo como fi
 
 ---
 
-<div style="float: right; padding-left: 20px;">
-
-|                  <img height="490" src="./assets/images/Início/William_Adolphe_Bouguereau-The_Thank_Offering.jpeg" />                  |
-| :------------------------------------------------------------------------------------------------------------------------------------: |
-| [William-Adolphe Bouguereau - Oferta de Agradecimento](https://search.creativecommons.org/photos/f1177ec7-91d1-44f9-88db-c2cd490f0820) |
-
-</div>
-
 Ao longo das últimas décadas, vem surgindo um número crescente de pessoas infelizes com os rumos atuais da educação humana. Esta, que outrora era vista como meio de exortar o homem à liberdade para que este assim consiga decidir e dedicar-se aos seus objetivos coerentemente, é agora fadada ao utilitarismo e ao preparo ao mercado.
 
 A educação de hoje é repleta de jogos, cores, vídeos como babás, interações dentro das redes. Deve ser encarada como algo lúdico, uma brincadeira onde as crianças aprendem, aplicam e esquecem. Em boa parte das vezes, não se trata de uma busca séria. Em meio a este caos, há pouco que impeça uma criança ou adolescente de pensar _"se até os colegas mais bagunceiros da sala passam de ano, por que então devo eu me esforçar?"_

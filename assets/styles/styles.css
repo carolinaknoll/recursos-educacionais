@@ -39,6 +39,7 @@
 p,
 h4 {
   font-size: 16px !important;
+  text-align: justify;
 }
 
 .grid30by70 {
@@ -48,35 +49,55 @@ h4 {
   align-items: center;
 }
 
+section.cover .cover-main {
+  margin: 0 !important;
+}
+
+.presentationContainer {
+  width: 50%;
+  background-color: #2a7d58;
+  min-height: 100vh;
+  height: max-content;
+}
+
 .presentationHeader {
   max-width: 1000px;
   margin: auto;
   padding: 0 20px;
   text-align: center;
   color: #fff;
+  padding-top: 40px;
 }
 
 .presentationContent {
   max-width: 1000px;
   margin: auto;
   padding: 0 20px;
-  text-align: left;
   color: #fff;
+}
+
+.presentationContainer a {
+  color: #fff !important;
+  text-decoration: underline !important;
 }
 
 section.cover {
   min-height: 100vh;
   height: max-content;
-  background: url("../images/cover-bg.jpeg"),
-    linear-gradient(180deg, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.4) 100%) !important;
-  background-blend-mode: color;
+  background: url("../images/cover-bg.jpeg") !important;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover !important;
 }
 
+.presentationContent p:last-of-type {
+  margin-bottom: 0;
+  padding-bottom: 30px;
+}
+
 @media (max-width: 720px) {
-  .presentationHeader {
-    padding-top: 40px;
+  .presentationContainer {
+    height: 100%;
+    width: 100%;
   }
 }
