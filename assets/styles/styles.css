@@ -1,10 +1,33 @@
-.sidebar-nav > ul {
+.sidebar {
+  background: rgb(255, 253, 190);
+  background: linear-gradient(
+    183deg,
+    rgba(255, 253, 190, 1) 0%,
+    rgba(169, 214, 158, 1) 100%
+  );
+}
+
+.sidebar ul li a {
+  color: #000;
+}
+
+.sidebar-nav > ul,
+.sidebar-nav > ul > li > p {
   font-weight: bold;
+  font-size: 18px !important;
 }
 
 .sidebar-nav li > a[href^="#/"]:not([href*="?id="]),
 .sidebar-nav li > a[href^="#/"]:not([href*="?id="]) ~ ul a {
   padding: 0 10px;
+}
+
+.sidebar-toggle {
+  background-color: transparent;
+}
+
+.sidebar-toggle span {
+  background-color: #2a7d58;
 }
 
 .app-sub-sidebar li:before {
@@ -13,6 +36,11 @@
 
 .sidebar li {
   margin: 2px 0;
+}
+
+body,
+section {
+  background-color: #eceff1;
 }
 
 .app-name,
@@ -28,6 +56,14 @@
 .active a,
 .markdown-section a {
   color: #2a7d58 !important;
+}
+
+.app-sub-sidebar li.active:before {
+  font-family: "Font Awesome 6 Free";
+  font-size: 14px;
+  content: "\f061";
+  color: #2a9263;
+  margin-top: 1px;
 }
 
 .sidebar-nav hr {

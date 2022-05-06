@@ -1,7 +1,7 @@
 <div class="presentationContainer">
 <div class="presentationHeader">
 
-  <h1>Recursos Educacionais</h1>
+  <h1><i class="fa-solid fa-book-open-reader"></i> Recursos Educacionais</h1>
 
 ---
 

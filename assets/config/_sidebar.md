@@ -1,11 +1,11 @@
-- Início
+- <i class="fa-solid fa-house"></i> Início
 
 * [Página Inicial](Início/Página_Inicial)
 * [Contribuições](Início/CONTRIBUTING)
 * [Mapa Amigável](Início/Mapa_Amigável)
 * [Contribuidores e Agradecimentos](Início/Contribuidores_e_Agradecimentos)
 
-- Comunidade
+- <i class="fa-solid fa-people-roof"></i> Comunidade
 
 * [Grupos de Apoio](Comunidade/Grupos_de_Apoio)
 * [Influenciadores e Pessoas Públicas](Comunidade/Influenciadores_e_Pessoas_Públicas)
@@ -18,19 +18,19 @@
 * [Palestras e Podcasts](Comunidade/Palestras_e_Podcasts)
 * [Brinquedos e Jogos](Comunidade/Brinquedos_e_Jogos)
 
-- Organização e Prática
+- <i class="fa-solid fa-book-bookmark"></i> Organização e Prática
 
 * [Histórico Escolar](Organização_e_Prática/Histórico_Escolar)
 * [Planejamento e Rotina](Organização_e_Prática/Planejamento_e_Rotina)
 * [Calendário - Datas de Importância](Organização_e_Prática/Calendário)
 * [Materiais Escolares - Marcas de Confiança](Organização_e_Prática/Materiais_Escolares)
 
-- Apoio Legal
+- <i class="fa-solid fa-gavel"></i> Apoio Legal
 
 * [Contatos Úteis](Apoio_Legal/Contatos_Úteis)
 * [Notícias e Artigos](Apoio_Legal/Notícias_e_Artigos)
 
-- Bases e Exames
+- <i class="fa-solid fa-file-pen"></i> Bases e Exames
 
 * [BNCC - Links para consulta](Bases_e_Exames/BNCC_Links_para_consulta)
 * [ENCCEJA - Comprovação Ens. Fund. e Médio](Bases_e_Exames/ENCCEJA)
@@ -38,7 +38,7 @@
 
 ---
 
-- Disciplinas Fundamentais
+- <i class="fa-solid fa-seedling"></i> Disciplinas Fundamentais
 
 - Artes
 
@@ -102,7 +102,7 @@
 
 ---
 
-- Disciplinas Médias
+- <i class="fa-solid fa-tree"></i> Disciplinas Médias
 
 - Biologia
 
@@ -121,7 +121,7 @@
 
 ---
 
-- Disciplinas Eletivas
+- <i class="fa-solid fa-brain"></i> Disciplinas Eletivas
 
 - Conhecimentos Práticos e Gerais
 
